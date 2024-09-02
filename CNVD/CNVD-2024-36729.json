@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Mozilla Firefox安全绕过漏洞（CNVD-2024-36729）",
+    "CNVD-ID": "CNVD-2024-36729",
+    "公开日期": "2024-08-30",
+    "危害级别": "中",
+    "影响产品": "Mozilla Firefox <127\nMozilla Firefox ESR <115.12\nMozilla Thunderbird <115.12",
+    "CVE ID": "CVE-2024-5691",
+    "漏洞描述": "Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。\nMozilla Firefox存在安全绕过漏洞，攻击者可利用该漏洞绕过安全限制打开新窗口。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://bugzilla.mozilla.org/show_bug.cgi?id=1888695",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/security/advisories/mfsa2024-25/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/585226",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-06-14",
+    "收录时间": "2024-08-28",
+    "更新时间": "2024-08-28",
+    "漏洞附件": "(无附件)"
+}

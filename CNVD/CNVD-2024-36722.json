@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Mozilla Firefox和Thunderbird安全绕过漏洞（CNVD-2024-36722）",
+    "CNVD-ID": "CNVD-2024-36722",
+    "公开日期": "2024-08-30",
+    "危害级别": "高",
+    "影响产品": "Mozilla Firefox <128\nmozilla Thunderbird < 128",
+    "CVE ID": "CVE-2024-6608",
+    "漏洞描述": "Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。\nMozilla Firefox存在安全漏洞，该漏洞是由于使用iframe中的pointerlock移动光标时出错造成的。攻击者可利用该漏洞绕过安全限制。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://bugzilla.mozilla.org/show_bug.cgi?id=1743329",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/security/advisories/mfsa2024-29/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/585191",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-07-12",
+    "收录时间": "2024-08-28",
+    "更新时间": "2024-08-28",
+    "漏洞附件": "(无附件)"
+}

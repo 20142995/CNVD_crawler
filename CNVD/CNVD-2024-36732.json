@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Mozilla Firefox拒绝服务漏洞（CNVD-2024-36732）",
+    "CNVD-ID": "CNVD-2024-36732",
+    "公开日期": "2024-08-30",
+    "危害级别": "高",
+    "影响产品": "Mozilla Firefox <125",
+    "CVE ID": "CVE-2024-3860",
+    "漏洞描述": "Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。\nMozilla Firefox存在拒绝服务漏洞，该漏洞源于对象初始化期间内存不足的情况可能会导致形状列表为空。攻击者可利用该漏洞导致崩溃。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://bugzilla.mozilla.org/show_bug.cgi?id=1881417",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/en-US/security/advisories/mfsa2024-18/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/585241",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-04-18",
+    "收录时间": "2024-08-28",
+    "更新时间": "2024-08-28",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Mozilla Firefox for Android权限提升漏洞",
+    "CNVD-ID": "CNVD-2024-36720",
+    "公开日期": "2024-08-30",
+    "危害级别": "高",
+    "影响产品": "Mozilla Firefox <128",
+    "CVE ID": "CVE-2024-6605",
+    "漏洞描述": "Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。\nMozilla Firefox for Android存在权限提升漏洞，该漏洞是由于与权限提示的即时交互造成的。攻击者可利用该漏洞在系统上获得更高的权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://bugzilla.mozilla.org/show_bug.cgi?id=1836786",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/security/advisories/mfsa2024-29/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/585181",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-07-12",
+    "收录时间": "2024-08-28",
+    "更新时间": "2024-08-28",
+    "漏洞附件": "(无附件)"
+}

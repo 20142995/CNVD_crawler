@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Mozilla Firefox和Thunderbird安全绕过漏洞",
+    "CNVD-ID": "CNVD-2024-36721",
+    "公开日期": "2024-08-30",
+    "危害级别": "低",
+    "影响产品": "Mozilla Firefox <128\nmozilla Thunderbird < 128",
+    "CVE ID": "CVE-2024-6614",
+    "漏洞描述": "Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。Mozilla Thunderbird是一套从Mozilla Application Suite独立出来的电子邮件客户端软件。\nMozilla Firefox和Thunderbird存在安全绕过漏洞，攻击者可利用该漏洞绕过由堆栈帧列表错误引起的安全限制。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://bugzilla.mozilla.org/show_bug.cgi?id=1902983",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/security/advisories/mfsa2024-29/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/585186",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-07-12",
+    "收录时间": "2024-08-28",
+    "更新时间": "2024-08-28",
+    "漏洞附件": "(无附件)"
+}

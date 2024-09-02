@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Broadcom Symantec Privileged Access Management存在未明漏洞（CNVD-2024-36946）",
+    "CNVD-ID": "CNVD-2024-36946",
+    "公开日期": "2024-08-30",
+    "危害级别": "低",
+    "影响产品": "Broadcom Symantec Privileged Access Management",
+    "CVE ID": "CVE-2024-36458",
+    "漏洞描述": "Broadcom Symantec Privileged Access Management（Broadcom Symantec PAM）是美国博通（Broadcom）公司的一种安全软件。通过保护敏感的管理凭据、控制特权用户访问、主动实施安全策略以及监控和记录虚拟、云和物理环境中的特权用户活动来帮助防止安全漏洞。\nBroadcom Symantec Privileged Access Management存在安全漏洞，恶意的低权限PAM攻击者可利用该漏洞执行服务器升级相关的操作。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/24678",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/24678",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/585546",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-07-19",
+    "收录时间": "2024-08-30",
+    "更新时间": "2024-08-30",
+    "漏洞附件": "(无附件)"
+}
