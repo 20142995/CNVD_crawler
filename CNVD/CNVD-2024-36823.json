@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Triangle MicroWorks SCADA Data Gateway信息泄露漏洞",
+    "CNVD-ID": "CNVD-2024-36823",
+    "公开日期": "2024-08-29",
+    "危害级别": "中",
+    "影响产品": "Triangle MicroWorks SCADA Data Gateway",
+    "CVE ID": "CVE-2023-39467",
+    "漏洞描述": "Triangle MicroWorks SCADA Data Gateway是美国Triangle MicroWorks公司的一款SCADA数据网关产品。\nTriangle MicroWorks SCADA Data Gateway存在信息泄露漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-39467",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.trianglemicroworks.com/products/scada-data-gateway/what's-new",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/585356",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-07-19",
+    "收录时间": "2024-08-29",
+    "更新时间": "2024-08-29",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Rockwell Automation GuardLogix 5580和ControlLogix 5580拒绝服务漏洞",
+    "CNVD-ID": "CNVD-2024-36821",
+    "公开日期": "2024-08-29",
+    "危害级别": "高",
+    "影响产品": "Rockwell Automation ControlLogix 5580 34.011\nRockwell Automation GuardLogix 5580 34.011",
+    "CVE ID": "CVE-2024-40619",
+    "漏洞描述": "Rockwell Automation ControlLogix和Rockwell Automation GuardLogix都是美国罗克韦尔（Rockwell Automation）公司的产品。Rockwell Automation ControlLogix是一款控制器。Rockwell Automation GuardLogix是一系列控制器。\nRockwell Automation GuardLogix 5580和ControlLogix 5580存在拒绝服务漏洞，攻击者可利用该漏洞将格式错误的CIP数据包通过网络发送到设备并导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-40619/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD%201690.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/585346",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-21",
+    "收录时间": "2024-08-29",
+    "更新时间": "2024-08-29",
+    "漏洞附件": "(无附件)"
+}

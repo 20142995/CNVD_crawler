@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "微软支持诊断工具远程代码执行漏洞",
+    "CNVD-ID": "CNVD-2022-42150",
+    "公开日期": "2022-05-31",
+    "危害级别": "高",
+    "影响产品": "Microsoft Windows 7 SP1\nMicrosoft Windows 8.1 \nMicrosoft Windows RT 8.1 SP0\nMicrosoft Windows Server 2012 R2\nMicrosoft Windows 10 1607\nMicrosoft Windows Server 2012 \nMicrosoft Windows Server 2016 (Server Core installation) \nMicrosoft Windows 10  \nMicrosoft Windows Server 2016 null\nMicrosoft Windows Server 2008 R2 SP1\nMicrosoft Windows Server 2008 SP2\nMicrosoft Windows Server 2019 \nMicrosoft Windows 10 1809\nMicrosoft Windows 10 1809\nMicrosoft Windows 10 20H2\nMicrosoft Windows Server 20H2\nMicrosoft Windows 10 21H1\nMicrosoft Windows Server 2019  (Server Core installation) \nMicrosoft Windows Server 2022 \nMicrosoft Windows 11 \nMicrosoft Windows 10 21H2\nMicrosoft Windows Server 2022 (Server Core installation) \nMicrosoft Windows Server 2022 Azure Edition Core Hotpatch",
+    "CVE ID": "CVE-2022-30190",
+    "漏洞描述": "微软支持诊断工具（MSDT，Microsoft Support Diagnostic Tool）是一种实用程序，用于排除故障并收集诊断数据，供专业人员分析和解决问题。Microsoft Office是由微软公司开发的一款常用办公软件。\n微软支持诊断工具存在远程代码执行漏洞，未经身份验证的攻击者利用该漏洞，诱使用户直接访问或者预览恶意的Office文档，通过恶意Office文档中的远程模板功能，从服务器获取包含恶意代码的HTML文件并执行，从而实现以当前用户权限下的任意代码执行攻击。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://msrc-blog.microsoft.com/2022/05/30/guidance-for-cve-2022-30190-microsoft-support-diagnostic-tool-vulnerability/",
+    "漏洞解决方案": "目前，微软公司已发布了漏洞缓解措施，暂未发布漏洞补丁：\nhttps://msrc-blog.microsoft.com/2022/05/30/guidance-for-cve-2022-30190-microsoft-support-diagnostic-tool-vulnerability/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2022-05-31",
+    "收录时间": "2022-05-31",
+    "更新时间": "2022-06-14",
+    "漏洞附件": "(无附件)"
+}

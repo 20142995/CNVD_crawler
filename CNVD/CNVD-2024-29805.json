@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "OpenSSH远程代码执行漏洞（CNVD-2024-29805）",
+    "CNVD-ID": "CNVD-2024-29805",
+    "公开日期": "2024-07-01",
+    "危害级别": "高",
+    "影响产品": "OpenSSH OpenSSH >=8.5p1 ，<9.8p1",
+    "CVE ID": "CVE-2024-6387",
+    "漏洞描述": "OpenSSH是一套基于安全外壳（SSH）协议的安全网络实用程序，它提供加密功能以确保隐私和安全的文件传输，使其成为远程服务器管理和安全数据通信的必备工具。\nOpenSSH远程代码执行漏洞，未经身份验证的攻击者可以利用该漏洞在Linux系统上以root身份执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://blog.qualys.com/vulnerabilities-threat-research/2024/07/01/regresshion-remot\ne-unauthenticated-code-execution-vulnerability-in-openssh-server\n https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新： \nhttps://www.openssh.com/releasenotes.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/564521",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-07-01",
+    "收录时间": "2024-07-02",
+    "更新时间": "2024-07-03",
+    "漏洞附件": "(无附件)"
+}

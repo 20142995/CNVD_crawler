@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apache HTTP Server存在未明漏洞（CNVD-2024-36387）",
+    "CNVD-ID": "CNVD-2024-36387",
+    "公开日期": "2024-08-26",
+    "危害级别": "高",
+    "影响产品": "Apache HTTP Server >=2.4.0，<=2.4.59",
+    "CVE ID": "CVE-2024-38475",
+    "漏洞描述": "Apache HTTP Server是美国阿帕奇（Apache）基金会的一款开源网页服务器。该服务器具有快速、可靠且可通过简单的API进行扩充的特点。\nApache HTTP Server存在安全漏洞，攻击者可利用该漏洞将URL映射到允许由服务器提供服务的文件系统位置。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-38475/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://httpd.apache.org/security/vulnerabilities_24.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/584576",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-07-05",
+    "收录时间": "2024-08-26",
+    "更新时间": "2024-08-26",
+    "漏洞附件": "(无附件)"
+}

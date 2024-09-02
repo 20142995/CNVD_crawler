@@ -1,0 +1,17 @@
+{
+    "漏洞标题": "NavCoin 资源管理存在逻辑缺陷漏洞",
+    "CNVD-ID": "CNVD-2020-29890",
+    "公开日期": "2020-05-26",
+    "危害级别": "低",
+    "影响产品": "NavCoin NavCoin <=4.3.0",
+    "漏洞描述": "NavCoin是NavCoin社区的一款开源加密货币\n。NavCoin 4.3.0及之前版本中存在安全漏洞。攻击者可利用该漏洞造成拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "参考链接：\nhttps://medium.com/@dsl_uiuc/fake-stake-attacks-on-chain-based-proof-of-stake-cryptocurrencies-b8b05723f806\nhttp://fc19.ifca.ai/preproceedings/180-preproceedings.pdf\nhttps://nvd.nist.gov/vuln/detail/CVE-2018-19155",
+    "漏洞解决方案": "目前厂商已发布升级补丁以修复漏洞，详情请关注厂商主页：\nhttps://navcoin.org",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/494",
+    "验证信息": "已验证",
+    "报送时间": "2020-05-26",
+    "收录时间": "2020-05-26",
+    "更新时间": "2020-11-03",
+    "漏洞附件": "附件暂不公开"
+}

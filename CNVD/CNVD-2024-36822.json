@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Rockwell Automation Pavilion8存在未明漏洞",
+    "CNVD-ID": "CNVD-2024-36822",
+    "公开日期": "2024-08-29",
+    "危害级别": "中",
+    "影响产品": "Rockwell Automation Pavilion8 5.20",
+    "CVE ID": "CVE-2024-40620",
+    "漏洞描述": "Rockwell Automation Pavilion8是美国罗克韦尔（Rockwell Automation）公司的一个模型预测控制台。\nRockwell Automation Pavilion8 5.20版本存在安全漏洞，该漏洞源于敏感信息缺乏加密，攻击者可利用该漏洞导致在代理服务器的日志中可看到在控制台和仪表板之间发送的数据。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-40620/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD%201691.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/585351",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-21",
+    "收录时间": "2024-08-29",
+    "更新时间": "2024-08-29",
+    "漏洞附件": "(无附件)"
+}
