@@ -36,5 +36,5 @@ jobs:
         git add .
         MESSAGE=$(cat /tmp/output.log)
         COMMIT_MESSAGE="Auto Updated:\n$MESSAGE"
-        git diff-index --quiet HEAD || git commit -m "$COMMIT_MESSAGE"
+        git diff-index --quiet HEAD || git commit -m "$(echo -e "$COMMIT_MESSAGE")"
         git push
