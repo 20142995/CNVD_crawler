@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM InfoSphere Information Server拒绝服务漏洞（CNVD-2024-37058）",
+    "CNVD-ID": "CNVD-2024-37058",
+    "公开日期": "2024-09-02",
+    "危害级别": "中",
+    "影响产品": "IBM InfoSphere Information Server 11.7",
+    "CVE ID": "CVE-2024-40705",
+    "漏洞描述": "IBM InfoSphere Information Server是美国国际商业机器（IBM）公司的一套数据整合平台。该平台可用于整合各种渠道获取的数据信息。\nIBM InfoSphere Information Server 11.7版本存在拒绝服务漏洞，攻击者可利用该漏洞消耗文件空间资源。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-40705/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7160855",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/586471",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-21",
+    "收录时间": "2024-09-02",
+    "更新时间": "2024-09-02",
+    "漏洞附件": "(无附件)"
+}
