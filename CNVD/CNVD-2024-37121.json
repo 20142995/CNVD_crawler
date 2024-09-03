@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Mozilla Firefox和Firefox ESR安全绕过漏洞（CNVD-2024-37121）",
+    "CNVD-ID": "CNVD-2024-37121",
+    "公开日期": "2024-09-02",
+    "危害级别": "中",
+    "影响产品": "Mozilla Firefox <129\nMozilla Firefox ESR <128.1\nmozilla Firefox ESR <115.14",
+    "CVE ID": "CVE-2024-7524",
+    "漏洞描述": "Mozilla Firefox是一款开源Web浏览器。Mozilla Firefox ESR是Firefox(Web浏览器)的一个延长支持版本。\nMozilla Firefox和Firefox ESR存在安全绕过漏洞，该漏洞源于在受严格动态模式的内容安全策略保护网站上对用户提供的数据缺乏有效过滤与转义，攻击者可利用此漏洞注入HTML元素实现跨站脚本，从而绕过CSP严格动态保护。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-7524",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/security/advisories/mfsa2024-33/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/586511",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-14",
+    "收录时间": "2024-09-03",
+    "更新时间": "2024-09-03",
+    "漏洞附件": "(无附件)"
+}
