@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Fortinet FortiExtender访问控制错误漏洞（CNVD-2024-37340）",
+    "CNVD-ID": "CNVD-2024-37340",
+    "公开日期": "2024-09-04",
+    "危害级别": "高",
+    "影响产品": "Fortinet FortiExtender >=7.4.0，<=7.4.2\nFortinet FortiExtender >=7.2.0，<=7.2.4\nFortinet FortiExtender >=7.0.0，<=7.0.4\nFortinet FortiExtender >=4.2.0，<=4.2.6\nFortinet FortiExtender >=4.1.1，<=4.1.9",
+    "CVE ID": "CVE-2024-23663",
+    "漏洞描述": "Fortinet FortiExtender是美国飞塔（Fortinet）公司的一款无线WAN（广域网）扩展器设备。\nFortinet FortiExtender存在访问控制错误漏洞，该漏洞源于存在不当访问控制，攻击者可利用该漏洞通过精心设计的HTTP请求创建具有提升权限的用户。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-23663",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.com/psirt/FG-IR-23-459",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/587496",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-07-12",
+    "收录时间": "2024-09-04",
+    "更新时间": "2024-09-04",
+    "漏洞附件": "(无附件)"
+}

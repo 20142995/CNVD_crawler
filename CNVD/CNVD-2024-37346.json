@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Fortinet FortiOS加密问题漏洞",
+    "CNVD-ID": "CNVD-2024-37346",
+    "公开日期": "2024-09-04",
+    "危害级别": "低",
+    "影响产品": "Fortinet FortiOS 6.0.*\nFortinet Fortinet FortiOS >=7.0.0，<=7.0.5\nFortinet FortiOS >=6.4.0，<=6.4.9\nFortinet FortiOS 7.2.0\nFortinet FortiOS 6.2.*",
+    "CVE ID": "CVE-2022-29054",
+    "漏洞描述": "Fortinet FortiOS是美国飞塔（Fortinet）公司的一套专用于FortiGate网络安全平台上的安全操作系统。该系统为用户提供防火墙、防病毒、IPSec/SSLVPN、Web内容过滤和反垃圾邮件等多种安全功能。\nFortinet FortiOS存在加密问题漏洞，该漏洞源于加密DHCP和DNS密钥的函数中缺少加密步骤，拥有加密密钥的攻击者可利用该漏洞对其进行解密。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2022-29054",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.com/psirt/FG-IR-22-080",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/587511",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2023-02-20",
+    "收录时间": "2024-09-04",
+    "更新时间": "2024-09-04",
+    "漏洞附件": "(无附件)"
+}
