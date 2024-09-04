@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Mozilla Firefox拒绝服务漏洞（CNVD-2024-37192）",
+    "CNVD-ID": "CNVD-2024-37192",
+    "公开日期": "2024-09-03",
+    "危害级别": "低",
+    "影响产品": "Mozilla Firefox <125",
+    "CVE ID": "CVE-2024-3858",
+    "漏洞描述": "Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。\nMozilla Firefox存在拒绝服务漏洞，该漏洞是由于js:：CheckTracedThing<js:：Shape>中的指针解引用损坏造成的。攻击者可利用此漏洞导致浏览器崩溃。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://bugzilla.mozilla.org/show_bug.cgi?id=1888892",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/en-US/security/advisories/mfsa2024-18/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/587361",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-04-18",
+    "收录时间": "2024-09-04",
+    "更新时间": "2024-09-04",
+    "漏洞附件": "(无附件)"
+}
