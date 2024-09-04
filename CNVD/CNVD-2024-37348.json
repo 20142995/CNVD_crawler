@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Fortinet FortiWAN操作系统命令注入漏洞（CNVD-2024-37348）",
+    "CNVD-ID": "CNVD-2024-37348",
+    "公开日期": "2024-09-04",
+    "危害级别": "高",
+    "影响产品": "Fortinet FortiWAN 4.5.0\nFortinet FortiWAN  4.4.0\nFortinet FortiWAN  4.3.0\nFortinet FortiWAN  4.2.5\nFortinet FortiWAN  4.2.1\nFortinet FortiWAN  4.1.1\nFortinet FortiWAN  4.0.0\nFortinet FortiWAN >=4.0.0，<=4.0.6\nFortinet FortiWAN >=4.5.0，<4.5.10",
+    "CVE ID": "CVE-2022-33869",
+    "漏洞描述": "Fortinet FortiWAN是美国飞塔（Fortinet）公司的一个用于在不同网络之间执行负载平衡和容错的网络设备。\nFortinet FortiWAN存在安全漏洞，远程攻击者可以利用该漏洞提交特殊的请求，可以应用程序上下文执行任意命令。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2022-33869",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.fortiguard.com/psirt/FG-IR-22-157",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/587536",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2023-02-20",
+    "收录时间": "2024-09-04",
+    "更新时间": "2024-09-04",
+    "漏洞附件": "(无附件)"
+}

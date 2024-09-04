@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Dell Alienware Command Center访问控制错误漏洞（CNVD-2024-37422）",
+    "CNVD-ID": "CNVD-2024-37422",
+    "公开日期": "2024-09-04",
+    "危害级别": "中",
+    "影响产品": "DELL Dell Alienware Command Center <=5.7.3.0",
+    "CVE ID": "CVE-2024-38301",
+    "漏洞描述": "Dell Alienware Command Center是美国戴尔（Dell）公司的一个软件包管理器。\nDell Alienware Command Center 5.7.3.0及之前版本存在访问控制错误漏洞，该漏洞源于包含不当的访问控制，低权限攻击者可利用该漏洞导致本地系统拒绝服务和信息泄露。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-38301",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000225774/dsa-2024-258",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/587556",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-07-19",
+    "收录时间": "2024-09-04",
+    "更新时间": "2024-09-04",
+    "漏洞附件": "(无附件)"
+}

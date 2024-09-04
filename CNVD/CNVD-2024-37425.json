@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Dell PowerProtect Data Domain命令执行漏洞",
+    "CNVD-ID": "CNVD-2024-37425",
+    "公开日期": "2024-09-04",
+    "危害级别": "中",
+    "影响产品": "DELL Dell PowerProtect Data Domain <7.13.0.10\nDELL Dell PowerProtect Data Domain <LTS 7.7.5.25\nDELL Dell PowerProtect Data Domain <LTS 7.10.1.15\nDELL Dell PowerProtect Data Domain 6.2.1.110",
+    "CVE ID": "CVE-2023-44279",
+    "漏洞描述": "Dell PowerProtect Data Domain（Dell PowerProtect DD）是美国戴尔（Dell）公司的一套用于数据保护、备份、存储和重复数据消除的硬件设备。\nDell PowerProtect Data Domain存在命令执行漏洞，该漏洞源于管理员命令行界面中未能正确过滤构造命令特殊字符、命令等。攻击者可利用该漏洞导致系统被攻击者接管。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2023-44279",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000220264/dsa-2023-412-dell-technologies-powerprotect-security-update-for-multiple-security-vulnerabilities",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/587581",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2023-12-18",
+    "收录时间": "2024-09-04",
+    "更新时间": "2024-09-04",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Dell Data Lakehouse加密问题漏洞",
+    "CNVD-ID": "CNVD-2024-37421",
+    "公开日期": "2024-09-04",
+    "危害级别": "中",
+    "影响产品": "DELL Dell Data Lakehouse 1.0.0.0",
+    "CVE ID": "CVE-2024-38302",
+    "漏洞描述": "Dell Data Lakehouse是美国戴尔（Dell）公司的一个完全集成的数据平台。\nDell Data Lakehouse 1.0.0.0版本存在加密问题漏洞，该漏洞源于DDAE中包含敏感数据缺失加密。攻击者可利用该漏洞导致信息泄露。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-38302",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000227053/dsa-2024-303-security-update-for-dell-data-lakehouse-system-software-for-multiple-security-vulnerabilities",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/587566",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-07-24",
+    "收录时间": "2024-09-04",
+    "更新时间": "2024-09-04",
+    "漏洞附件": "(无附件)"
+}

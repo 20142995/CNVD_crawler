@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Dell EMC Repository Manager访问控制错误漏洞",
+    "CNVD-ID": "CNVD-2024-37427",
+    "公开日期": "2024-09-04",
+    "危害级别": "中",
+    "影响产品": "DELL Dell EMC Repository Manager <=3.4.3",
+    "CVE ID": "CVE-2023-44282",
+    "漏洞描述": "Dell EMC Repository Manager是美国戴尔（Dell）公司的Dell OpenManage产品组合内一款可以让IT管理员轻松管理系统更新的应用程序。Dell Repository Manager提供了可搜索的界面，用于创建自定义软件集合，这些集合被称为Dell Update Package (DUP)的捆绑包和存储库。\nDell EMC Repository Manager 3.4.3及之前版本存在访问控制错误漏洞，该漏洞源于安装模块中包含不正确的访问控制，攻击者可利用该漏洞升级权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2023-44282",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000219303/dsa-2023-415-security-update-for-dell-repository-manager-vulnerability",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/587586",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2023-11-20",
+    "收录时间": "2024-09-04",
+    "更新时间": "2024-09-04",
+    "漏洞附件": "(无附件)"
+}

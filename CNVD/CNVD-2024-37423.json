@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Dell Edge Gateway缓冲区溢出漏洞（CNVD-2024-37423）",
+    "CNVD-ID": "CNVD-2024-37423",
+    "公开日期": "2024-09-04",
+    "危害级别": "中",
+    "影响产品": "DELL Dell Edge Gateway 3200\nDELL Dell Edge Gateway 5200",
+    "CVE ID": "CVE-2023-32472",
+    "漏洞描述": "Dell Edge Gateway是美国戴尔（Dell）公司的一系列智能网关设备。旨在聚合、保护、分析和中继来自网络边缘各种传感器和设备的数据。\nDell Edge Gateway BIOS 3200版本、5200版本存在缓冲区溢出漏洞。该漏洞源于应用在处理不受信任的输入时出现边界错误。攻击者可利用该漏洞执行任意代码或提升权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2023-32472",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-in/000214917/dsa-2023-225-security-update-for-dell-bios-edge-gateway-5200-and-edge-gateway-3200",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/587561",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-07-19",
+    "收录时间": "2024-09-04",
+    "更新时间": "2024-09-04",
+    "漏洞附件": "(无附件)"
+}
