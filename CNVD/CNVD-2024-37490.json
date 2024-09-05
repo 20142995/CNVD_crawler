@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "ZOHO ManageEngine ADAudit Plus目录遍历漏洞",
+    "CNVD-ID": "CNVD-2024-37490",
+    "公开日期": "2024-09-05",
+    "危害级别": "中",
+    "影响产品": "Zoho ManageEngine ADAudit Plus <7270",
+    "CVE ID": "CVE-2023-50785",
+    "漏洞描述": "ZOHO ManageEngine ADAudit Plus是美国卓豪（ZOHO）公司的用于简化审计、证明合规性和检测威胁。\nZOHO ManageEngine ADAudit Plus 7270之前版本存在目录遍历漏洞，攻击者可利用该漏洞通过路径遍历查看任意目录的名称。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2023-50785/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.manageengine.com/products/active-directory-audit/cve-2023-50785.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/587691",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-01-25",
+    "收录时间": "2024-09-05",
+    "更新时间": "2024-09-05",
+    "漏洞附件": "(无附件)"
+}

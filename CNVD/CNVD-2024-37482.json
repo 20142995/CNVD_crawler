@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "ZOHO ManageEngine ADAudit Plus SQL注入漏洞（CNVD-2024-37482）",
+    "CNVD-ID": "CNVD-2024-37482",
+    "公开日期": "2024-09-05",
+    "危害级别": "高",
+    "影响产品": "Zoho ManageEngine ADAudit Plus <8000",
+    "CVE ID": "CVE-2024-5490",
+    "漏洞描述": "ZOHO ManageEngine ADAudit Plus是美国卓豪（ZOHO）公司的用于简化审计、证明合规性和检测威胁。\nZOHO ManageEngine ADAudit Plus 8000及之前版本存在SQL注入漏洞，攻击者可利用该漏洞执行自定义查询并访问数据库表项。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-5490/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.manageengine.com/products/active-directory-audit/cve-2024-5490.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/587811",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-27",
+    "收录时间": "2024-09-05",
+    "更新时间": "2024-09-05",
+    "漏洞附件": "(无附件)"
+}
