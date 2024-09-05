@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft .NET Core和Visual Studio拒绝服务漏洞",
+    "CNVD-ID": "CNVD-2024-37491",
+    "公开日期": "2024-09-06",
+    "危害级别": "高",
+    "影响产品": "Microsoft Visual Studio 2022 17.4\nMicrosoft Visual Studio 2022 17.6\nMicrosoft .NET 8.0\nMicrosoft Visual Studio 2022 17.8\nMicrosoft Visual Studio 2022 17.10\nMicrosoft PowerShell 7.4",
+    "CVE ID": "CVE-2024-30105",
+    "漏洞描述": "Microsoft .NET Core和Microsoft Visual Studio都是美国微软（Microsoft）公司的产品。.NET Core是一套免费的开源开发平台。该平台具有多语言支持和跨平台等特点。Microsoft Visual Studio是一款开发工具套件系列产品，也是一个基本完整的开发工具集，它包括了整个软件生命周期中所需要的大部分工具。\nMicrosoft .NET Core和Visual Studio存在拒绝服务漏洞，攻击者可利用该漏洞导致系统拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30105",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30105",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/587856",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-07-12",
+    "收录时间": "2024-09-05",
+    "更新时间": "2024-09-05",
+    "漏洞附件": "(无附件)"
+}
