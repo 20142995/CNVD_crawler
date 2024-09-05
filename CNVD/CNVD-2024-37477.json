@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "SWFTools swfc.c:2587页面缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2024-37477",
+    "公开日期": "2024-09-06",
+    "危害级别": "高",
+    "影响产品": "SWFTools SWFTools 0.9.2",
+    "CVE ID": "CVE-2024-22919",
+    "漏洞描述": "SWFTools是一组用于处理Adobe Flash文件（SWF文件）的实用程序。\nSWFTools 0.9.2版本存在缓冲区溢出漏洞，该漏洞源于swftools/src/swfc.c:2587页面的parseExpression方法未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/matthiaskramm/swftools/issues/209",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/matthiaskramm/swftools/issues/209",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/587801",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-01-24",
+    "收录时间": "2024-09-05",
+    "更新时间": "2024-09-05",
+    "漏洞附件": "(无附件)"
+}

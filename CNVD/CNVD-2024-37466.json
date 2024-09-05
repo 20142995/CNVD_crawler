@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "SWFTools swfc-history.c拒绝服务漏洞",
+    "CNVD-ID": "CNVD-2024-37466",
+    "公开日期": "2024-09-06",
+    "危害级别": "低",
+    "影响产品": "SWFTools SWFTools 0.9.2",
+    "CVE ID": "CVE-2024-26335",
+    "漏洞描述": "SWFTools是一组用于处理Adobe Flash文件（SWF文件）的实用程序。\nSWFTools v0.9.2版本存在拒绝服务漏洞，该漏洞源于文件swftools/src/swfc-history.c中的函数state_free包含分段冲突。攻击者可利用此漏洞导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/matthiaskramm/swftools/issues/222",
+    "漏洞解决方案": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/matthiaskramm/swftools/issues/222",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-03-08",
+    "收录时间": "2024-09-05",
+    "更新时间": "2024-09-05",
+    "漏洞附件": "(无附件)"
+}
