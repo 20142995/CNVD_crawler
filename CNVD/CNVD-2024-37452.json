@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "wolfSSL存在未明漏洞（CNVD-2024-37452）",
+    "CNVD-ID": "CNVD-2024-37452",
+    "公开日期": "2024-09-05",
+    "危害级别": "中",
+    "影响产品": "wolfSSL Inc. WolfSSL <5.6.6",
+    "CVE ID": "CVE-2023-6936",
+    "漏洞描述": "wolfSSL（CyaSSL）是美国wolfSSL公司的一个针对嵌入式系统开发人员使用的小的、可移植的嵌入式SSL编程库。\nwolfSSL 5.6.6之前版本存在安全漏洞，攻击者可利用该漏洞触发5字节的缓冲区越界读取。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.wolfssl.com/docs/security-vulnerabilities/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/wolfSSL/wolfssl/pull/6949/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/587636",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-03-14",
+    "收录时间": "2024-09-05",
+    "更新时间": "2024-09-05",
+    "漏洞附件": "(无附件)"
+}
