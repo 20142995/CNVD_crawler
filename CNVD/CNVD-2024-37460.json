@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "FIWARE Keyrock操作系统命令注入漏洞",
+    "CNVD-ID": "CNVD-2024-37460",
+    "公开日期": "2024-09-05",
+    "危害级别": "高",
+    "影响产品": "FIWARE FIWARE Keyrock <=8.4",
+    "CVE ID": "CVE-2024-42166",
+    "漏洞描述": "FIWARE Keyrock是FIWARE开源的一个负责身份管理的组件。\nFIWARE Keyrock 8.4及之前版本存在操作系统命令注入漏洞，该漏洞源于lib/app_certificates.js中的函数generate_app_certificates未进行正确中和，攻击者可利用该漏洞导致任意命令执行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.ait.ac.at/themen/cyber-security/pentesting/security-advisories",
+    "漏洞解决方案": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.ait.ac.at/themen/cyber-security/pentesting/security-advisories",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-29",
+    "收录时间": "2024-09-05",
+    "更新时间": "2024-09-05",
+    "漏洞附件": "(无附件)"
+}
