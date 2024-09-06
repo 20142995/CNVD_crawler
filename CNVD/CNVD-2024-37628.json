@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Rockwell Automation FactoryTalk View SE输入验证错误漏洞（CNVD-2024-37628）",
+    "CNVD-ID": "CNVD-2024-37628",
+    "公开日期": "2024-09-06",
+    "危害级别": "高",
+    "影响产品": "Rockwell Automation FactoryTalk View SE V11.0",
+    "CVE ID": "CVE-2023-46289",
+    "漏洞描述": "Rockwell Automation FactoryTalk View SE是美国罗克韦尔（Rockwell Automation）公司的一款工业自动化系统视图界面。\nRockwell Automation FactoryTalk View SE存在安全漏洞，远程攻击者可利用该漏洞提交特殊的请求，可使产品脱机，造成拒绝服务攻击。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.cisa.gov/news-events/ics-advisories/icsa-23-299-05",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新： \nhttps://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1140243/loc/en_US#__highlight",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/588231",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2023-10-30",
+    "收录时间": "2024-09-06",
+    "更新时间": "2024-09-06",
+    "漏洞附件": "(无附件)"
+}
