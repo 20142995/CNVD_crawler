@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Cisco NX-OS Software授权问题漏洞（CNVD-2024-37701）",
+    "CNVD-ID": "CNVD-2024-37701",
+    "公开日期": "2024-09-05",
+    "危害级别": "中",
+    "影响产品": "Cisco Cisco NX-OS Software",
+    "CVE ID": "CVE-2024-20411",
+    "漏洞描述": "Cisco NX-OS Software是美国思科（Cisco）公司的一套交换机使用的数据中心级操作系统软件。\nCisco NX-OS Software存在授权问题漏洞，该漏洞源于从Bash shell执行命令时安全限制不足。攻击者可利用该漏洞以root身份执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-20411",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nxos-bshacepe-bApeHSx7",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/587906",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-30",
+    "收录时间": "2024-09-09",
+    "更新时间": "2024-09-09",
+    "漏洞附件": "(无附件)"
+}

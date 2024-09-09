@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Cisco Unified Communications Manager跨站脚本漏洞（CNVD-2024-37702）",
+    "CNVD-ID": "CNVD-2024-37702",
+    "公开日期": "2024-09-05",
+    "危害级别": "中",
+    "影响产品": "Cisco Unified Communications Manager 无",
+    "CVE ID": "CVE-2024-20488",
+    "漏洞描述": "Cisco Unified Communications Manager是美国思科（Cisco）公司的一款统一通信系统中的呼叫处理组件。该组件提供了一种可扩展、可分布和高可用的企业IP电话呼叫处理解决方案。\nCisco Unified Communications Manager存在跨站脚本漏洞，该漏洞源于基于Web的管理界面未正确验证用户提供的输入，攻击者可利用该漏洞通过说服界面用户单击精心制作的链接来进行跨站脚本攻击。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-20488",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cucm-xss-9zmfHyZ",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/587921",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-29",
+    "收录时间": "2024-09-09",
+    "更新时间": "2024-09-09",
+    "漏洞附件": "(无附件)"
+}
