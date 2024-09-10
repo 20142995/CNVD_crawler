@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Adobe Acrobat and Reader越界读取漏洞（CNVD-2024-37812）",
+    "CNVD-ID": "CNVD-2024-37812",
+    "公开日期": "2024-09-10",
+    "危害级别": "中",
+    "影响产品": "Adobe Acrobat DC <=24.002.20991(Windows)\nAdobe Acrobat DC <=24.002.20964(MacOS)\nAdobe Acrobat Reader DC <=24.002.20991(Windows)\nAdobe Acrobat Reader DC <=24.002.20964(MacOS)\nAdobe Acrobat 2024 <=24.001.30123\nAdobe Acrobat 2020 <=20.005.30636(Windows)\nAdobe Acrobat 2020 <=20.005.30635(MacOS)\nAdobe Acrobat Reader 2020 <=20.005.30636(Windows)\nAdobe Acrobat Reader 2020 <=20.005.30635(MacOS)",
+    "CVE ID": "CVE-2024-41835",
+    "漏洞描述": "Adobe Acrobat Reader是美国奥多比（Adobe）公司的一款PDF查看器。该软件用于打印，签名和注释PDF。\nAdobe Acrobat and Reader存在越界读取漏洞，攻击者可利用该漏洞导致内存泄露。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://helpx.adobe.com/security/products/acrobat/apsb24-57.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/acrobat/apsb24-57.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/590106",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-16",
+    "收录时间": "2024-09-10",
+    "更新时间": "2024-09-10",
+    "漏洞附件": "(无附件)"
+}
