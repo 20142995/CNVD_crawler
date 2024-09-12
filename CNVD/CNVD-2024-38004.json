@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens SIMATIC S7-200 SMART Devices拒绝服务漏洞",
+    "CNVD-ID": "CNVD-2024-38004",
+    "公开日期": "2024-09-13",
+    "危害级别": "高",
+    "影响产品": "Siemens SIMATIC S7-200 SMART CPU ST30 (6ES7288-1ST30-0AA0) \nSiemens SIMATIC S7-200 SMART CPU ST30 (6ES7288-1ST30-0AA1) \nSiemens SIMATIC S7-200 SMART CPU ST40 (6ES7288-1ST40-0AA0) \nSiemens SIMATIC S7-200 SMART CPU ST40 (6ES7288-1ST40-0AA1) \nSiemens SIMATIC S7-200 SMART CPU ST60 (6ES7288-1ST60-0AA0) \nSiemens SIMATIC S7-200 SMART CPU ST60 (6ES7288-1ST60-0AA1) \nSiemens SIMATIC S7-200 SMART CPU CR40 (6ES7288-1CR40-0AA0) \nSiemens SIMATIC S7-200 SMART CPU CR60 (6ES7288-1CR60-0AA0) \nSiemens SIMATIC S7-200 SMART CPU SR20 (6ES7288-1SR20-0AA0) \nSiemens SIMATIC S7-200 SMART CPU SR20 (6ES7288-1SR20-0AA1) \nSiemens SIMATIC S7-200 SMART CPU SR30 (6ES7288-1SR30-0AA0) \nSiemens SIMATIC S7-200 SMART CPU SR30 (6ES7288-1SR30-0AA1) \nSiemens SIMATIC S7-200 SMART CPU SR40 (6ES7288-1SR40-0AA0) \nSiemens SIMATIC S7-200 SMART CPU SR40 (6ES7288-1SR40-0AA1) \nSiemens SIMATIC S7-200 SMART CPU SR60 (6ES7288-1SR60-0AA0) \nSiemens SIMATIC S7-200 SMART CPU SR60 (6ES7288-1SR60-0AA1) \nSiemens SIMATIC S7-200 SMART CPU ST20 (6ES7288-1ST20-0AA0) \nSiemens SIMATIC S7-200 SMART CPU ST20 (6ES7288-1ST20-0AA1)",
+    "CVE ID": "CVE-2024-43647",
+    "漏洞描述": "S7-200 SMART series是一系列微型可编程逻辑控制器，可以控制各种小型自动化应用。\nSiemens SIMATIC S7-200 SMART Devices存在拒绝服务漏洞，该漏洞是由于受影响的设备未能正确处理结构不正确的TCP数据包。允许未经身份验证的远程攻击者利用该漏洞造成拒绝服务。要恢复正常运行，需要拔下并重新插入设备的网线。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-969738.html",
+    "漏洞解决方案": "用户可参考如下供应商提供的安全公告获得补丁信息：\nhttps://cert-portal.siemens.com/productcert/html/ssa-969738.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/590381",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-12",
+    "收录时间": "2024-09-12",
+    "更新时间": "2024-09-12",
+    "漏洞附件": "(无附件)"
+}

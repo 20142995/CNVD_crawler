@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens SICAM和SITIPE产品第三方组件缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2024-38012",
+    "公开日期": "2024-09-13",
+    "危害级别": "高",
+    "影响产品": "Siemens ETI5 Ethernet Int. 1x100TX IEC61850 < V05.30\nSIEMENS SICAM SCC < V10.0\nSiemens SITIPE AT",
+    "CVE ID": "CVE-2024-34057",
+    "漏洞描述": "SICAM 8 Power automation platform是一个通用的、基于硬件和软件的、一体化的解决方案，适用于电源领域的所有应用。SICAM A8000 RTUs (Remote Terminal Units) 是用于所有能源供应领域的远程控制和自动化应用的模块化设备。SICAM EGS (Enhanced Grid Sensor) 是配电网中本地变电站的网关。SICAM SCC是一个用于能源自动化解决方案的过程和可视化系统。SITIPE AT (Automated Testing)是一个计算机辅助测试系统，用于集成和简化西门子制造的变电站自动化、远程控制和保护面板的功能测试步骤。\nSiemens SICAM和SITIPE产品第三方组件存在缓冲区溢出漏洞，该漏洞是由于集成在受影响产品中的IEC 61850客户端库在处理接收到的MMS消息时错误地检查了缓冲区大小。攻击者可利用该漏洞通过发送精心编制的MMS消息来创建拒绝服务条件。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-673996.html",
+    "漏洞解决方案": "用户可参考如下供应商提供的安全公告获得补丁信息：\nhttps://cert-portal.siemens.com/productcert/html/ssa-673996.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/590341",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-12",
+    "收录时间": "2024-09-12",
+    "更新时间": "2024-09-12",
+    "漏洞附件": "(无附件)"
+}

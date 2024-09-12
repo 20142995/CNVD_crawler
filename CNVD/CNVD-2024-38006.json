@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens SIMATIC RFID Readers处理不当漏洞（CNVD-2024-38006）",
+    "CNVD-ID": "CNVD-2024-38006",
+    "公开日期": "2024-09-13",
+    "危害级别": "低",
+    "影响产品": "Siemens SIMATIC RF166C (6GT2002-0EE20) < V2.2\nSiemens SIMATIC RF185C (6GT2002-0JE10) < V2.2\nSiemens SIMATIC RF186C (6GT2002-0JE20) < V2.2\nSiemens SIMATIC RF186CI (6GT2002-0JE50) < V2.2\nSiemens SIMATIC RF188C (6GT2002-0JE40) < V2.2\nSiemens SIMATIC RF188CI (6GT2002-0JE60) < V2.2\nSiemens SIMATIC Reader RF610R CMIIT (6GT2811-6BC10-2AA0) < V4.2\nSiemens SIMATIC Reader RF610R ETSI (6GT2811-6BC10-0AA0) < V4.2\nSiemens SIMATIC Reader RF610R FCC (6GT2811-6BC10-1AA0) < V4.2\nSiemens SIMATIC Reader RF615R CMIIT (6GT2811-6CC10-2AA0) < V4.2\nSiemens SIMATIC Reader RF615R ETSI (6GT2811-6CC10-0AA0) < V4.2\nSiemens SIMATIC Reader RF615R FCC (6GT2811-6CC10-1AA0) < V4.2\nSiemens SIMATIC Reader RF650R ARIB (6GT2811-6AB20-4AA0) < V4.2\nSiemens SIMATIC Reader RF650R CMIIT (6GT2811-6AB20-2AA0) < V4.2\nSiemens SIMATIC Reader RF650R ETSI (6GT2811-6AB20-0AA0) < V4.2\nSiemens SIMATIC Reader RF650R FCC (6GT2811-6AB20-1AA0) < V4.2\nSiemens SIMATIC Reader RF680R ARIB (6GT2811-6AA10-4AA0) < V4.2\nSiemens SIMATIC Reader RF680R CMIIT (6GT2811-6AA10-2AA0) < V4.2\nSiemens SIMATIC Reader RF680R ETSI (6GT2811-6AA10-0AA0) < V4.2\nSiemens SIMATIC Reader RF680R FCC (6GT2811-6AA10-1AA0) < V4.2\nSiemens SIMATIC Reader RF685R ARIB (6GT2811-6CA10-4AA0) < V4.2\nSiemens SIMATIC Reader RF685R CMIIT (6GT2811-6CA10-2AA0) < V4.2\nSiemens SIMATIC Reader RF685R ETSI (6GT2811-6CA10-0AA0) < V4.2\nSiemens SIMATIC Reader RF685R FCC (6GT2811-6CA10-1AA0) < V4.2\nSiemens SIMATIC RF1140R (6GT2831-6CB00) < V1.1\nSiemens SIMATIC RF1170R (6GT2831-6BB00) < V1.1\nSiemens SIMATIC RF360R (6GT2801-5BA30) < V2.2",
+    "CVE ID": "CVE-2024-37995",
+    "漏洞描述": "SIMATIC RF600 Readers用于非接触式识别各种物体，例如运输集装箱、托盘、生产货物，或者通常用于记录散装货物。SIMATIC RF1100是一种基于RFID的解决方案，用于简单而通用的电子授权管理。SIMATIC RF360R reader通过具有集成工业以太网接口的紧凑型阅读器扩展了SIMATIC RFID300 RFID系统。\nSiemens SIMATIC RFID Readers存在处理不当漏洞，该漏洞是由于受影响的应用程序在错误的证书上传导致应用程序崩溃时处理错误。攻击者可利用该漏洞导致应用程序重新启动。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-765405.html",
+    "漏洞解决方案": "用户可参考如下供应商提供的安全公告获得补丁信息：\nhttps://cert-portal.siemens.com/productcert/html/ssa-765405.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/590371",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-12",
+    "收录时间": "2024-09-12",
+    "更新时间": "2024-09-12",
+    "漏洞附件": "(无附件)"
+}

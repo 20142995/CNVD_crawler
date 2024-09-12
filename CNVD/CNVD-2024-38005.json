@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens SINEMA Remote Connect Server会话固定漏洞",
+    "CNVD-ID": "CNVD-2024-38005",
+    "公开日期": "2024-09-13",
+    "危害级别": "中",
+    "影响产品": "SIEMENS SINEMA Remote Connect Server < V3.2 SP2",
+    "CVE ID": "CVE-2024-42345",
+    "漏洞描述": "Siemens SINEMA Remote Connect Server是德国西门子（Siemens）公司的一套远程网络管理平台。该平台主要用于远程访问、维护、控制和诊断底层网络。\nSiemens SINEMA Remote Connect Server存在会话固定漏洞，该漏洞是由于受影响的应用程序未能正确处理用户会话建立和无效。允许远程攻击者可利用该漏洞绕过用户会话建立的额外多因素身份验证。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-869574.html",
+    "漏洞解决方案": "用户可参考如下供应商提供的安全公告获得补丁信息：\nhttps://cert-portal.siemens.com/productcert/html/ssa-869574.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/590376",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-12",
+    "收录时间": "2024-09-12",
+    "更新时间": "2024-09-12",
+    "漏洞附件": "(无附件)"
+}

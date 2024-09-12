@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens SIMATIC SCADA和PCS 7 systems远程代码执行漏洞",
+    "CNVD-ID": "CNVD-2024-38013",
+    "公开日期": "2024-09-13",
+    "危害级别": "高",
+    "影响产品": "Siemens SIMATIC Process Historian 2020 null\nSiemens SIMATIC PCS 7 V9.1 \nSiemens SIMATIC WinCC Runtime Professional V18 \nSiemens SIMATIC WinCC Runtime Professional V19 \nSiemens SIMATIC WinCC V7.4 \nSiemens SIMATIC BATCH V9.1 \nSiemens SIMATIC WinCC V8.0 < V8.0 Update 5\nSiemens SIMATIC Information Server \nSiemens SIMATIC Process Historian 2022 \nSiemens SIMATIC WinCC V7.5 < V7.5 SP2 Update 18",
+    "CVE ID": "CVE-2024-35783",
+    "漏洞描述": "SIMATIC Information Server用于报告和可视化存储在SIMATIC process Historian中的过程数据。SIMATIC Process Historian是SIMATIC PCS 7、SIMATIC WinCC和SIMATIC PCS-neo的长期归档系统。它将生产工厂的过程值、警报和批数据存储在其数据库中，并为报告和可视化应用程序提供历史过程数据。SIMATIC PCS 7是一个分布式控制系统（DCS），集成了SIMATIC WinCC、SIMATIC Batch、SIMATIC路由控制、OpenPCS 7和其他组件。SIMATIC WinCC是一个监控和数据采集（SCADA）系统。SIMATIC WinCC Runtime Professional是一个可视化运行时平台，用于操作员控制和监控机器和工厂。\nSiemens SIMATIC SCADA和PCS 7 systems存在远程代码执行漏洞，该漏洞是由于受影响的产品以提升的权限运行其数据库服务器，攻击者可利用该漏洞以管理权限执行任意操作系统命令。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-629254.html",
+    "漏洞解决方案": "用户可参考如下供应商提供的安全公告获得补丁信息：\nhttps://cert-portal.siemens.com/productcert/html/ssa-629254.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/590336",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-12",
+    "收录时间": "2024-09-12",
+    "更新时间": "2024-09-12",
+    "漏洞附件": "(无附件)"
+}
