@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens SINEMA Remote Connect Client存在未明漏洞",
+    "CNVD-ID": "CNVD-2024-38019",
+    "公开日期": "2024-09-12",
+    "危害级别": "中",
+    "影响产品": "SIEMENS SINEMA Remote Connect Client < V3.2 SP2",
+    "CVE ID": "CVE-2024-32006",
+    "漏洞描述": "Siemens SINEMA Remote Connect是德国西门子（Siemens）公司的一套远程管理平台。该平台支持以高效安全的方式远程访问分布在全球各地的机器设备以及确保对控制中心、服务工程师与已安装设备之间的VPN通道进行安全管理等。 \nSiemens SINEMA Remote Connect Client存在未明漏洞，该漏洞源于受影响的应用程序不会在不注销的情况下重新启动时使用户会话过期。攻击者可利用该漏洞绕过多重身份验证。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-417159.html",
+    "漏洞解决方案": "用户可参考如下供应商提供的安全公告获得补丁信息：\nhttps://cert-portal.siemens.com/productcert/html/ssa-417159.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/590291",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-12",
+    "收录时间": "2024-09-12",
+    "更新时间": "2024-09-12",
+    "漏洞附件": "(无附件)"
+}

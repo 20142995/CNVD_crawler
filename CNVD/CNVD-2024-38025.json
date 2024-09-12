@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens User Management Component (UMC) 堆缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2024-38025",
+    "公开日期": "2024-09-12",
+    "危害级别": "高",
+    "影响产品": "Siemens SINEC NMS \nSiemens Totally Integrated Automation Portal (TIA Portal) V16 \nSiemens Totally Integrated Automation Portal (TIA Portal) V17 \nSiemens Totally Integrated Automation Portal (TIA Portal) V18 \nSiemens SIMATIC PCS neo V4.0 \nSiemens SIMATIC Information Server 2022 \nSiemens SIMATIC PCS neo V4.1 \nSiemens SIMATIC PCS neo V5.0 \nSiemens Totally Integrated Automation Portal (TIA Portal) V19",
+    "CVE ID": "CVE-2024-33698",
+    "漏洞描述": "SIMATIC PCS neo是一个分布式控制系统（DCS）。SINEC NMS是面向数字企业的新一代网络管理系统（NMS）。该系统可用于集中监控、管理和配置网络。Totally Integrated Automation Portal (TIA Portal)是一款PC软件，提供对西门子全方位数字化自动化服务的访问，从数字规划和集成工程到透明操作。 User Management Component (UMC)是一个集成组件，可以在系统范围内对用户进行集中维护。\nSiemens User Management Component (UMC) 存在堆缓冲区溢出漏洞，攻击者可利用该漏洞执行任意代码。\nSiemens User Management Component (UMC) 存在堆缓冲区溢出漏洞，",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-039007.html",
+    "漏洞解决方案": "用户可参考如下供应商提供的安全公告获得补丁信息：\nhttps://cert-portal.siemens.com/productcert/html/ssa-039007.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/590261",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-12",
+    "收录时间": "2024-09-12",
+    "更新时间": "2024-09-12",
+    "漏洞附件": "(无附件)"
+}

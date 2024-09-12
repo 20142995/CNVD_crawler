@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens Automation License Manager拒绝服务漏洞",
+    "CNVD-ID": "CNVD-2024-38022",
+    "公开日期": "2024-09-12",
+    "危害级别": "高",
+    "影响产品": "Siemens Automation License Manager V6.2 \nSiemens Automation License Manager V6.0 \nSiemens Automation License Manager V5",
+    "CVE ID": "CVE-2024-44087",
+    "漏洞描述": "Siemens Automation License Manager是德国西门子（Siemens）公司的一款用于Siemens产品的许可证管理器。 \nSiemens Automation License Manager存在拒绝服务漏洞，该漏洞源于受影响的应用程序无法正确验证端口4410/tcp上传入网络数据包中的某些字段。攻击者可利用该漏洞导致整数溢出和应用程序崩溃。这种拒绝服务情况可能会阻止合法用户使用依赖受影响的应用程序进行许可证验证的后续产品。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-103653.html",
+    "漏洞解决方案": "用户可参考如下供应商提供的安全公告获得补丁信息：\nhttps://cert-portal.siemens.com/productcert/html/ssa-103653.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/590276",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-12",
+    "收录时间": "2024-09-12",
+    "更新时间": "2024-09-12",
+    "漏洞附件": "(无附件)"
+}

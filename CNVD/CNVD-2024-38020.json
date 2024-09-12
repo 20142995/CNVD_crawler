@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens Industrial Edge Management授权绕过漏洞",
+    "CNVD-ID": "CNVD-2024-38020",
+    "公开日期": "2024-09-12",
+    "危害级别": "高",
+    "影响产品": "Siemens Industrial Edge Management Virtual < V2.3.1-1\nSiemens Industrial Edge Management Pro < V1.9.5",
+    "CVE ID": "CVE-2024-45032",
+    "漏洞描述": "Siemens Industrial Edge Management是德国西门子（Siemens）公司的一个平台，用于在靠近车间的计算平台上托管来自不同供应商的应用程序。\nSiemens Industrial Edge Management存在授权绕过漏洞，该漏洞源于受影响的组件无法正确验证设备令牌。允许未经身份验证的远程攻击者利用该漏洞冒充系统上的其他设备。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-359713.html",
+    "漏洞解决方案": "用户可参考如下供应商提供的安全公告获得补丁信息：\nhttps://cert-portal.siemens.com/productcert/html/ssa-359713.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/590286",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-12",
+    "收录时间": "2024-09-12",
+    "更新时间": "2024-09-12",
+    "漏洞附件": "(无附件)"
+}

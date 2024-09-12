@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens Mendix Runtime信息泄露漏洞",
+    "CNVD-ID": "CNVD-2024-38024",
+    "公开日期": "2024-09-12",
+    "危害级别": "中",
+    "影响产品": "Siemens Mendix Runtime V10.12 < V10.12.2\nSiemens Mendix Runtime V10.6 < V10.6.12\nSiemens Mendix Runtime V10 < V10.14.0\nSiemens Mendix Runtime V9 < V9.24.26\nSiemens Mendix Runtime V8",
+    "CVE ID": "CVE-2023-49069",
+    "漏洞描述": "Siemens Mendix是德国西门子（Siemens）公司的一套低代码应用程序开发平台。该平台提供应用程序开发、测试、部署和迭代等功能。 \nSiemens Mendix Runtime存在信息泄露漏洞，该漏洞源于受影响应用程序的身份验证机制在验证用户名时包含可观察到的响应差异漏洞。允许未经身份验证的远程攻击者可利用该漏洞区分有效和无效的用户名。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-097435.html",
+    "漏洞解决方案": "用户可参考如下供应商提供的安全公告获得补丁信息：\nhttps://cert-portal.siemens.com/productcert/html/ssa-097435.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/590266",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-12",
+    "收录时间": "2024-09-12",
+    "更新时间": "2024-09-12",
+    "漏洞附件": "(无附件)"
+}

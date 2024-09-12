@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens Tecnomatix Plant Simulation堆栈缓冲区溢出漏洞（CNVD-2024-38014）",
+    "CNVD-ID": "CNVD-2024-38014",
+    "公开日期": "2024-09-12",
+    "危害级别": "高",
+    "影响产品": "Siemens Tecnomatix Plant Simulation V2302 < V2302.0015\nSiemens Tecnomatix Plant Simulation V2404 < V2404.0004",
+    "CVE ID": "CVE-2024-41170",
+    "漏洞描述": "Siemens Tecnomatix Plant Simulation是德国西门子（Siemens）公司的一个工控设备。利用离散事件仿真的功能进行生产量分析和优化，进而改善制造系统性能。\nSiemens Tecnomatix Plant Simulation存在堆栈缓冲区溢出漏洞，攻击者可利用该漏洞在当前进程的上下文中执行代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-427715.html",
+    "漏洞解决方案": "用户可参考如下供应商提供的安全公告获得补丁信息：\nhttps://cert-portal.siemens.com/productcert/html/ssa-427715.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/590316",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-12",
+    "收录时间": "2024-09-12",
+    "更新时间": "2024-09-12",
+    "漏洞附件": "(无附件)"
+}

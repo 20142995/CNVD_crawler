@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens SINUMERIK ONE、SINUMERIK-840D和SINUMERIK828D权限提升漏洞",
+    "CNVD-ID": "CNVD-2024-38021",
+    "公开日期": "2024-09-12",
+    "危害级别": "高",
+    "影响产品": "Siemens SINUMERIK ONE \nSiemens SINUMERIK 840D sl V4 \nSiemens SINUMERIK 828D V4 \nSiemens SINUMERIK 828D V5",
+    "CVE ID": "CVE-2024-41171",
+    "漏洞描述": "SINUMERIK CNC为车间、车间和大型批量生产环境提供自动化解决方案。 SINUMERIK ONE是一个数字原生数控系统，集成了SIMATIC S7-1500 CPU，用于自动化。\nSiemens SINUMERIK ONE、SINUMERIK-840D和SINUMERIK828D存在权限提升漏洞，攻击者可利用该漏洞升级在底层系统中的权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-342438.html",
+    "漏洞解决方案": "用户可参考如下供应商提供的安全公告获得补丁信息：\nhttps://cert-portal.siemens.com/productcert/html/ssa-342438.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/590281",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-12",
+    "收录时间": "2024-09-12",
+    "更新时间": "2024-09-12",
+    "漏洞附件": "(无附件)"
+}
