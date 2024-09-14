@@ -1,0 +1,17 @@
+{
+    "漏洞标题": "Siemens SIMATIC S7-200 SMART存在拒绝服务漏洞",
+    "CNVD-ID": "CNVD-2024-32930",
+    "公开日期": "2024-09-15",
+    "危害级别": "中",
+    "影响产品": "Siemens SIMATIC S7-200 SMART 2.5.1",
+    "漏洞描述": "Siemens SIMATIC S7-200 SMART是德国西门子（Siemens）公司的一款应用于中小型自动化系统中的可编程逻辑控制器（PLC）。\nSiemens SIMATIC S7-200 SMART存在拒绝服务漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "",
+    "漏洞解决方案": "厂商已提供漏洞修补方案，建议用户下载使用：\nhttps://cert-portal.siemens.com/productcert/html/ssa-969738.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/590601",
+    "验证信息": "已验证",
+    "报送时间": "2024-06-22",
+    "收录时间": "2024-07-17",
+    "更新时间": "2024-09-15",
+    "漏洞附件": "附件暂不公开"
+}
