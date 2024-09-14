@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Warehouse Inventory System跨站请求伪造漏洞（CNVD-2024-38218）",
+    "CNVD-ID": "CNVD-2024-38218",
+    "公开日期": "2024-09-14",
+    "危害级别": "高",
+    "影响产品": "Warehouse Inventory System Warehouse Inventory System v2.0",
+    "CVE ID": "CVE-2024-42580",
+    "漏洞描述": "Warehouse Inventory System是Siamon Hasan个人开发者的一个仓库库存管理系统。\nWarehouse Inventory System v2.0版本存在跨站请求伪造漏洞，该漏洞源于edit_group.php组件未充分验证请求是否来自可信用户，攻击者可利用该漏洞伪造恶意请求诱骗受害者点击执行敏感操作。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://gist.github.com/topsky979/8a05309486637d8c6ce8c6624ec1e897",
+    "漏洞解决方案": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://gist.github.com/topsky979/8a05309486637d8c6ce8c6624ec1e897",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-23",
+    "收录时间": "2024-09-14",
+    "更新时间": "2024-09-14",
+    "漏洞附件": "(无附件)"
+}
