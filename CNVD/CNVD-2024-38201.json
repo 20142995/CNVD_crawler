@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "NetIQ Advanced Authentication命令执行漏洞",
+    "CNVD-ID": "CNVD-2024-38201",
+    "公开日期": "2024-09-14",
+    "危害级别": "高",
+    "影响产品": "NetIQ Advanced Authentication <6.3.5.1",
+    "CVE ID": "CVE-2021-38120",
+    "漏洞描述": "NetIQ Advanced Authentication是英国NetIQ公司的一个应用软件。提供了从用户名和密码转移到一种更安全的方式来保护您的敏感信息。\nNetIQ Advanced Authentication 6.3.5.1之前版本存在命令执行漏洞，攻击者可利用该漏洞导致备份的管理控制功能中出现bash命令注入。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.netiq.com/documentation/advanced-authentication-63/advanced-authentication-releasenotes-6351/data/advanced-authentication-releasenotes-6351.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.netiq.com/documentation/advanced-authentication-63/advanced-authentication-releasenotes-6351/data/advanced-authentication-releasenotes-6351.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/590566",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-30",
+    "收录时间": "2024-09-14",
+    "更新时间": "2024-09-14",
+    "漏洞附件": "(无附件)"
+}
