@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "GTKWave整数溢出漏洞（CNVD-2024-38185）",
+    "CNVD-ID": "CNVD-2024-38185",
+    "公开日期": "2024-09-14",
+    "危害级别": "高",
+    "影响产品": "GTKWave GTKWave 3.3.115",
+    "CVE ID": "CVE-2023-39316",
+    "漏洞描述": "GTKWave是GTKWave公司的一款功能齐全、基于GTK+的波形查看器。\nGTKWave存在整数溢出漏洞，攻击者可利用该漏洞通过特制的.lxt2文件导致任意代码执行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://talosintelligence.com/vulnerability_reports/TALOS-2023-1820",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sourceforge.net/projects/gtkwave/files/gtkwave-3.3.118/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/590481",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-01-11",
+    "收录时间": "2024-09-14",
+    "更新时间": "2024-09-14",
+    "漏洞附件": "(无附件)"
+}
