@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Huawei EMUI和Huawei HarmonyOS访问控制错误漏洞",
+    "CNVD-ID": "CNVD-2024-38565",
+    "公开日期": "2024-09-19",
+    "危害级别": "中",
+    "影响产品": "Huawei HarmonyOS 2.0.0\nHuawei HarmonyOS 3.1.0\nHuawei EMUI 13.0.0\nHuawei EMUI  12.0.0\nHuawei HarmonyOS 3.0.0\nHuawei HarmonyOS 4.0.0\nHuawei HarmonyOS 4.2.0\nHuawei EMUI 14.0.0",
+    "CVE ID": "CVE-2024-42033",
+    "漏洞描述": "Huawei EMUI和Huawei HarmonyOS都是中国华为（Huawei）公司的产品。Huawei EMUI是一款基于Android开发的移动端操作系统。Huawei HarmonyOS是一个操作系统。提供一个基于微内核的全场景分布式操作系统。\nHuawei EMUI和Huawei HarmonyOS访问控制错误漏洞，攻击者可利用该漏洞绕过安全验证。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-42033/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://consumer.huawei.com/en/support/bulletin/2024/8/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/593081",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-12",
+    "收录时间": "2024-09-19",
+    "更新时间": "2024-09-19",
+    "漏洞附件": "(无附件)"
+}
