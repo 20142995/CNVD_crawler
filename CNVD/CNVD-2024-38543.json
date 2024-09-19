@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Rockwell Automation ThinManager ThinServer输入验证错误漏洞（CNVD-2024-38543）",
+    "CNVD-ID": "CNVD-2024-38543",
+    "公开日期": "2024-09-19",
+    "危害级别": "高",
+    "影响产品": "Rockwell Automation ThinManager ThinServer 11.1.0\nRockwell Automation ThinManager ThinServer 11.2.0\nRockwell Automation ThinManager ThinServer 12.0.0\nRockwell Automation ThinManager ThinServer 12.1.0\nRockwell Automation ThinManager ThinServer 13.0.0\nRockwell Automation ThinManager ThinServer 13.1.0\nRockwell Automation ThinManager ThinServer 13.2.0",
+    "CVE ID": "CVE-2024-5989",
+    "漏洞描述": "Rockwell Automation ThinManager是美国罗克韦尔（Rockwell Automation）公司的一款瘦客户端管理软件。允许将瘦客户端同时分配给多个远程桌面服务器。\nRockwell Automation ThinManager ThinServer存在输入验证错误漏洞，攻击者可利用该漏洞发送恶意消息，以在程序中调用SQL注入，并在受影响的设备上导致远程代码执行条件。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1677.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1677.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/593051",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-06-28",
+    "收录时间": "2024-09-19",
+    "更新时间": "2024-09-19",
+    "漏洞附件": "(无附件)"
+}

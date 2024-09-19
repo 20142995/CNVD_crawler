@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Rockwell Automation FactoryTalk View SE代码执行漏洞",
+    "CNVD-ID": "CNVD-2024-38542",
+    "公开日期": "2024-09-19",
+    "危害级别": "中",
+    "影响产品": "Rockwell Automation FactoryTalk View SE 13.0",
+    "CVE ID": "CVE-2024-7513",
+    "漏洞描述": "Rockwell Automation FactoryTalk View SE是美国罗克韦尔（Rockwell Automation）公司的一款工业自动化系统视图界面。 \nRockwell Automation FactoryTalk View SE存在代码执行漏洞，攻击者可利用该漏洞以提升的权限执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-7513",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD%201688.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/593031",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-16",
+    "收录时间": "2024-09-19",
+    "更新时间": "2024-09-19",
+    "漏洞附件": "(无附件)"
+}
