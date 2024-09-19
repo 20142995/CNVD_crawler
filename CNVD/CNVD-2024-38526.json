@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM Maximo Application Suite加密问题漏洞",
+    "CNVD-ID": "CNVD-2024-38526",
+    "公开日期": "2024-09-19",
+    "危害级别": "中",
+    "影响产品": "IBM IBM Maximo Application Suite 8.10\nIBM IBM Maximo Application Suite 8.11\nIBM IBM Maximo Application Suite 9.0",
+    "CVE ID": "CVE-2024-37068",
+    "漏洞描述": "IBM Maximo Application Suite是美国国际商业机器（IBM）公司的一个为智能资产管理、监控、维护、计算机视觉、安全性和可靠性提供的单一平台。\nIBM Maximo Application Suite 8.10版本、8.11版本和9.0版本存在加密问题漏洞，该漏洞源于使用了弱于预期的加密算法，攻击者可利用该漏洞解密高度敏感的信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-37068/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7167725",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/592951",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-11",
+    "收录时间": "2024-09-19",
+    "更新时间": "2024-09-19",
+    "漏洞附件": "(无附件)"
+}

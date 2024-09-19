@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM MQ Operator安全绕过漏洞",
+    "CNVD-ID": "CNVD-2024-38524",
+    "公开日期": "2024-09-19",
+    "危害级别": "高",
+    "影响产品": "IBM MQ Operator 2.0.26\nIBM MQ Operator 3.2.4",
+    "CVE ID": "CVE-2024-40681",
+    "漏洞描述": "IBM MQ Operator是美国国际商业机器（IBM）公司的一种用于管理IBM MQ队列管理器生命周期的工具。\nIBM MQ Operator 2.0.26版本和3.2.4版本存在安全绕过漏洞，特定定义角色中的已认证攻击者可利用该漏洞规避安全限制，并针对队列管理器执行操作。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://exchange.xforce.ibmcloud.com/vulnerabilities/297611",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7167732",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/592941",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-11",
+    "收录时间": "2024-09-19",
+    "更新时间": "2024-09-19",
+    "漏洞附件": "(无附件)"
+}

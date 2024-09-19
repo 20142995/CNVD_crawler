@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM webMethods Integration路径遍历漏洞",
+    "CNVD-ID": "CNVD-2024-38529",
+    "公开日期": "2024-09-19",
+    "危害级别": "中",
+    "影响产品": "IBM webMethods Integration 10.15",
+    "CVE ID": "CVE-2024-45074",
+    "漏洞描述": "IBM webMethods Integration是美国国际商业机器（IBM）公司的一个混合的企业iPaaS。\nIBM webMethods Integration 10.15版本存在路径遍历漏洞，攻击者可利用该漏洞发送包含“dot dot”序列(/../)的特制URL请求来查看系统上的任意文件。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-45074/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7167245",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/592966",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-09",
+    "收录时间": "2024-09-19",
+    "更新时间": "2024-09-19",
+    "漏洞附件": "(无附件)"
+}
