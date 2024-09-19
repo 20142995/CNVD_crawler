@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Adobe Framemaker Publishing Server身份验证错误漏洞（CNVD-2024-38538）",
+    "CNVD-ID": "CNVD-2024-38538",
+    "公开日期": "2024-09-19",
+    "危害级别": "高",
+    "影响产品": "Adobe FrameMaker Publishing Server <=2022.2\nAdobe FrameMaker Publishing Server <=2020 Update 3",
+    "CVE ID": "CVE-2024-30299",
+    "漏洞描述": "Adobe Framemaker是美国奥多比（Adobe）公司的一套用于编写和编辑大型或复杂文档（包括结构化文档）的页面排版软件。 \nAdobe Framemaker Publishing Server存在身份验证错误漏洞，攻击者可利用该漏洞获取系统上的高级特权。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-30300/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/framemaker-publishing-server/apsb24-38.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/593016",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-06-14",
+    "收录时间": "2024-09-19",
+    "更新时间": "2024-09-19",
+    "漏洞附件": "(无附件)"
+}
