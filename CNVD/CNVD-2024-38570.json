@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Micron Crucial MX500 Series Solid State Drives缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2024-38570",
+    "公开日期": "2024-09-19",
+    "危害级别": "中",
+    "影响产品": "Micron Crucial MX500 Series Solid State Drives M3CR046",
+    "CVE ID": "CVE-2024-42642",
+    "漏洞描述": "Micron Crucial MX500 Series Solid State Drives是美国美光（Micron）公司的一系列固态硬盘。 \nMicron Crucial MX500 Series Solid State Drives存在缓冲区溢出漏洞，攻击者可利用该漏洞溢出缓冲区并在系统上执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/VL4DR/CVE-2024-42642/tree/main",
+    "漏洞解决方案": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.crucial.com/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-05",
+    "收录时间": "2024-09-19",
+    "更新时间": "2024-09-19",
+    "漏洞附件": "(无附件)"
+}
