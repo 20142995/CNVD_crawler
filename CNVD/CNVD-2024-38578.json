@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Google Chrome堆缓冲区溢出漏洞（CNVD-2024-38578）",
+    "CNVD-ID": "CNVD-2024-38578",
+    "公开日期": "2024-09-18",
+    "危害级别": "高",
+    "影响产品": "Google Chrome <128.0.6613.113",
+    "CVE ID": "CVE-2024-8198",
+    "漏洞描述": "Google Chrome是美国谷歌（Google）公司的一款Web浏览器。\nGoogle Chrome存在堆缓冲区溢出漏洞，该漏洞是由Skia的不正确边界检查引起的。攻击者可利用该漏洞使溢出缓冲区，在系统上执行任意代码或导致应用程序崩溃。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-8198",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop_28.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/593111",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-30",
+    "收录时间": "2024-09-19",
+    "更新时间": "2024-09-19",
+    "漏洞附件": "(无附件)"
+}
