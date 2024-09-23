@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft SQL Server权限提升漏洞（CNVD-2024-38796）",
+    "CNVD-ID": "CNVD-2024-38796",
+    "公开日期": "2024-09-23",
+    "危害级别": "高",
+    "影响产品": "Microsoft Microsoft SQL Server 2017 (GDR) \nMicrosoft Microsoft SQL Server 2019 (GDR) \nMicrosoft Microsoft SQL Server 2017 (CU 31) \nMicrosoft Microsoft SQL Server 2022 (GDR) \nMicrosoft Microsoft SQL Server 2019 (CU 28) \nMicrosoft Microsoft SQL Server 2022 (CU 14) \nMicrosoft Microsoft SQL Server 2016 Service Pack 3 (GDR) \nMicrosoft Microsoft SQL Server 2016 Service Pack 3 Azure Connect Feature Pack",
+    "CVE ID": "CVE-2024-37341",
+    "漏洞描述": "Microsoft SQL Server是美国微软（Microsoft）公司的一套应用在Microsoft Windows系统下的大型商业数据库系统。\nMicrosoft SQL Server存在权限提升漏洞，攻击者可利用该漏洞以更高的权限执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-37341",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-37341",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/593316",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-12",
+    "收录时间": "2024-09-23",
+    "更新时间": "2024-09-23",
+    "漏洞附件": "(无附件)"
+}
