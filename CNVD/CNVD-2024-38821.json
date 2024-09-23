@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Ivanti Endpoint Manager代码问题漏洞",
+    "CNVD-ID": "CNVD-2024-38821",
+    "公开日期": "2024-09-23",
+    "危害级别": "高",
+    "影响产品": "Ivanti Endpoint Manager <=2022 SU5\nIvanti Endpoint Manager 2024",
+    "CVE ID": "CVE-2024-29847",
+    "漏洞描述": "Ivanti Endpoint Manager（EPM）是美国Ivanti公司的一套端点安全管理器。\nIvanti Endpoint Manager 2024版本和2022 SU5及之前版本存在代码问题漏洞，该漏洞源于不受信任数据的反序列化，允许远程未经身份验证的攻击者可利用该漏洞实现远程代码执行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://forums.ivanti.com/s/article/Security-Advisory-EPM-September-2024-for-EPM-2024-and-EPM-2022",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载:\nhttps://www.ivanti.com/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/593431",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-13",
+    "收录时间": "2024-09-23",
+    "更新时间": "2024-09-23",
+    "漏洞附件": "(无附件)"
+}
