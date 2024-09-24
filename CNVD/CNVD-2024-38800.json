@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Google Chrome跨站脚本漏洞（CNVD-2024-38800）",
+    "CNVD-ID": "CNVD-2024-38800",
+    "公开日期": "2024-09-24",
+    "危害级别": "中",
+    "影响产品": "Google Chrome <129.0.6668.58",
+    "CVE ID": "CVE-2024-8907",
+    "漏洞描述": "Google Chrome是美国谷歌（Google）公司的一款Web浏览器。\nGoogle Chrome 129.0.6668.58之前版本存在跨站脚本漏洞，该漏洞源于Android平台上的Omnibox中UI手势验证不足，攻击者可利用此漏洞通过特定的UI手势诱使用户执行操作，从而注入任意脚本或HTML。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://chromereleases.googleblog.com/2024/09/stable-channel-update-for-desktop_17.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://chromereleases.googleblog.com/2024/09/stable-channel-update-for-desktop_17.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/593331",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-20",
+    "收录时间": "2024-09-23",
+    "更新时间": "2024-09-24",
+    "漏洞附件": "(无附件)"
+}
