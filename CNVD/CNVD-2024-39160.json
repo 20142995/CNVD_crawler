@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apache NiFi远程代码执行漏洞",
+    "CNVD-ID": "CNVD-2024-39160",
+    "公开日期": "2024-09-25",
+    "危害级别": "高",
+    "影响产品": "Apache Nifi >=0.0.2，<=1.22.0",
+    "CVE ID": "CVE-2023-36542",
+    "漏洞描述": "Apache NiFi是一款用于构建可靠、安全的数据管道的开源工具。它支持从各种来源收集、聚合和传输数据，并提供了强大的数据处理和转换功能。\nApache NiFi存在远程代码执行漏洞。该漏洞可以通过访问特定URL来配置一些处理器和控制器服务，从而使恶意代码得以执行。攻击者可以利用该漏洞执行任意代码，从而导致拒绝服务、获取敏感信息等恶意行为。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://lists.apache.org/thread/swnly3dzhhq9zo3rofc8djq77stkhbof\nhttps://nifi.apache.org/security.html#CVE-2023-36542\nhttp://www.openwall.com/lists/oss-security/2023/07/29/1\nhttp://seclists.org/fulldisclosure/2023/Jul/43",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://nifi.apache.org/documentation/security/#CVE-2023-36542",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/593601",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2023-08-10",
+    "收录时间": "2024-09-25",
+    "更新时间": "2024-09-25",
+    "漏洞附件": "(无附件)"
+}

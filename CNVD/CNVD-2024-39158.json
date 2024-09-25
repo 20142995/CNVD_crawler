@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apache DolphinScheduler输入验证错误漏洞（CNVD-2024-39158）",
+    "CNVD-ID": "CNVD-2024-39158",
+    "公开日期": "2024-09-25",
+    "危害级别": "高",
+    "影响产品": "Apache DolphinScheduler <3.2.1",
+    "CVE ID": "CVE-2024-23320",
+    "漏洞描述": "Apache DolphinScheduler是美国阿帕奇（Apache）基金会的一个分布式的基于DAG可视化的工作流任务调度系统。\nApache DolphinScheduler 3.2.1之前版本存在输入验证错误漏洞，该漏洞源于存在不正确的输入验证，经过身份验证的攻击者可利用该漏洞在服务器上执行任意的、未沙盒化的JavaScript。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/apache/dolphinscheduler/pull/15487",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/25qhfvlksozzp6j9y8ozznvjdjp3lxqq",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/593606",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-03-14",
+    "收录时间": "2024-09-25",
+    "更新时间": "2024-09-25",
+    "漏洞附件": "(无附件)"
+}

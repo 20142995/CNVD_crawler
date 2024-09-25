@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apache HertzBeat反序列化漏洞",
+    "CNVD-ID": "CNVD-2024-39149",
+    "公开日期": "2024-09-25",
+    "危害级别": "高",
+    "影响产品": "Apache HertzBeat <1.6.0",
+    "CVE ID": "CVE-2024-42323",
+    "漏洞描述": "Apache HertzBeat是美国阿帕奇（Apache）公司的一个可以监控各种组件的工具。\nApache HertzBeat 1.6.0之前版本存在反序列化漏洞，该漏洞源于SnakeYAML库在接收用户提交的序列化数据的不安全反序列化处理，攻击者可利用该漏洞通过发送恶意构造的XML数据来执行远程代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://lists.apache.org/thread/r0c4tost4bllqc1n9q6rmzs1slgsq63t",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/dwpwm572sbwon1mknlwhkpbom2y7skbx",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/593551",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-24",
+    "收录时间": "2024-09-25",
+    "更新时间": "2024-09-25",
+    "漏洞附件": "(无附件)"
+}
