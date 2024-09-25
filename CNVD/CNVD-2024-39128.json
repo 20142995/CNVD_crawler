@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Wireshark存在未明漏洞（CNVD-2024-39128）",
+    "CNVD-ID": "CNVD-2024-39128",
+    "公开日期": "2024-09-26",
+    "危害级别": "高",
+    "影响产品": "Wireshark Wireshark",
+    "CVE ID": "CVE-2024-24478",
+    "漏洞描述": "Wireshark（前称Ethereal）是导线鲨鱼（Wireshark）团队的一套网络数据包分析软件。该软件的功能是截取网络数据包，并显示出详细的数据以供分析。\nWireshark存在安全漏洞，该漏洞源于允许远程攻击者造成拒绝服务。攻击者可以利用该漏洞通过发送特制的数据包导致Wireshark解析过程中的崩溃，从而耗尽系统资源，导致Wireshark无法继续工作。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://gist.github.com/1047524396/e82c55147cd3cb62ef20cbdb0ec83694\nhttps://github.com/wireshark/wireshark/commit/80a4dc55f4d2fa33c2b36a99406500726d3faaef\nhttps://gitlab.com/wireshark/wireshark/-/issues/19347",
+    "漏洞解决方案": "目前厂商已发布升级补丁以修复漏洞.补丁获取链接：\nhttps://github.com/wireshark/wireshark/releases/tag/v4.2.3",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/593476",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-02",
+    "收录时间": "2024-09-25",
+    "更新时间": "2024-09-25",
+    "漏洞附件": "(无附件)"
+}
