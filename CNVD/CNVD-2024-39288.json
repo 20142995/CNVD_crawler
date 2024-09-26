@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Mozilla Thunderbird存在未明漏洞（CNVD-2024-39288）",
+    "CNVD-ID": "CNVD-2024-39288",
+    "公开日期": "2024-09-25",
+    "危害级别": "高",
+    "影响产品": "Mozilla Thunderbird <128.2.0",
+    "CVE ID": "CVE-2024-8394",
+    "漏洞描述": "Mozilla Thunderbird是美国Mozilla基金会的一套从Mozilla Application Suite独立出来的电子邮件客户端软件。该软件支持IMAP、POP邮件协议以及HTML邮件格式。\nMozilla Thunderbird存在安全漏洞，该漏洞源于在终止验证OTR聊天会话时，可能会导致一个可利用的释放后重用错误，进而引发可能被利用的崩溃。攻击者可利用该漏洞通过数据包注入或精心制作的捕获文件导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://bugzilla.mozilla.org/show_bug.cgi?id=1895737",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/en-US/security/advisories/mfsa2024-43/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/593536",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-11",
+    "收录时间": "2024-09-26",
+    "更新时间": "2024-09-26",
+    "漏洞附件": "(无附件)"
+}
