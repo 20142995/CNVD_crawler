@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Adobe Acrobat Reader缓冲区溢出漏洞（CNVD-2024-39268）",
+    "CNVD-ID": "CNVD-2024-39268",
+    "公开日期": "2024-09-25",
+    "危害级别": "中",
+    "影响产品": "Adobe acrobat classic >=20.001.30005，<20.005.30655\nAdobe acrobat classic >=24.001.20604，<24.001.30159\nAdobe Acrobat DC Continuous >=15.008.20082，<24.002.21005\nAdobe acrobat reader classic >=20.001.3005，<20.005.30655\nAdobe acrobat reader dc continuous >=15.008.20082，<24.002.21005",
+    "CVE ID": "CVE-2024-41832",
+    "漏洞描述": "Adobe Acrobat Reader是美国奥多比（Adobe）公司的一款PDF查看器。该软件用于打印，签名和注释PDF。\nAdobe Acrobat Reader存在安全漏洞，攻击者可利用该漏洞导致内存泄露。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-41832",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/acrobat/apsb24-57.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/593656",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-16",
+    "收录时间": "2024-09-26",
+    "更新时间": "2024-09-26",
+    "漏洞附件": "(无附件)"
+}

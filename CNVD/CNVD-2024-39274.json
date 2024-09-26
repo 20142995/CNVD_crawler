@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Wireshark BLF文件解析缺陷漏洞",
+    "CNVD-ID": "CNVD-2024-39274",
+    "公开日期": "2024-09-25",
+    "危害级别": "高",
+    "影响产品": "Wireshark Wireshark >=3.6.0，<=3.6.13\nWireshark Wireshark >=4.0.0，<=4.0.5",
+    "CVE ID": "CVE-2023-2857",
+    "漏洞描述": "Wireshark是一款开源的网络协议分析工具，被广泛应用于实时网络通信、网络故障诊断、网络安全分析等领域。它可以捕获和分析从网络上传输的数据包，提供了强大的过滤器和插件体系，并支持多种协议解析和协议编辑。\nWireshark存在安全漏洞，攻击者可利用该漏洞通过构造恶意捕获文件可触发解析异常，导致Wireshark应用程序崩溃，拒绝服务攻击。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://gitlab.com/wireshark/wireshark/-/issues/19063\nhttps://www.wireshark.org/security/wnpa-sec-2023-13.html\nhttps://gitlab.com/gitlab-org/cves/-/blob/master/2023/CVE-2023-2857.json",
+    "漏洞解决方案": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.wireshark.org/security/wnpa-sec-2023-03.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/593521",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2023-05-30",
+    "收录时间": "2024-09-26",
+    "更新时间": "2024-09-26",
+    "漏洞附件": "(无附件)"
+}

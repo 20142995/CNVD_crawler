@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Wireshark缓冲区溢出漏洞（CNVD-2024-39273）",
+    "CNVD-ID": "CNVD-2024-39273",
+    "公开日期": "2024-09-25",
+    "危害级别": "中",
+    "影响产品": "Wireshark Wireshark >=3.6.0，<=3.6.13\nWireshark Wireshark >=4.0.0，<=4.0.5",
+    "CVE ID": "CVE-2023-2854",
+    "漏洞描述": "Wireshark（前称Ethereal）是导线鲨鱼（Wireshark）团队的一套网络数据包分析软件。该软件的功能是截取网络数据包，并显示出详细的数据以供分析。\nWireshark存在安全漏洞，该漏洞源于BLF文件解析器崩溃，攻击者可利用该漏洞通过精心制作的捕获文件导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://gitlab.com/wireshark/wireshark/-/issues/19084\nhttps://gitlab.com/gitlab-org/cves/-/blob/master/2023/CVE-2023-2854.json\nhttps://www.wireshark.org/security/wnpa-sec-2023-17.html",
+    "漏洞解决方案": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.wireshark.org/security/wnpa-sec-2023-17.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/593501",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2023-05-30",
+    "收录时间": "2024-09-26",
+    "更新时间": "2024-09-26",
+    "漏洞附件": "(无附件)"
+}
