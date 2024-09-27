@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Linux kernel代码问题漏洞（CNVD-2024-39461）",
+    "CNVD-ID": "CNVD-2024-39461",
+    "公开日期": "2024-09-27",
+    "危害级别": "中",
+    "影响产品": "Linux Linux kernel >=5.5，<5.10.225\nLinux Linux kernel >=6.2，<6.6.49\nLinux Linux kernel >=6.7，<6.10.8\nLinux Linux Kernel >=4.20，<5.4.283\nLinux Linux Kernel >=5.11，<5.15.166\nLinux Linux kernel >=4.12，<4.19.321\nLinux Linux kernel >=5.16，<6.1.108",
+    "CVE ID": "CVE-2024-46677",
+    "漏洞描述": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。\nLinux kernel存在安全漏洞，该漏洞源于在sockfd_lookup函数失败时未能正确处理返回的空指针，导致空指针取消引用。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-46677",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/28c67f0f84f889fe9f4cbda8354132b20dc9212d",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/593981",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-18",
+    "收录时间": "2024-09-27",
+    "更新时间": "2024-09-27",
+    "漏洞附件": "(无附件)"
+}

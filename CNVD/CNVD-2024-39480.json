@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Mozilla Firefox安全绕过漏洞（CNVD-2024-39480）",
+    "CNVD-ID": "CNVD-2024-39480",
+    "公开日期": "2024-09-25",
+    "危害级别": "高",
+    "影响产品": "Mozilla Firefox <130.0\nMozilla Firefox ESR <115.15\nMozilla Firefox ESR >=128.0，<128.2",
+    "CVE ID": "CVE-2024-8384",
+    "漏洞描述": "Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。\nMozilla Firefox存在安全绕过漏洞，攻击者可利用该漏洞绕过安全限制。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-8384",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/security/advisories/mfsa2024-39/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/593541",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-04",
+    "收录时间": "2024-09-27",
+    "更新时间": "2024-09-27",
+    "漏洞附件": "(无附件)"
+}
