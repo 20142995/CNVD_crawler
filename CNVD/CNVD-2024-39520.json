@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Linux kernel存在未明漏洞（CNVD-2024-39520）",
+    "CNVD-ID": "CNVD-2024-39520",
+    "公开日期": "2024-09-27",
+    "危害级别": "中",
+    "影响产品": "Linux Linux Kernel <6.6.46\nLinux Linux kernel >=6.7，<6.10.5",
+    "CVE ID": "CVE-2024-44957",
+    "漏洞描述": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。\nLinux kernel存在安全漏洞，该漏洞源于xen:privcmd组件存在由于使用互斥锁可能导致的死锁问题。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://git.kernel.org/stable/c/1c682593096a487fd9aebc079a307ff7a6d054a3\nhttps://git.kernel.org/stable/c/49f2a5da6785b2dbde93e291cae037662440346e\nhttps://git.kernel.org/stable/c/c2775ae4d9227729f8ca9ee2a068f62a00d5ea9c\nhttps://access.redhat.com/security/cve/cve-2024-44957\nhttps://cxsecurity.com/cveshow/CVE-2024-44957/",
+    "漏洞解决方案": "目前厂商已发布升级补丁以修复漏洞，详情请关注厂商主页：\nhttps://git.kernel.org/stable/c/1c682593096a487fd9aebc079a307ff7a6d054a3",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/594086",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-10",
+    "收录时间": "2024-09-27",
+    "更新时间": "2024-09-27",
+    "漏洞附件": "(无附件)"
+}
