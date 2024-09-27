@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Linux kernel存在未明漏洞（CNVD-2024-39374）",
+    "CNVD-ID": "CNVD-2024-39374",
+    "公开日期": "2024-09-27",
+    "危害级别": "低",
+    "影响产品": "Linux Linux kernel >=6.2，<6.6.49\nLinux Linux kernel >=6.7，<6.10.8\nLinux Linux kernel >=6.0，<6.1.109",
+    "CVE ID": "CVE-2024-46711",
+    "漏洞描述": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。\nLinux kernel存在安全漏洞，该漏洞源于在多次重新创建后未能正确处理ID 0端点的使用。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-46711",
+    "漏洞解决方案": "https://git.kernel.org/stable/c/119806ae4e46cf239db8e6ad92bc2fd3daae86dc",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/593951",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-14",
+    "收录时间": "2024-09-27",
+    "更新时间": "2024-09-27",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Linux kernel存在未明漏洞（CNVD-2024-39355）",
+    "CNVD-ID": "CNVD-2024-39355",
+    "公开日期": "2024-09-27",
+    "危害级别": "中",
+    "影响产品": "Linux Linux kernel >=6.9，<6.10.8",
+    "CVE ID": "CVE-2024-46690",
+    "漏洞描述": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。\nLinux kernel存在安全漏洞，该漏洞源于未能正确处理nfsd4_deleg_getattr_conflict函数，可能导致内核崩溃。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-46690",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/1b46a871e980e3daa16fd5e77539966492e8910a",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/593941",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-18",
+    "收录时间": "2024-09-27",
+    "更新时间": "2024-09-27",
+    "漏洞附件": "(无附件)"
+}

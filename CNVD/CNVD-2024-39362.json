@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Cisco Expressway Edge授权问题漏洞",
+    "CNVD-ID": "CNVD-2024-39362",
+    "公开日期": "2024-09-25",
+    "危害级别": "中",
+    "影响产品": "Cisco Cisco Expressway Edge <15.2 (Sep 2024)",
+    "CVE ID": "CVE-2024-20497",
+    "漏洞描述": "Cisco Expressway Edge（Cisco Expressway-E）是美国思科（Cisco）公司的一个安全访问应用程序。\nCisco Expressway Edge存在授权问题漏洞，该漏洞源于对移动和远程访问用户的授权检查不足，经过身份验证的远程攻击者可利用该漏洞伪装成受影响系统上的另一个用户。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-20497",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-expressway-auth-kdFrcZ2j",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/593546",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-24",
+    "收录时间": "2024-09-27",
+    "更新时间": "2024-09-27",
+    "漏洞附件": "(无附件)"
+}

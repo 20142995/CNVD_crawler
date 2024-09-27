@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Linux kernel资源管理错误漏洞（CNVD-2024-39372）",
+    "CNVD-ID": "CNVD-2024-39372",
+    "公开日期": "2024-09-27",
+    "危害级别": "中",
+    "影响产品": "Linux Linux kernel >=2.6.15，<4.19.321\nLinux Linux kernel >4.20，<5.4.283\nLinux Linux kernel >=5.5，<5.10.225\nLinux Linux kernel >5.11，<5.15.166\nLinux Linux kernel >5.16，<6.1.108\nLinux Linux kernel >=6.2，<6.6.49\nLinux Linux kernel >=6.7，<6.10.8\nLinux Linux kernel 6.11:rc1\nLinux Linux kernel 6.11:rc2\nLinux Linux kernel 6.11:rc3\nLinux Linux kernel 6.11:rc4\nLinux Linux kernel 6.11:rc5",
+    "CVE ID": "CVE-2024-46673",
+    "漏洞描述": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。\nLinux kernel存在资源管理错误漏洞，该漏洞源于存在内存双重释放问题。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-46673",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新:\nhttps://git.kernel.org/stable/c/4b540ec7c0045c2d01c4e479f34bbc8f147afa4c",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/593946",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-14",
+    "收录时间": "2024-09-27",
+    "更新时间": "2024-09-27",
+    "漏洞附件": "(无附件)"
+}
