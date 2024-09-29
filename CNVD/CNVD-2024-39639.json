@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "GTKWave越界写入漏洞（CNVD-2024-39639）",
+    "CNVD-ID": "CNVD-2024-39639",
+    "公开日期": "2024-09-30",
+    "危害级别": "高",
+    "影响产品": "GTKWave GTKWave 3.3.115",
+    "CVE ID": "CVE-2023-38648",
+    "漏洞描述": "GTKWave是GTKWave公司的一款功能齐全、基于GTK+的波形查看器。\nGTKWave 3.3.115版本存在越界写入漏洞。该漏洞源于VZT vzt_rd_get_facname解压功能存在越界写入，攻击者利用该漏洞通过特制的.vzt文件导致任意代码执行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://talosintelligence.com/vulnerability_reports/TALOS-2023-1813",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sourceforge.net/projects/gtkwave/files/gtkwave-3.3.118/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/594416",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-01-11",
+    "收录时间": "2024-09-29",
+    "更新时间": "2024-09-29",
+    "漏洞附件": "(无附件)"
+}

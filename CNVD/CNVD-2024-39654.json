@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Kofax Power PDF内存错误引用信息泄露漏洞（CNVD-2024-39654）",
+    "CNVD-ID": "CNVD-2024-39654",
+    "公开日期": "2024-09-30",
+    "危害级别": "低",
+    "影响产品": "Kofax Power PDF",
+    "CVE ID": "CVE-2023-51610",
+    "漏洞描述": "Kofax Power PDF是Kofax公司的一款专业PDF编辑和管理软件。\nKofax Power PDF存在内存错误引用信息泄露漏洞，攻击者可利用该漏洞泄露敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-51610",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://www.kofax.com/products/power-pdf/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/594436",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-13",
+    "收录时间": "2024-09-29",
+    "更新时间": "2024-09-29",
+    "漏洞附件": "(无附件)"
+}
