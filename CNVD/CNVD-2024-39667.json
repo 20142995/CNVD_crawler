@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Dynamics 365(On-Premises)信息泄露漏洞（CNVD-2024-39667）",
+    "CNVD-ID": "CNVD-2024-39667",
+    "公开日期": "2024-09-30",
+    "危害级别": "中",
+    "影响产品": "Microsoft Dynamics 365 (on-premises) 9.1",
+    "CVE ID": "CVE-2024-35263",
+    "漏洞描述": "Microsoft Dynamics 365是美国微软（Microsoft）公司的一套适用于跨国企业的ERP业务解决方案。该产品包括财务管理、生产管理和商业智能管理等。\nMicrosoft Dynamics 365(On-Premises)存在信息泄露漏洞，攻击者可利用此漏洞获取敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-35263",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-35263",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/598251",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-06-14",
+    "收录时间": "2024-09-30",
+    "更新时间": "2024-09-30",
+    "漏洞附件": "(无附件)"
+}
