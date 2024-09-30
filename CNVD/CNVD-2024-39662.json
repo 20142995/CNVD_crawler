@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Edge (Chromium-based)远程代码执行漏洞（CNVD-2024-39662）",
+    "CNVD-ID": "CNVD-2024-39662",
+    "公开日期": "2024-09-30",
+    "危害级别": "高",
+    "影响产品": "Microsoft Edge (Chromium-based)",
+    "CVE ID": "CVE-2024-39379",
+    "漏洞描述": "Microsoft Edge是美国微软（Microsoft）公司的一款Windows 10之后版本系统附带的Web浏览器。\nMicrosoft Edge (Chromium-based)存在远程代码执行漏洞，攻击者可利用此漏洞在系统上执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-39379",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-39379",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/594126",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-07-26",
+    "收录时间": "2024-09-30",
+    "更新时间": "2024-09-30",
+    "漏洞附件": "(无附件)"
+}
