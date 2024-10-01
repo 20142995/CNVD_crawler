@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Google Android Framework权限提升漏洞（CNVD-2024-39683）",
+    "CNVD-ID": "CNVD-2024-39683",
+    "公开日期": "2024-10-01",
+    "危害级别": "高",
+    "影响产品": "Google Android <12\nGoogle Android <12L\nGoogle Android <13\nGoogle Android <14",
+    "CVE ID": "CVE-2024-31324",
+    "漏洞描述": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。\nGoogle Android Framework存在权限提升漏洞，该漏洞是由于框架组件中的错误，攻击者可利用此漏洞在系统上获得更高的权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://android.googlesource.com/platform/frameworks/base/+/f16cc1135b414906164eb8fc55a76971b0e36c21",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/2024-06-01",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/598326",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-07-12",
+    "收录时间": "2024-10-01",
+    "更新时间": "2024-10-01",
+    "漏洞附件": "(无附件)"
+}
