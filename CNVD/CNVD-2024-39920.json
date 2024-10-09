@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Adobe Acrobat and Reader代码执行漏洞（CNVD-2024-39920）",
+    "CNVD-ID": "CNVD-2024-39920",
+    "公开日期": "2024-09-29",
+    "危害级别": "高",
+    "影响产品": "Adobe Acrobat DC Continuous >=15.008.20082，<22.003.20258\nAdobe Acrobat Reader DC Continuous >=15.008.20082，<22.003.20258",
+    "CVE ID": "CVE-2022-38450",
+    "漏洞描述": "Adobe Acrobat和Adobe Reader都是美国奥多比（Adobe）公司的产品。Adobe Acrobat是一套PDF文件编辑和转换工具。Adobe Reader是一套PDF文档阅读软件。\nAdobe Acrobat和Adobe Reader存在代码执行漏洞，该漏洞源于在处理不受信任的输入时出现边界错误。远程攻击者可利用该漏洞在系统上执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.auscert.org.au/bulletins/ESB-2022.5075",
+    "漏洞解决方案": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://helpx.adobe.com/security/products/acrobat/apsb22-46.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/594396",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2022-10-14",
+    "收录时间": "2024-10-09",
+    "更新时间": "2024-10-09",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Adobe Substance 3D Painter缓冲区溢出漏洞（CNVD-2024-39917）",
+    "CNVD-ID": "CNVD-2024-39917",
+    "公开日期": "2024-09-29",
+    "危害级别": "中",
+    "影响产品": "Adobe Substance 3D Painter <=9.1.1",
+    "CVE ID": "CVE-2024-20722",
+    "漏洞描述": "Adobe Substance 3D Painter是美国奥多比（Adobe）公司的一个3D纹理处理应用程序。\nAdobe Substance 3D Painter 9.1.1版本之前存在缓冲区溢出漏洞，该漏洞源于存在越界读取漏洞的影响可能导致敏感内存泄露。攻击者可利用该漏洞远程执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-20722",
+    "漏洞解决方案": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://helpx.adobe.com/security/products/substance3d_painter/apsb24-04.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/594381",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-02-22",
+    "收录时间": "2024-10-09",
+    "更新时间": "2024-10-09",
+    "漏洞附件": "(无附件)"
+}

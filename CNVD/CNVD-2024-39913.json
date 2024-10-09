@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Adobe Illustrator拒绝服务漏洞（CNVD-2024-39913）",
+    "CNVD-ID": "CNVD-2024-39913",
+    "公开日期": "2024-09-29",
+    "危害级别": "中",
+    "影响产品": "Adobe Illustrator >=27.0.0，<27.9.5\nAdobe Illustrator >=28.0，<28.6",
+    "CVE ID": "CVE-2024-34137",
+    "漏洞描述": "Adobe Illustrator是美国奥多比（Adobe）公司的一套基于向量的图像制作软件。\nAdobe Illustrator存在拒绝服务漏洞，该漏洞源于空指针取消引用。攻击者可利用该漏洞导致系统拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-34137",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/illustrator/apsb24-45.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/594361",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-16",
+    "收录时间": "2024-10-09",
+    "更新时间": "2024-10-09",
+    "漏洞附件": "(无附件)"
+}
