@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens Simcenter Nastran堆缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2024-40009",
+    "公开日期": "2024-10-10",
+    "危害级别": "高",
+    "影响产品": "Siemens Simcenter Nastran 2306 \nSiemens Simcenter Nastran 2312 \nSiemens Simcenter Nastran 2406 <2406.5000",
+    "CVE ID": "CVE-2024-41981",
+    "漏洞描述": "Simcenter Nastran是一个计算性能，精度和可靠性的有限元方法求解器。\nSiemens Simcenter Nastran存在堆缓冲区溢出漏洞，攻击者可利用该漏洞在当前进程的上下文中执行代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-852501.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.sw.siemens.com/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/598686",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-10",
+    "收录时间": "2024-10-10",
+    "更新时间": "2024-10-10",
+    "漏洞附件": "(无附件)"
+}

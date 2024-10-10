@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens Tecnomatix Plant Simulation内存损坏漏洞（CNVD-2024-40014）",
+    "CNVD-ID": "CNVD-2024-40014",
+    "公开日期": "2024-10-10",
+    "危害级别": "高",
+    "影响产品": "Siemens Tecnomatix Plant Simulation V2302 <2302.0016\nSiemens Tecnomatix Plant Simulation V2404 <2404.0005",
+    "CVE ID": "CVE-2024-45474",
+    "漏洞描述": "Tecnomatix Plant Simulation允许对物流系统及其流程进行建模、模拟、探索和优化。这些模型可以在生产执行之前对从全球生产设施到当地工厂和特定生产线的所有制造计划进行物料流、资源利用和物流分析。\nSiemens Tecnomatix Plant Simulation存在内存损坏漏洞，攻击者可利用该漏洞在当前进程的上下文中执行代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-583523.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.sw.siemens.com/product/297028302/\nhttps://support.sw.siemens.com/product/297028302/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/598616",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-10",
+    "收录时间": "2024-10-10",
+    "更新时间": "2024-10-10",
+    "漏洞附件": "(无附件)"
+}

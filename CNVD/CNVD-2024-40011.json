@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens JT2Go堆栈缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2024-40011",
+    "公开日期": "2024-10-10",
+    "危害级别": "高",
+    "影响产品": "SIEMENS JT2Go <2406.0003",
+    "CVE ID": "CVE-2024-41902",
+    "漏洞描述": "JT2Go是一个3D JT查看工具，允许用户查看JT， PDF，Solid Edge，PLM XML与可用的JT，VFZ，CGM和TIF数据。\nSiemens JT2Go存在堆栈缓冲区溢出漏洞，攻击者可利用该漏洞在当前进程的上下文中执行代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-626178.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://plm.sw.siemens.com/en-US/plm-components/jt/jt2go/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/598676",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-10",
+    "收录时间": "2024-10-10",
+    "更新时间": "2024-10-10",
+    "漏洞附件": "(无附件)"
+}

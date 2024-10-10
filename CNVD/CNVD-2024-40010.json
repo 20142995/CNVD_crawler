@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens SENTRON PAC Meter认证错误漏洞",
+    "CNVD-ID": "CNVD-2024-40010",
+    "公开日期": "2024-10-10",
+    "危害级别": "高",
+    "影响产品": "Siemens SENTRON 7KM PAC3200",
+    "CVE ID": "CVE-2024-41798",
+    "漏洞描述": "SENTRON PAC Meter是用于精确能源管理和透明信息采集的功率测量设备。\nSiemens SENTRON PAC Meter存在认证错误漏洞，攻击者可利用该漏洞通过暴力攻击或嗅探Modbus明文通信绕过认证。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-850560.html",
+    "漏洞解决方案": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://support.industry.siemens.com/cs/ww/en/view/109975235/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-10",
+    "收录时间": "2024-10-10",
+    "更新时间": "2024-10-10",
+    "漏洞附件": "(无附件)"
+}
