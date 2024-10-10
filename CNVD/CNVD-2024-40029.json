@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens SINEC Security Monitor命令注入漏洞",
+    "CNVD-ID": "CNVD-2024-40029",
+    "公开日期": "2024-10-10",
+    "危害级别": "中",
+    "影响产品": "Siemens SINEC Security Monitor <4.9.0",
+    "CVE ID": "CVE-2024-47562",
+    "漏洞描述": "SINEC Security Monitor是一款模块化网络安全软件，用于在客户现场生产过程中进行被动、非侵入式、连续的网络安全监控。\nSiemens SINEC Security Monitor存在命令注入漏洞，该漏洞源于未能正确中和ssmctl-client命令的用户输入中的特殊元素，经过身份验证的低特权本地攻击者可利用该漏洞在底层操作系统中执行特权命令。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-430425.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.industry.siemens.com/cs/ww/en/view/109975096/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/598571",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-10",
+    "收录时间": "2024-10-10",
+    "更新时间": "2024-10-10",
+    "漏洞附件": "(无附件)"
+}

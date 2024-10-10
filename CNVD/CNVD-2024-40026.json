@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens HiMed Cockpit备用路径保护不当漏洞",
+    "CNVD-ID": "CNVD-2024-40026",
+    "公开日期": "2024-10-10",
+    "危害级别": "中",
+    "影响产品": "Siemens HiMed Cockpit 12 pro(J31032-K2017-H259) >=11.5.1，<11.6.2\nSiemens HiMed Cockpit 14 pro+(J31032-K2017-H435) >=11.5.1，<11.6.2\nSiemens HiMed Cockpit 18 pro(J31032-K2017-H260) >=11.5.1，<11.6.2\nSiemens HiMed Cockpit 18 pro+(J31032-K2017-H436) >=11.5.1，<11.6.2",
+    "CVE ID": "CVE-2023-52952",
+    "漏洞描述": "HiMed Cockpit是一个多媒体终端，用于信息娱乐和其他应用，包括支持医院病人床边的医疗过程。\nSiemens HiMed Cockpit存在备用路径保护不当漏洞，未经身份验证的本地攻击者可利用该漏洞逃离受限制的环境并获得对底层操作系统的访问权。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-540493.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://cert-portal.siemens.com/productcert/html/ssa-540493.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/598591",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-10",
+    "收录时间": "2024-10-10",
+    "更新时间": "2024-10-10",
+    "漏洞附件": "(无附件)"
+}

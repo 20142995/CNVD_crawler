@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens多款产品身份验证绕过漏洞",
+    "CNVD-ID": "CNVD-2024-40034",
+    "公开日期": "2024-10-10",
+    "危害级别": "中",
+    "影响产品": "Siemens SIMATIC S7-1500 Software Controller \nSiemens SIMATIC S7-PLCSIM Advanced \nSiemens SIMATIC ET 200SP Open Controller CPU 1515SP PC2 (incl. SIPLUS variants) \nSiemens SIMATIC S7-1500 CPU family (incl. related ET200 CPUs and SIPLUS variants) \nSiemens SIMATIC Drive Controller family <3.1.4",
+    "CVE ID": "CVE-2024-46887",
+    "漏洞描述": "SIMATIC Drive Controllers是为生产机器的自动化而设计的，结合了SIMATIC S7-1500 CPU和SINAMICS S120驱动控制的功能。SIMATIC ET 200SP Open Controller是SIMATIC S7-1500控制器的基于pc的版本，包括可选的可视化以及紧凑设备中的中央I/o。SIMATIC S7-1500 CPU是专为全球制造业，食品和饮料以及化学工业等工业环境中的离散和连续控制而设计。SIMATIC S7-1500 MFP CPUs提供了标准S7-1500 cpu的功能，可以在cpu运行时中运行C/c++代码来执行自己在C/c++中实现的函数/算法。SIMATIC S7-1500 Software Controller是一款SIMATIC软件控制器，适用于基于pc的自动化解决方案。SIMATIC S7-PLCSIM Advanced模拟S7-1200，S7-1500和其他一些PLC衍生产品。包括完整的网络访问来模拟plc，即使在虚拟化环境中。\nSiemens多款产品存在身份验证绕过漏洞，未经身份验证的远程攻击者可利用该漏洞获取有关当前实际和配置的最大周期时间以及配置的最大通信负载的知识。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-054046.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.industry.siemens.com/cs/ww/en/view/109773914/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/598531",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-10",
+    "收录时间": "2024-10-10",
+    "更新时间": "2024-10-10",
+    "漏洞附件": "(无附件)"
+}
