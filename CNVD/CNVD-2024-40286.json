@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Zyxel VMG8825-T50K缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2024-40286",
+    "公开日期": "2024-10-10",
+    "危害级别": "中",
+    "影响产品": "ZyXEL VMG8825-T50K firmware <=5.50(ABOM.8)C0",
+    "CVE ID": "CVE-2024-38269",
+    "漏洞描述": "Zyxel VMG8825-T50K是中国合勤（Zyxel）公司的一款互联网接入设备。\nZyxel VMG8825-T50K存在缓冲区溢出漏洞，该漏洞源于USB文件共享处理程序对内存缓冲区范围内的操作进行不适当的限制。具有管理员权限的经过身份验证的攻击者可利用该漏洞造成潜在的内存损坏，从而导致受影响设备上的线程崩溃。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-38269",
+    "漏洞解决方案": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-post-authentication-memory-corruption-vulnerabilities-in-some-dsl-ethernet-cpe-fiber-ont-wifi-extender-and-security-router-versions-09-24-2024",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-08",
+    "收录时间": "2024-10-11",
+    "更新时间": "2024-10-11",
+    "漏洞附件": "(无附件)"
+}
