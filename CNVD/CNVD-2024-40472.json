@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Tenda G3代码执行漏洞",
+    "CNVD-ID": "CNVD-2024-40472",
+    "公开日期": "2024-10-10",
+    "危害级别": "高",
+    "影响产品": "Tenda G3 15.03.05.05",
+    "CVE ID": "CVE-2024-46628",
+    "漏洞描述": "Tenda G3是中国腾达（Tenda）公司的一款Qos Vpn路由器。\nTenda G3 15.03.05.05版本存在代码执行漏洞，该漏洞源于formSetUSBPartitionUmount函数中的usbPartitionName参数未能正确过滤构造代码段的特殊元素。攻击者可利用该漏洞导致任意代码执行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/Question-h/vuln/blob/master/Remote%20Code%20Execution%20Vulnerability%20in%20Tenda%20G3%20Router.md",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.tenda.com.cn/download/detail-3369.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/598761",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-29",
+    "收录时间": "2024-10-12",
+    "更新时间": "2024-10-12",
+    "漏洞附件": "(无附件)"
+}
