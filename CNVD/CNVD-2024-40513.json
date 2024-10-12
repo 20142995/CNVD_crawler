@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Mozilla Firefox for Android欺骗漏洞（CNVD-2024-40513）",
+    "CNVD-ID": "CNVD-2024-40513",
+    "公开日期": "2024-10-12",
+    "危害级别": "中",
+    "影响产品": "Mozilla Firefox for Android < 130.0.1",
+    "CVE ID": "CVE-2024-8897",
+    "漏洞描述": "Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。\nMozilla Firefox for Android存在欺骗漏洞，该漏洞源于系统未对目标跳转做合理处理，攻击者可利用此漏洞能够伪造地址栏内容，从而导致恶意站点与受信任站点具有相同的URL。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://bugzilla.mozilla.org/show_bug.cgi?id=1862537",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/en-US/security/advisories/mfsa2024-45/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/599201",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-23",
+    "收录时间": "2024-10-12",
+    "更新时间": "2024-10-12",
+    "漏洞附件": "(无附件)"
+}

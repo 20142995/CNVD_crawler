@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Mozilla Firefox for Android欺骗漏洞（CNVD-2024-40515）",
+    "CNVD-ID": "CNVD-2024-40515",
+    "公开日期": "2024-10-12",
+    "危害级别": "高",
+    "影响产品": "Mozilla Firefox <=130.0",
+    "CVE ID": "CVE-2024-8388",
+    "漏洞描述": "Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。\nMozilla Firefox for Android存在欺骗漏洞，该漏洞是由于向全屏模式过渡的通知被掩盖造成的。攻击者可利用此漏洞欺骗浏览器UI。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-8388",
+    "漏洞解决方案": "目前厂商已发布升级补丁以修复漏洞，详情请关注厂商主页：\nhttps://cxsecurity.com/cveshow/CVE-2024-8388/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/599211",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-10",
+    "收录时间": "2024-10-12",
+    "更新时间": "2024-10-12",
+    "漏洞附件": "(无附件)"
+}

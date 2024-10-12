@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "多款Mozilla产品代码执行漏洞（CNVD-2024-40520）",
+    "CNVD-ID": "CNVD-2024-40520",
+    "公开日期": "2024-10-12",
+    "危害级别": "高",
+    "影响产品": "Mozilla Firefox < 130\nMozilla Firefox ESR < 128.2\nMozilla Thunderbird < 128.2",
+    "CVE ID": "CVE-2024-8387",
+    "漏洞描述": "Mozilla Firefox是一款开源Web浏览器。Mozilla Firefox ESR是Firefox（Web浏览器）的一个延长支持版本。Mozilla Thunderbird是一套从Mozilla Application Suite独立出来的电子邮件客户端软件。\n多款Mozilla产品存在代码执行漏洞，该漏洞是由浏览器引擎中的内存安全漏洞引起的。攻击者可利用该漏洞在易受攻击的系统上执行任意代码或造成拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-8387",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/security/advisories/mfsa2024-39/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/599226",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-04",
+    "收录时间": "2024-10-12",
+    "更新时间": "2024-10-12",
+    "漏洞附件": "(无附件)"
+}
