@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Dynamics 365 Business Central权限提升漏洞（CNVD-2024-40535）",
+    "CNVD-ID": "CNVD-2024-40535",
+    "公开日期": "2024-10-14",
+    "危害级别": "高",
+    "影响产品": "Microsoft Dynamics 365 Business Central Online",
+    "CVE ID": "CVE-2024-43460",
+    "漏洞描述": "Microsoft Dynamics 365 Business Central是一款全面的业务管理解决方案，可帮助中小型公司在单个易于使用的应用程序中连接其财务、销售、服务和运营团队。\nMicrosoft Dynamics 365 Business Central存在权限提升漏洞，该漏洞源于授权不当。攻击者可利用该漏洞在系统上获得更高的权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-43460/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-43460",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/599421",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-23",
+    "收录时间": "2024-10-14",
+    "更新时间": "2024-10-14",
+    "漏洞附件": "(无附件)"
+}

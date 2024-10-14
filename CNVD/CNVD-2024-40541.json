@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Windows Hyper-V安全功能绕过漏洞（CNVD-2024-40541）",
+    "CNVD-ID": "CNVD-2024-40541",
+    "公开日期": "2024-10-14",
+    "危害级别": "中",
+    "影响产品": "Microsoft Windows 10 \nMicrosoft Windows Server 2019 \nMicrosoft Windows Server 2022 \nMicrosoft Windows 11 \nMicrosoft Windows Server 2022 23H2",
+    "CVE ID": "CVE-2024-20659",
+    "漏洞描述": "Microsoft Windows Hyper-V是美国微软（Microsoft）公司的一款可提供硬件虚拟化的工具。\nMicrosoft Windows Hyper-V存在安全功能绕过漏洞，攻击者可利用该漏洞绕过某些功能。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-20659",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-20659",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/599456",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-13",
+    "收录时间": "2024-10-14",
+    "更新时间": "2024-10-14",
+    "漏洞附件": "(无附件)"
+}
