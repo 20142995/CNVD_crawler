@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Mozilla Firefox释放后重用漏洞（CNVD-2024-40750）",
+    "CNVD-ID": "CNVD-2024-40750",
+    "公开日期": "2024-10-15",
+    "危害级别": "高",
+    "影响产品": "Mozilla Firefox <131.0.2\nMozilla Foundation Firefox ESR <128.3.1\nMozilla Firefox ESR <115.16.1\nMozilla Thunderbird <131.0.1\nMozilla Thunderbird <128.3.1\nMozilla Thunderbird <115.16.0",
+    "CVE ID": "CVE-2024-9680",
+    "漏洞描述": "Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。\nMozilla Firefox存在释放后重用漏洞，攻击者可利用该漏洞在内容进程中执行代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://bugzilla.mozilla.org/show_bug.cgi?id=1923344",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/security/advisories/mfsa2024-51/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/599501",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-13",
+    "收录时间": "2024-10-15",
+    "更新时间": "2024-10-15",
+    "漏洞附件": "(无附件)"
+}

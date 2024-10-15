@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "PDF-XChange Editor EMF文件解析越界读取信息泄露漏洞",
+    "CNVD-ID": "CNVD-2024-40731",
+    "公开日期": "2024-10-15",
+    "危害级别": "低",
+    "影响产品": "PDF-XChange PDF-XChange Editor",
+    "CVE ID": "CVE-2023-42087",
+    "漏洞描述": "PDF-XChange Editor是PDF-XChange公司的一个运行在Microsoft Windows系统中的PDF文件查看软件。\nPDF-XChange Editor EMF文件解析存在越界读取信息泄露漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2023-42087/",
+    "漏洞解决方案": "目前厂商已发布升级补丁以修复漏洞，详情请关注厂商主页：\nhttps://www.pdf-xchange.com/product/downloads",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/599481",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-11",
+    "收录时间": "2024-10-15",
+    "更新时间": "2024-10-15",
+    "漏洞附件": "(无附件)"
+}
