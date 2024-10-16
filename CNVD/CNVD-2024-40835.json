@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Rockwell Automation Pavilion8授权问题漏洞（CNVD-2024-40835）",
+    "CNVD-ID": "CNVD-2024-40835",
+    "公开日期": "2024-10-16",
+    "危害级别": "高",
+    "影响产品": "Rockwell Automation Rockwell Automation Pavilion8 <V5.20",
+    "CVE ID": "CVE-2024-7960",
+    "漏洞描述": "Rockwell Automation Pavilion8是美国罗克韦尔（Rockwell Automation）公司的一个模型预测控制台。\nRockwell Automation Pavilion8存在授权问题漏洞，该漏洞源于错误的权限矩阵，攻击者可利用该漏洞访问未授权功能。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1695.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1695.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/599676",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-14",
+    "收录时间": "2024-10-16",
+    "更新时间": "2024-10-16",
+    "漏洞附件": "(无附件)"
+}

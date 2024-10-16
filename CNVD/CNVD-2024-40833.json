@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Rockwell Automation 5015-AENFTXT输入验证错误漏洞",
+    "CNVD-ID": "CNVD-2024-40833",
+    "公开日期": "2024-10-16",
+    "危害级别": "高",
+    "影响产品": "Rockwell Automation 5015-AENFTXT 2.011",
+    "CVE ID": "CVE-2024-6089",
+    "漏洞描述": "Rockwell Automation 5015-AENFTXT是美国罗克韦尔（Rockwell Automation）公司的一个FLEXHA 5000 I/O 系统规格中的技术数据。\nRockwell Automation 5015-AENFTXT存在输入验证错误漏洞，攻击者可利用该漏洞导致辅助适配器发生不可恢复故障。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-6089/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1680.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/599671",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-07-18",
+    "收录时间": "2024-10-16",
+    "更新时间": "2024-10-16",
+    "漏洞附件": "(无附件)"
+}
