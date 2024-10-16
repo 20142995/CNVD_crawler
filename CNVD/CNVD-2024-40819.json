@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Trend Micro Apex One访问控制错误漏洞（CNVD-2024-40819）",
+    "CNVD-ID": "CNVD-2024-40819",
+    "公开日期": "2024-10-16",
+    "危害级别": "中",
+    "影响产品": "Trend Micro Apex One",
+    "CVE ID": "CVE-2024-37289",
+    "漏洞描述": "Trend Micro Apex One是美国趋势科技（Trend Micro）公司的一款终端防护软件。\nTrend Micro Apex One存在访问控制错误漏洞，攻击者可利用该漏洞提升权限，并在系统上下文中执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-37289/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://success.trendmicro.com/dcx/s/solution/000298063",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/599636",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-06-12",
+    "收录时间": "2024-10-16",
+    "更新时间": "2024-10-16",
+    "漏洞附件": "(无附件)"
+}

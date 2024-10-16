@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Trend Micro Apex One权限提升漏洞（CNVD-2024-40826）",
+    "CNVD-ID": "CNVD-2024-40826",
+    "公开日期": "2024-10-16",
+    "危害级别": "中",
+    "影响产品": "Trend Micro Apex One <=14.0",
+    "CVE ID": "CVE-2024-36303",
+    "漏洞描述": "Trend Micro Apex One是美国趋势科技（Trend Micro）公司的一款终端防护软件。\nTrend Micro Apex One存在权限提升漏洞，攻击者可利用该漏洞在系统上获取更高的权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-36303/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://success.trendmicro.com/dcx/s/solution/000298063",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/599601",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-06-12",
+    "收录时间": "2024-10-16",
+    "更新时间": "2024-10-16",
+    "漏洞附件": "(无附件)"
+}

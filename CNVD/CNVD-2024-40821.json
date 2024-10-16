@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Trend Micro InterScan Web Security Virtual Appliance跨站脚本漏洞（CNVD-2024-40821）",
+    "CNVD-ID": "CNVD-2024-40821",
+    "公开日期": "2024-10-16",
+    "危害级别": "中",
+    "影响产品": "Trend Micro InterScan Web Security Virtual Appliance 6.5",
+    "CVE ID": "CVE-2024-36359",
+    "漏洞描述": "Trend Micro InterScan Web Security Virtual Appliance（IWSVA）是美国趋势科技（Trend Micro）公司的一款针对基于Web方式的威胁为企业网络提供动态的、集成式的安全保护的Web安全网关。\nTrend Micro InterScan Web Security Virtual Appliance存在跨站脚本漏洞，攻击者可利用该漏洞获取用户基于cookie的身份验证凭据。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-36359/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://success.trendmicro.com/dcx/s/solution/000298065",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/599626",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-06-12",
+    "收录时间": "2024-10-16",
+    "更新时间": "2024-10-16",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Foxit PDF Reader代码执行漏洞（CNVD-2024-40813）",
+    "CNVD-ID": "CNVD-2024-40813",
+    "公开日期": "2024-10-16",
+    "危害级别": "高",
+    "影响产品": "Foxit PDF Editor 12.*，<12.1.7.15526\nFoxit PDF Editor <=11.2.10.53951\nFoxit PDF Editor 2024. *，<2024.2.3.25184\nFoxit PDF Editor 2023.*，<2023.3.0.23028\nFoxit PDF Editor 13.*，<13.1.3.22478\nFoxit PDF Reader <=2024.2.3.25184",
+    "CVE ID": "CVE-2024-9250",
+    "漏洞描述": "Foxit PDF Reader是一款PDF文档阅读器和打印器，拥有快捷的启动速度和丰富的功能。\nFoxit PDF Reader存在代码执行漏洞，攻击者可利用该漏洞在系统上执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.zerodayinitiative.com/advisories/ZDI-24-1303/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.foxit.com/support/security-bulletins.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/599561",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-29",
+    "收录时间": "2024-10-16",
+    "更新时间": "2024-10-16",
+    "漏洞附件": "(无附件)"
+}
