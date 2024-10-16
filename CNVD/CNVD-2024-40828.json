@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Delta Electronics CNCSoft-G2未初始化变量漏洞",
+    "CNVD-ID": "CNVD-2024-40828",
+    "公开日期": "2024-10-16",
+    "危害级别": "高",
+    "影响产品": "Delta Electronics CNCSoft-G2 2.1.0.10",
+    "CVE ID": "CVE-2024-47966",
+    "漏洞描述": "Delta Electronics CNCSoft-G2是中国台达电子（Delta Electronics）公司的一种人机界面（HMI）软件。\nDelta Electronics CNCSoft-G2存在未初始化变量漏洞，攻击者可利用该漏洞在当前进程的上下文中执行代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-47966/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://downloadcenter.deltaww.com/en-US/DownloadCenter?v=1&q=CNCSoft-g2&sort_expr=cdate&sort_dir=DESC",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/599666",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-12",
+    "收录时间": "2024-10-16",
+    "更新时间": "2024-10-16",
+    "漏洞附件": "(无附件)"
+}
