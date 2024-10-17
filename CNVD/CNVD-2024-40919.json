@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Adobe InDesign代码问题漏洞（CNVD-2024-40919）",
+    "CNVD-ID": "CNVD-2024-40919",
+    "公开日期": "2024-10-12",
+    "危害级别": "高",
+    "影响产品": "Adobe InDesign 19.4\nAdobe InDesign <=18.5.3",
+    "CVE ID": "CVE-2024-45137",
+    "漏洞描述": "Adobe InDesign是美国奥多比（Adobe）公司的一套排版编辑应用程序。\nAdobe InDesign存在代码问题漏洞，该漏洞源于无限制上传危险类型文件。攻击者可利用该漏洞执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-45137/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/incopy/apsb24-79.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/599126",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-11",
+    "收录时间": "2024-10-17",
+    "更新时间": "2024-10-17",
+    "漏洞附件": "(无附件)"
+}

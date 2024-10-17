@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Adobe Substance 3D Stager代码执行漏洞（CNVD-2024-40924）",
+    "CNVD-ID": "CNVD-2024-40924",
+    "公开日期": "2024-10-12",
+    "危害级别": "高",
+    "影响产品": "Adobe Substance 3D Stager <=3.0.3",
+    "CVE ID": "CVE-2024-45142",
+    "漏洞描述": "Adobe Substance 3D Stager是美国奥多比（Adobe）公司的一个虚拟3D工作室。\nAdobe Substance 3D Stager存在安全漏洞。攻击者利用该漏洞可以在当前用户环境中执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-45142/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/substance3d_stager/apsb24-81.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/599146",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-11",
+    "收录时间": "2024-10-17",
+    "更新时间": "2024-10-17",
+    "漏洞附件": "(无附件)"
+}
