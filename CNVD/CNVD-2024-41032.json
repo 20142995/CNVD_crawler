@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Google Chrome存在未明漏洞（CNVD-2024-41032）",
+    "CNVD-ID": "CNVD-2024-41032",
+    "公开日期": "2024-10-17",
+    "危害级别": "高",
+    "影响产品": "Google Chrome <130.0.6723.58",
+    "CVE ID": "CVE-2024-9955",
+    "漏洞描述": "Google Chrome是美国谷歌（Google）公司的一款Web浏览器。\nGoogle Chrome 130.0.6723.58之前版本存在安全漏洞，该漏洞源于存在释放后重用，远程攻击者可利用该漏洞通过精心设计的HTML页面潜在地利用堆损坏。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-9955",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新： \nhttps://chromereleases.googleblog.com/2024/10/stable-channel-update-for-desktop_15.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/600456",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-17",
+    "收录时间": "2024-10-18",
+    "更新时间": "2024-10-18",
+    "漏洞附件": "(无附件)"
+}
