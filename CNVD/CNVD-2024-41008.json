@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Esri Portal For ArcGIS跨站脚本漏洞（CNVD-2024-41008）",
+    "CNVD-ID": "CNVD-2024-41008",
+    "公开日期": "2024-10-18",
+    "危害级别": "中",
+    "影响产品": "esri Portal for ArcGIS 10.8.1\nesri Portal for ArcGIS 10.9.1\nesri Portal for ArcGIS 10.7.1",
+    "CVE ID": "CVE-2024-38038",
+    "漏洞描述": "Esri Portal For ArcGIS是美国环境系统研究所（Esri）公司的一种允许在组织内与其他人共享地图、场景、应用程序和其他地理信息的组件。\nEsri Portal For ArcGIS存在跨站脚本漏洞，远程未经身份验证的攻击者可利用该漏洞创建精心设计的链接，点击该链接后可能会在受害者的浏览器中执行任意JavaScript代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.esri.com/arcgis-blog/products/trust-arcgis/administration/portal-for-arcgis-security-2024-update-2-released/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.esri.com/arcgis-blog/products/trust-arcgis/administration/portal-for-arcgis-security-2024-update-2-released/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/600506",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-17",
+    "收录时间": "2024-10-18",
+    "更新时间": "2024-10-18",
+    "漏洞附件": "(无附件)"
+}
