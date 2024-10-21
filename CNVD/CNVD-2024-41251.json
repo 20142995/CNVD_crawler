@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM QRadar Suite日志信息泄露漏洞（CNVD-2024-41251）",
+    "CNVD-ID": "CNVD-2024-41251",
+    "公开日期": "2024-10-21",
+    "危害级别": "中",
+    "影响产品": "IBM IBM Cloud Pak for Security >=1.10.0.0，<=1.10.11.0\nIBM IBM QRadar Suite >=1.10.12.0，<=1.10.17.0",
+    "CVE ID": "CVE-2024-22335",
+    "漏洞描述": "IBM QRadar Suite是美国国际商业机器（IBM）公司的一款集成式的安全信息与事件管理（SIEM）解决方案，用于监控和分析组织中的网络活动以检测潜在的安全威胁。\nIBM QRadar Suite存在日志信息泄露漏洞，攻击者可利用该漏洞读取日志文件中的敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://exchange.xforce.ibmcloud.com/vulnerabilities/279975",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7118642",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/600696",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-02-22",
+    "收录时间": "2024-10-21",
+    "更新时间": "2024-10-21",
+    "漏洞附件": "(无附件)"
+}

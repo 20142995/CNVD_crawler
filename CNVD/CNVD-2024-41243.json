@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM MQ拒绝服务漏洞（CNVD-2024-41243）",
+    "CNVD-ID": "CNVD-2024-41243",
+    "公开日期": "2024-10-21",
+    "危害级别": "中",
+    "影响产品": "IBM IBM MQ 9.0 LTS\nIBM IBM MQ 9.1 LTS\nIBM IBM MQ 9.2 LTS\nIBM IBM MQ 9.3 CD\nIBM IBM MQ 9.3 LTS",
+    "CVE ID": "CVE-2024-35116",
+    "漏洞描述": "IBM MQ（IBM WebSphere MQ）是美国国际商业机器（IBM）公司的一款消息传递中间件产品。该产品主要为面向服务的体系结构（SOA）提供可靠的、经过验证的消息传递主干网。\nIBM MQ存在拒绝服务漏洞，攻击者可利用该漏洞进行拒绝服务攻击。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://exchange.xforce.ibmcloud.com/vulnerabilities/290335",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7157387",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/600681",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-07-02",
+    "收录时间": "2024-10-21",
+    "更新时间": "2024-10-21",
+    "漏洞附件": "(无附件)"
+}
