@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "VMware vCenter Server堆溢出漏洞",
+    "CNVD-ID": "CNVD-2024-41447",
+    "公开日期": "2024-10-23",
+    "危害级别": "高",
+    "影响产品": "VMWare VMvare vCenter Server >=8.0，<8.0 U3b\nVMWare VMvare vCenter Server >=7.0，<7.0 U3s\nVMWare VMware Cloud Foundation >=5.x，<8.0 U3b\nVMWare VMware Cloud Foundation >=4.x，<7.0 U3s",
+    "CVE ID": "CVE-2024-38812",
+    "漏洞描述": "VMware vCenter Server是VMware公司提供的一款虚拟化管理平台，用于集中管理和\n监控VMware vSphere虚拟化环境。\nVMware vCenter Server存在堆溢出漏洞，该漏洞是由于VMware vCenter Server在DCERPC协议实施过程中存在堆溢出漏洞，攻击者可利用该漏洞发送特制的网络数据包从而导致远程代码执行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://support.broadcom.com/web/ecx/support-content-notification/-/external/conte\nnt/SecurityAdvisories/0/24968",
+    "漏洞解决方案": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nVMware vCenter Server 8.0 U3d：\nhttps://support.broadcom.com/web/ecx/solutiondetails?patchId=5574\nVMware vCenter Server 8.0 U2e：\nhttps://support.broadcom.com/web/ecx/solutiondetails?patchId=5531\nVMware vCenter Server 7.0 U3t：\nhttps://support.broadcom.com/web/ecx/solutiondetails?patchId=5580",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/600761",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-23",
+    "收录时间": "2024-10-23",
+    "更新时间": "2024-10-23",
+    "漏洞附件": "附件暂不公开"
+}
