@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Cisco Secure Endpoint缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2024-41622",
+    "公开日期": "2024-10-24",
+    "危害级别": "高",
+    "影响产品": "Cisco secure endpoint private cloud <3.8.0\nCisco secure endpoint <7.5.17\nCisco secure endpoint >=8.0.1.21160，<8.2.3.30119",
+    "CVE ID": "CVE-2024-20290",
+    "漏洞描述": "Cisco Secure Endpoint（Cisco AMP for Endpoints）是美国思科（Cisco）公司的一套集成了静态和动态恶意软件分析以及威胁情报于一体的终端应用程序。\nCisco Secure Endpoint Connector for Windows 7.5.17之前、8.2.3.301191之前版本，Secure Endpoint Private Cloud 3.8.0之前版本存在缓冲区溢出漏洞，该漏洞源于扫描期间对字符串结尾值的错误检查。攻击者可利用该漏洞导致堆缓冲区过度读取在受影响的设备上造成拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-20290",
+    "漏洞解决方案": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-clamav-hDffu6t",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/600991",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-02-22",
+    "收录时间": "2024-10-24",
+    "更新时间": "2024-10-24",
+    "漏洞附件": "(无附件)"
+}

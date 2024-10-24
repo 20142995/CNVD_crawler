@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Cisco Duo身份验证绕过漏洞",
+    "CNVD-ID": "CNVD-2024-41621",
+    "公开日期": "2024-10-23",
+    "危害级别": "高",
+    "影响产品": "Cisco Cisco Duo 4.2.0\nCisco Cisco Duo 4.2.1\nCisco Cisco Duo 4.2.2",
+    "CVE ID": "CVE-2024-20301",
+    "漏洞描述": "Cisco Duo是美国思科（Cisco）公司的一个完全托管的解决方案。提供对您的应用程序和数据的安全访问。\nCisco Duo存在身份验证绕过漏洞，该漏洞源于受影响设备重新启动后无法使本地创建的可信会话失效，经过身份验证的攻击者可利用该漏洞绕过辅助身份验证并访问受影响的Windows设备。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-20301",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-duo-win-bypass-pn42KKBm",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/600921",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-03-12",
+    "收录时间": "2024-10-24",
+    "更新时间": "2024-10-24",
+    "漏洞附件": "(无附件)"
+}

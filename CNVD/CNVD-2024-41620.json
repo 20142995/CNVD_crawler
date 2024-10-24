@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Cisco IP Phone拒绝服务漏洞（CNVD-2024-41620）",
+    "CNVD-ID": "CNVD-2024-41620",
+    "公开日期": "2024-10-23",
+    "危害级别": "高",
+    "影响产品": "Cisco IP Phone",
+    "CVE ID": "CVE-2024-20376",
+    "漏洞描述": "Cisco IP Phone是美国思科（Cisco）公司的一个硬件设备，提供通话功能的IP电话。\nCisco IP Phone存在拒绝服务漏洞，该漏洞源于对用户提供的输入验证不足，未经身份验证的远程攻击者可利用该漏洞导致受影响的设备重新加载，从而使设备无法正常运行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-20376",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ipphone-multi-vulns-cXAhCvS",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/600916",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-06-28",
+    "收录时间": "2024-10-24",
+    "更新时间": "2024-10-24",
+    "漏洞附件": "(无附件)"
+}
