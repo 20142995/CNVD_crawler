@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens InterMesh Subscriber Devices权限分配不正确漏洞",
+    "CNVD-ID": "CNVD-2024-41572",
+    "公开日期": "2024-10-24",
+    "危害级别": "高",
+    "影响产品": "Siemens InterMesh 7177 Hybrid 2.0 Subscriber <V8.2.12\nSiemens InterMesh 7707 Fire Subscriber <V7.2.12，仅当启用IP接口时（这不是默认配置）",
+    "CVE ID": "CVE-2024-47904",
+    "漏洞描述": "InterMesh是一个无线报警报告系统，它使用网状无线网络技术来传递报警信号。\nSiemens InterMesh Subscriber Devices存在权限分配不正确漏洞，该漏洞是由于受影响的设备包含一个SUID二进制文件，攻击者可利用该漏洞以root权限执行任意命令。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-333468.html",
+    "漏洞解决方案": "用户可参考如下供应商提供的安全公告获得补丁信息：\nhttps://cert-portal.siemens.com/productcert/html/ssa-333468.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/600981",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-24",
+    "收录时间": "2024-10-24",
+    "更新时间": "2024-10-24",
+    "漏洞附件": "(无附件)"
+}
