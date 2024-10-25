@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Elvaco M-Bus Metering Gateway CMe3100文件上传漏洞",
+    "CNVD-ID": "CNVD-2024-41679",
+    "公开日期": "2024-10-25",
+    "危害级别": "高",
+    "影响产品": "Elvaco M-Bus Metering Gateway CMe3100 1.12.1",
+    "CVE ID": "CVE-2024-49398",
+    "漏洞描述": "Elvaco M-Bus Metering Gateway CMe3100是Elvaco公司的一款用于固定网络的 M-Bus 计量网关。\nElvaco M-Bus Metering Gateway CMe3100 1.12.1版本存在文件上传漏洞，攻击者可利用该漏洞远程执行代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-49398/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.elvaco.com/hc/en-us/articles/19039255400477-Release-notes",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/601346",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-23",
+    "收录时间": "2024-10-25",
+    "更新时间": "2024-10-25",
+    "漏洞附件": "(无附件)"
+}

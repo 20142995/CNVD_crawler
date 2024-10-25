@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Mitsubishi Electric CNC Series输入指定数量验证错误漏洞",
+    "CNVD-ID": "CNVD-2024-41683",
+    "公开日期": "2024-10-25",
+    "危害级别": "中",
+    "影响产品": "Mitsubishi Electric CNC Series",
+    "CVE ID": "CVE-2024-7316",
+    "漏洞描述": "Mitsubishi Electric CNC Series是日本三菱电机（Mitsubishi Electric）公司的一系列数控控制系统。\nMitsubishi Electric CNC Series存在输入指定数量验证错误漏洞，攻击者可利用该漏洞通过向TCP端口683发送特制数据包，对产品造成拒绝服务，导致产品紧急停机。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-7316/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mitsubishielectric.com/en/psirt/vulnerability/pdf/2024-007_en.pdf",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/601356",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-23",
+    "收录时间": "2024-10-25",
+    "更新时间": "2024-10-25",
+    "漏洞附件": "(无附件)"
+}

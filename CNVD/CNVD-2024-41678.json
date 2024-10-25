@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Adobe Substance 3D Sampler空指针解引用漏洞",
+    "CNVD-ID": "CNVD-2024-41678",
+    "公开日期": "2024-10-25",
+    "危害级别": "中",
+    "影响产品": "Adobe Substance 3D Sampler <=4.5",
+    "CVE ID": "CVE-2024-47459",
+    "漏洞描述": "Adobe Substance 3D Sampler是美国奥多比（Adobe）公司的一款摄影测量软件。用于将照片捕捉和扫描图像转换为 3D 纹理和材质资产。\nAdobe Substance 3D Sampler 4.5及之前版本存在空指针解引用漏洞，攻击者可利用该漏洞导致应用程序拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-47459/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/substance3d-sampler/apsb24-65.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/601306",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-23",
+    "收录时间": "2024-10-25",
+    "更新时间": "2024-10-25",
+    "漏洞附件": "(无附件)"
+}
