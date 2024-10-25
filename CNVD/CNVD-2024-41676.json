@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Cisco Firepower Management Center SQL注入漏洞（CNVD-2024-41676）",
+    "CNVD-ID": "CNVD-2024-41676",
+    "公开日期": "2024-10-23",
+    "危害级别": "高",
+    "影响产品": "Cisco Cisco Firepower Management Center 7.0.0\nCisco Cisco Firepower Management Center 7.0.0.1\nCisco Cisco Firepower Management Center 7.0.1\nCisco Cisco Firepower Management Center 7.0.1.1\nCisco Cisco Firepower Management Center 7.0.2\nCisco Cisco Firepower Management Center 7.0.2.1\nCisco Cisco Firepower Management Center 7.0.3\nCisco Cisco Firepower Management Center 7.0.4\nCisco Cisco Firepower Management Center 7.0.5\nCisco Cisco Firepower Management Center 7.0.6\nCisco Cisco Firepower Management Center 7.1.0\nCisco Cisco Firepower Management Center 7.1.0.1\nCisco Cisco Firepower Management Center 7.1.0.2\nCisco Cisco Firepower Management Center 7.1.0.3\nCisco Cisco Firepower Management Center 7.2.0\nCisco Cisco Firepower Management Center 7.2.1\nCisco Cisco Firepower Management Center 7.2.2\nCisco Cisco Firepower Management Center 7.2.0.1\nCisco Cisco Firepower Management Center 7.2.3\nCisco Cisco Firepower Management Center 7.2.3.1\nCisco Cisco Firepower Management Center 7.2.4\nCisco Cisco Firepower Management Center 7.2.4.1\nCisco Cisco Firepower Management Center 7.2.5\nCisco Cisco Firepower Management Center 7.3.0\nCisco Cisco Firepower Management Center 7.3.1\nCisco Cisco Firepower Management Center 7.3.1.1\nCisco Cisco Firepower Management Center 7.3.1.2",
+    "CVE ID": "CVE-2024-20360",
+    "漏洞描述": "Cisco Firepower Management Center（FMC）是美国思科（Cisco）公司的新一代防火墙管理中心软件。\nCisco Firepower Management Center存在SQL注入漏洞，该漏洞源于基于Web的管理界面无法充分验证用户输入。远程攻击者可以利用该漏洞发送精心设计的SQL查询导致从数据库获取任何数据、在底层操作系统上执行任意命令以及将权限提升至root。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-20360",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-sqli-WFFDnNOs",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/600961",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-05-23",
+    "收录时间": "2024-10-25",
+    "更新时间": "2024-10-25",
+    "漏洞附件": "(无附件)"
+}

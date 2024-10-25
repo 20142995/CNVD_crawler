@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apache CloudStack输入验证错误漏洞（CNVD-2024-41660）",
+    "CNVD-ID": "CNVD-2024-41660",
+    "公开日期": "2024-10-25",
+    "危害级别": "高",
+    "影响产品": "Apache Apache CloudStack >=4.19.0.0，<=4.19.1.1\nApache Apache CloudStack >=4.0.0，<=4.18.2.3",
+    "CVE ID": "CVE-2024-45219",
+    "漏洞描述": "Apache CloudStack是美国阿帕奇（Apache）基金会的一套基础架构即服务（IaaS）云计算平台。该平台主要用于部署和管理大型虚拟机网络。\nApache CloudStack存在安全漏洞，攻击者可利用该漏洞获取主机文件系统的访问权限，导致资源完整性和机密性受损、数据丢失、拒绝服务以及托管在CloudStack上的KVM基础设施的可用性问题。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-45219/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/ktsfjcnj22x4kg49ctock3d9tq7jnvlo",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/601041",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-23",
+    "收录时间": "2024-10-25",
+    "更新时间": "2024-10-25",
+    "漏洞附件": "(无附件)"
+}

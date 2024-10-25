@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apache JSPWiki跨站脚本漏洞（CNVD-2024-41670）",
+    "CNVD-ID": "CNVD-2024-41670",
+    "公开日期": "2024-10-25",
+    "危害级别": "中",
+    "影响产品": "Apache Apache JSPWiki <=2.12.1",
+    "CVE ID": "CVE-2024-27136",
+    "漏洞描述": "Apache JSPWiki是美国阿帕奇（Apache）基金会的一款基于Java、Servlet和JSP构建的开源WikiWiki引擎。\nApache JSPWiki 2.12.1及之前版本存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞在受害者的浏览器中执行javascript并获取有关受害者的一些敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-27136",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/gfms8gbncqqkj52p861b8fnsypwsl1d5",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/601026",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-06-28",
+    "收录时间": "2024-10-25",
+    "更新时间": "2024-10-25",
+    "漏洞附件": "(无附件)"
+}

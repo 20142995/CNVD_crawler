@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apache Solr身份验证错误漏洞",
+    "CNVD-ID": "CNVD-2024-41664",
+    "公开日期": "2024-10-24",
+    "危害级别": "高",
+    "影响产品": "Apache Apache Solr",
+    "CVE ID": "CVE-2024-45216",
+    "漏洞描述": "Apache Solr是美国阿帕奇（Apache）基金会的一款基于Lucene（一款全文搜索引擎）的搜索服务器。该产品支持层面搜索、垂直搜索、高亮显示搜索结果等。\nApache Solr存在身份验证错误漏洞，该漏洞源于存在身份验证不当，攻击者可利用该漏洞使用虚假URL路径结尾绕过身份验证。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-45216",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://solr.apache.org/security.html#cve-2024-45216-apache-solr-authentication-bypass-possible-using-a-fake-url-path-ending",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/601006",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-23",
+    "收录时间": "2024-10-25",
+    "更新时间": "2024-10-25",
+    "漏洞附件": "(无附件)"
+}
