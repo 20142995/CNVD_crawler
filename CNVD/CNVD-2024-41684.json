@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "MOXA MXsecurity存在未明漏洞",
+    "CNVD-ID": "CNVD-2024-41684",
+    "公开日期": "2024-10-25",
+    "危害级别": "高",
+    "影响产品": "Moxa MXsecurity <=v1.1.0",
+    "CVE ID": "CVE-2024-4739",
+    "漏洞描述": "MOXA MXsecurity是中国摩莎（MOXA）公司的一个管理平台。可提供集中的可见性和安全管理，以轻松监视和识别网络威胁并防止安全错误配置，从而创建强大的威胁防御。\nMOXA MXsecurity v1.1.0及之前版本存在安全漏洞，该漏洞源于未授权用户对资源的访问缺乏限制，通过获取有效的身份验证器，攻击者可利用该漏洞冒充授权用户并成功访问资源。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-4739/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.moxa.com/en/support/product-support/security-advisory/mpsa-231878-mxsecurity-series-multiple-vulnerabilities",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/601371",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-23",
+    "收录时间": "2024-10-25",
+    "更新时间": "2024-10-25",
+    "漏洞附件": "(无附件)"
+}

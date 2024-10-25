@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Dell Secure Connect Gateway存在未明漏洞",
+    "CNVD-ID": "CNVD-2024-41685",
+    "公开日期": "2024-10-25",
+    "危害级别": "中",
+    "影响产品": "Dell Secure Connect Gateway(SCG)  5.24.00.14",
+    "CVE ID": "CVE-2024-47240",
+    "漏洞描述": "Dell Secure Connect Gateway（Dell SCG）是美国戴尔（Dell）公司的一款安全连接网关。\nDell Secure Connect Gateway(SCG) 5.24.00.14版本存在安全漏洞，该漏洞源于包含错误的默认权限漏洞，具有较低权限的本地攻击者可利用该漏洞访问文件系统，并获得对未经授权数据的写入权限并导致版本更新失败。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-47240/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000237211/dsa-2024-407-dell-secure-connect-gateway-security-update-for-multiple-third-party-component-vulnerabilities",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/601386",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-23",
+    "收录时间": "2024-10-25",
+    "更新时间": "2024-10-25",
+    "漏洞附件": "(无附件)"
+}
