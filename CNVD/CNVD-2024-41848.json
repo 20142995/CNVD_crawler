@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "MOXA OnCell G3470A-LTE命令注入漏洞",
+    "CNVD-ID": "CNVD-2024-41848",
+    "公开日期": "2024-10-28",
+    "危害级别": "高",
+    "影响产品": "Moxa OnCell G3470A-LTE <=v1.7.7",
+    "CVE ID": "CVE-2024-4638",
+    "漏洞描述": "MOXA OnCell G3470A-LTE是中国摩莎（MOXA）公司的系列蜂窝网关/路由器。\nMOXA OnCell G3470A-LTE v1.7.7及之前固件版本存在命令注入漏洞，该漏洞源于Web密钥上传功能中缺少中和输入，攻击者可利用该漏洞修改发送给目标函数的预期命令，执行未授权命令。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.moxa.com/en/support/product-support/security-advisory/mpsa-242550-oncell-g3470a-lte-series-multiple-web-application-vulnerabilities",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.moxa.com/en/support/product-support/security-advisory/mpsa-242550-oncell-g3470a-lte-series-multiple-web-application-vulnerabilities",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/601616",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-06-28",
+    "收录时间": "2024-10-28",
+    "更新时间": "2024-10-28",
+    "漏洞附件": "(无附件)"
+}

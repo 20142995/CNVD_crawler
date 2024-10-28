@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "MOXA Service操作系统命令注入漏洞",
+    "CNVD-ID": "CNVD-2024-41846",
+    "公开日期": "2024-10-28",
+    "危害级别": "高",
+    "影响产品": "Moxa EDR-8010 <3.12.1\nMoxa EDR-G9004 <3.12.1\nMoxa EDR-G9010 <3.12.1\nMoxa EDF-G1002-BP <3.12.1\nMoxa NAT-102 <1.0.5\nMoxa OnCell G4302-LTE4 <3.9\nMoxa TN-4900 <3.6",
+    "CVE ID": "CVE-2024-9139",
+    "漏洞描述": "MOXA Service是中国摩莎（MOXA）公司的一个硬件设备基础服务。\nMOXA Service存在操作系统命令注入漏洞，攻击者可利用该漏洞执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.moxa.com/en/support/product-support/security-advisory/mpsa-241154-missing-authentication-and-os-command-injection-vulnerabilities-in-routers-and-network-security-appliances",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.moxa.com/en/support/product-support/security-advisory/mpsa-241154-missing-authentication-and-os-command-injection-vulnerabilities-in-routers-and-network-security-appliances",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/601626",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-17",
+    "收录时间": "2024-10-28",
+    "更新时间": "2024-10-28",
+    "漏洞附件": "(无附件)"
+}
