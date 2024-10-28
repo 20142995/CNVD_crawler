@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Google Chrome V8代码执行漏洞（CNVD-2024-41865）",
+    "CNVD-ID": "CNVD-2024-41865",
+    "公开日期": "2024-10-29",
+    "危害级别": "高",
+    "影响产品": "Google Chrome <125.0.6422.60",
+    "CVE ID": "CVE-2024-4947",
+    "漏洞描述": "Google Chrome是美国谷歌（Google）公司的一款Web浏览器。\nGoogle Chrome V8存在代码执行漏洞，攻击者可利用该漏洞在系统上执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://chromereleases.googleblog.com/2024/05/stable-channel-update-for-desktop_15.html",
+    "漏洞解决方案": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://chromereleases.googleblog.com/2024/05/stable-channel-update-for-desktop_15.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/601681",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-05-20",
+    "收录时间": "2024-10-28",
+    "更新时间": "2024-10-28",
+    "漏洞附件": "(无附件)"
+}
