@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "MOXA ioLogik E1200 Series跨站请求伪造漏洞",
+    "CNVD-ID": "CNVD-2024-41853",
+    "公开日期": "2024-10-28",
+    "危害级别": "高",
+    "影响产品": "MOXA ioLogik E1200 Series <3.3",
+    "CVE ID": "CVE-2023-5961",
+    "漏洞描述": "MOXA ioLogik E1200 Series是中国摩莎（MOXA）公司的一系列通用控制器和I/O设备。\nMOXA ioLogik E1200 Series存在跨站请求伪造漏洞，攻击者可利用该漏洞提交特殊请求，获取敏感信息或执行恶意操作。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.moxa.com/en/support/product-support/security-advisory/mpsa-235250-iologik-e1200-series-web-server-vulnerability",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.moxa.com/en/support/product-support/security-advisory/mpsa-235250-iologik-e1200-series-web-server-vulnerability",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/601591",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-01-02",
+    "收录时间": "2024-10-28",
+    "更新时间": "2024-10-28",
+    "漏洞附件": "(无附件)"
+}

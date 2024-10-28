@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "MOXA EDS-4000/G4000 Series安全绕过漏洞",
+    "CNVD-ID": "CNVD-2024-41852",
+    "公开日期": "2024-10-28",
+    "危害级别": "中",
+    "影响产品": "Moxa EDS-4000/G4000 Series <3.2",
+    "CVE ID": "CVE-2024-0387",
+    "漏洞描述": "MOXA EDS-4000/G4000 Series是中国摩莎（MOXA）公司的一系列工业管理型以太网交换机。\nMOXA EDS-4000/G4000 Series 3.2之前版本存在安全绕过漏洞，该漏洞源于用户无法停用的IP转发功能，攻击者可利用该漏洞绕过访问控制或隐藏恶意请求的来源。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.moxa.com/en/support/product-support/security-advisory/mpsa-237129-eds-4000-g4000-series-ip-forwarding-vulnerability?viewmode=0",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.moxa.com/en/support/product-support/security-advisory/mpsa-237129-eds-4000-g4000-series-ip-forwarding-vulnerability?viewmode=0",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/601596",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-03-01",
+    "收录时间": "2024-10-28",
+    "更新时间": "2024-10-28",
+    "漏洞附件": "(无附件)"
+}
