@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Imagine Cup site信息泄露漏洞",
+    "CNVD-ID": "CNVD-2024-41992",
+    "公开日期": "2024-10-30",
+    "危害级别": "高",
+    "影响产品": "Microsoft Microsoft Azure Functions",
+    "CVE ID": "CVE-2024-38204",
+    "漏洞描述": "Microsoft Imagine Cup是美国微软（Microsoft）公司的一个开发人员工具。\nMicrosoft Imagine Cup site存在信息泄露漏洞，该漏洞源于不正确的访问控制。攻击者可利用该漏洞通过网络提升权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38204",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38204",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/602161",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-17",
+    "收录时间": "2024-10-29",
+    "更新时间": "2024-10-29",
+    "漏洞附件": "(无附件)"
+}
