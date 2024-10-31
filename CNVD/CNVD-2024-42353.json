@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Tianyu CPE Router CommonCPExCPETS命令执行漏洞",
+    "CNVD-ID": "CNVD-2024-42353",
+    "公开日期": "2024-10-31",
+    "危害级别": "高",
+    "影响产品": "Tianyu CPE Router v3.2.468.11.04_P4",
+    "CVE ID": "CVE-2024-48441",
+    "漏洞描述": "Tianyu CPE Router是中国天喻（Tianyu）公司的一款无线路由器。\nTianyu CPE Router CommonCPExCPETS存在命令执行漏洞，攻击者可利用该漏洞在系统上执行任意命令。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-48441",
+    "漏洞解决方案": "目前没有详细解决方案提供：\nhttps://www.whty.com.cn/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-28",
+    "收录时间": "2024-10-31",
+    "更新时间": "2024-10-31",
+    "漏洞附件": "(无附件)"
+}
