@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Mitel MiCollab跨站脚本漏洞（CNVD-2024-42933）",
+    "CNVD-ID": "CNVD-2024-42933",
+    "公开日期": "2024-11-04",
+    "危害级别": "中",
+    "影响产品": "Mitel MiCollab <=9.7.1.110",
+    "CVE ID": "CVE-2024-30160",
+    "漏洞描述": "Mitel MiCollab是加拿大敏迪（Mitel）公司的一款为员工提供语音、视频、消息、音频会议和团队协作的移动应用程序。\nMitel MiCollab 9.7.1.110及之前版本存在跨站脚本漏洞，该漏洞源于在Suite Applications Services组件中对用户输入验证不足，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-24-0005",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mitel.com/support/security-advisories/mitel-product-security-advisory-24-0005",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/606046",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-23",
+    "收录时间": "2024-11-04",
+    "更新时间": "2024-11-04",
+    "漏洞附件": "(无附件)"
+}
