@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Mozilla Firefox for iOS存在未明漏洞",
+    "CNVD-ID": "CNVD-2024-42938",
+    "公开日期": "2024-11-04",
+    "危害级别": "中",
+    "影响产品": "Mozilla Firefox for iOS <131.2",
+    "CVE ID": "CVE-2024-10004",
+    "漏洞描述": "Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。\nMozilla Firefox for iOS 131.2之前版本存在安全漏洞，该漏洞源于在某些情况下打开指向HTTP网站的外部链接时，攻击者可利用该漏洞导致挂锁图标错误地显示HTTPS指示器。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.mozilla.org/security/advisories/mfsa2024-54/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/en-US/security/advisories/mfsa2024-54/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/607811",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-17",
+    "收录时间": "2024-11-04",
+    "更新时间": "2024-11-04",
+    "漏洞附件": "(无附件)"
+}
