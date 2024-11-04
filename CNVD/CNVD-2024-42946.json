@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Office OneNote远程代码执行漏洞",
+    "CNVD-ID": "CNVD-2024-42946",
+    "公开日期": "2024-11-05",
+    "危害级别": "高",
+    "影响产品": "Microsoft 365 Apps for Enterprise \nMicrosoft Office LTSC 2021",
+    "CVE ID": "CVE-2024-21384",
+    "漏洞描述": "Microsoft Office OneNote是一套用于自由形式的信息获取以及多用户协作工具。\nMicrosoft Office OneNote存在远程代码执行漏洞，攻击者可利用该漏洞在系统上执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-21384",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2024-21384",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/607851",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-02-23",
+    "收录时间": "2024-11-04",
+    "更新时间": "2024-11-04",
+    "漏洞附件": "(无附件)"
+}

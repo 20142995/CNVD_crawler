@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Excel权限提升漏洞（CNVD-2024-42948）",
+    "CNVD-ID": "CNVD-2024-42948",
+    "公开日期": "2024-11-05",
+    "危害级别": "高",
+    "影响产品": "Microsoft Excel 2016 \nMicrosoft Office Online Server \nMicrosoft 365 Apps for Enterprise \nMicrosoft Office LTSC 2021 \nMicrosoft Office LTSC for Mac 2021 \nMicrosoft Office 2019",
+    "CVE ID": "CVE-2024-43465",
+    "漏洞描述": "Microsoft Excel是美国微软（Microsoft）公司的一款Office套件中的电子表格处理软件。\nMicrosoft Excel存在权限提升漏洞，攻击者可利用该漏洞以更高的权限执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-43465/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-43465",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/607861",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-12",
+    "收录时间": "2024-11-04",
+    "更新时间": "2024-11-04",
+    "漏洞附件": "(无附件)"
+}

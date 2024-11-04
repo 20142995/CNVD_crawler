@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Office欺骗漏洞（CNVD-2024-42945）",
+    "CNVD-ID": "CNVD-2024-42945",
+    "公开日期": "2024-11-05",
+    "危害级别": "高",
+    "影响产品": "Microsoft Office 2016 \nMicrosoft 365 Apps for Enterprise \nMicrosoft Office LTSC 2021 \nMicrosoft Office 2019",
+    "CVE ID": "CVE-2024-38200",
+    "漏洞描述": "Microsoft Office是美国微软（Microsoft）公司的一款办公软件套件产品。该产品常用组件包括Word、Excel、Access、Powerpoint、FrontPage等。\nMicrosoft Office存在欺骗漏洞，该漏洞源于向未经授权的行为者暴露敏感信息。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38200",
+    "漏洞解决方案": "用户可参考如下供应商提供的安全公告获得补丁信息：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38200",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/607846",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-12",
+    "收录时间": "2024-11-04",
+    "更新时间": "2024-11-04",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Office Visio远程代码执行漏洞（CNVD-2024-42939）",
+    "CNVD-ID": "CNVD-2024-42939",
+    "公开日期": "2024-11-05",
+    "危害级别": "高",
+    "影响产品": "Microsoft Visio 2016 \nMicrosoft 365 Apps for Enterprise \nMicrosoft Office LTSC 2021 \nMicrosoft Office 2019",
+    "CVE ID": "CVE-2024-43463",
+    "漏洞描述": "Microsoft Office Visio是美国微软（Microsoft）公司的Office软件系列中的负责绘制流程图和示意图的软件。\nMicrosoft Office Visio存在远程代码执行漏洞，攻击者可利用该漏洞在系统上执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-43463/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-43463",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/607816",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-12",
+    "收录时间": "2024-11-04",
+    "更新时间": "2024-11-04",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Office PowerPoint资源管理错误漏洞",
+    "CNVD-ID": "CNVD-2024-42943",
+    "公开日期": "2024-11-05",
+    "危害级别": "高",
+    "影响产品": "Microsoft PowerPoint 2016 \nMicrosoft Office 2019 \nMicrosoft 365 Apps for Enterprise \nMicrosoft Office LTSC 2021 \nMicrosoft Office LTSC for Mac 2021",
+    "CVE ID": "CVE-2024-38171",
+    "漏洞描述": "Microsoft Office PowerPoint是美国微软（Microsoft）公司的一个用于制作、演示文稿（PPT）的软件。\nMicrosoft Office PowerPoint存在资源管理错误漏洞。攻击者可利用该漏洞在系统上执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-38171",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38171",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/607836",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-20",
+    "收录时间": "2024-11-04",
+    "更新时间": "2024-11-04",
+    "漏洞附件": "(无附件)"
+}
