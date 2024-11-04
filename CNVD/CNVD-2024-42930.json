@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Mitel MiCollab SQL注入漏洞（CNVD-2024-42930）",
+    "CNVD-ID": "CNVD-2024-42930",
+    "公开日期": "2024-11-04",
+    "危害级别": "高",
+    "影响产品": "Mitel MiCollab 9.8 SP1 FP2(9.8.1.201)",
+    "CVE ID": "CVE-2024-47223",
+    "漏洞描述": "Mitel MiCollab是一款企业级的音频、网络和视频会议解决方案，提供高效的协作和通信功能。\nMitel MiCollab存在SQL注入漏洞，攻击者可利用该漏洞访问非敏感的用户配置信息并执行任意的SQL数据库命令。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-misa-2024-0028",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mitel.com/support/security-advisories/mitel-product-security-advisory-misa-2024-0028",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/606061",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-25",
+    "收录时间": "2024-11-04",
+    "更新时间": "2024-11-04",
+    "漏洞附件": "(无附件)"
+}
