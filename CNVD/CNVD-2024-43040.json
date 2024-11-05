@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Adobe Dimension资源管理错误漏洞（CNVD-2024-43040）",
+    "CNVD-ID": "CNVD-2024-43040",
+    "公开日期": "2024-10-31",
+    "危害级别": "高",
+    "影响产品": "Adobe Adobe Dimension <=3.4.5",
+    "CVE ID": "CVE-2022-38448",
+    "漏洞描述": "Adobe Dimension是美国Adobe公司的是一套2D和3D合成设计工具。\nAdobe Dimension存在资源管理错误漏洞，该漏洞源于程序未对恶意文件进行正确处理。攻击者可利用该漏洞执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2022-38448",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：  \nhttps://helpx.adobe.com/security/products/dimension/apsb22-57.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/605966",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2022-10-19",
+    "收录时间": "2024-11-05",
+    "更新时间": "2024-11-05",
+    "漏洞附件": "(无附件)"
+}

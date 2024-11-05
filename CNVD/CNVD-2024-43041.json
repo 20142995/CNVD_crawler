@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Adobe Experience Manager跨站脚本漏洞（CNVD-2024-43041）",
+    "CNVD-ID": "CNVD-2024-43041",
+    "公开日期": "2024-10-31",
+    "危害级别": "中",
+    "影响产品": "Adobe Adobe Experience Manager <=6.5.13.0",
+    "CVE ID": "CVE-2022-30678",
+    "漏洞描述": "Adobe Experience Manager（AEM）是美国奥多比（Adobe）公司的一套可用于构建网站、移动应用程序和表单的内容管理解决方案。该方案支持移动内容管理、营销销售活动管理和多站点管理等。\nAdobe Experience Manager 6.5.13.0及之前版本存在跨站脚本漏洞，该漏洞源于对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.auscert.org.au/bulletins/ESB-2022.4569",
+    "漏洞解决方案": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://helpx.adobe.com/security/products/experience-manager/apsb22-40.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/605961",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2022-09-18",
+    "收录时间": "2024-11-05",
+    "更新时间": "2024-11-05",
+    "漏洞附件": "(无附件)"
+}
