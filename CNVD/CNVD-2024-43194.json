@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM App Connect Enterprise Certified Container存在未明漏洞",
+    "CNVD-ID": "CNVD-2024-43194",
+    "公开日期": "2024-11-06",
+    "危害级别": "中",
+    "影响产品": "IBM IBM App Connect Enterprise Certified Container  5.0-lts\nIBM IBM App Connect Enterprise Certified Container  7.1\nIBM IBM App Connect Enterprise Certified Container  7.2\nIBM IBM App Connect Enterprise Certified Container  8.0\nIBM IBM App Connect Enterprise Certified Container  8.1\nIBM IBM App Connect Enterprise Certified Container  8.2\nIBM IBM App Connect Enterprise Certified Container  9.0\nIBM IBM App Connect Enterprise Certified Container  9.1\nIBM IBM App Connect Enterprise Certified Container  9.2\nIBM IBM App Connect Enterprise Certified Container  10.0\nIBM IBM App Connect Enterprise Certified Container  10.1\nIBM IBM App Connect Enterprise Certified Container  11.0\nIBM IBM App Connect Enterprise Certified Container  11.1\nIBM IBM App Connect Enterprise Certified Container  11.2\nIBM IBM App Connect Enterprise Certified Container  11.3\nIBM IBM App Connect Enterprise Certified Container  11.4\nIBM IBM App Connect Enterprise Certified Container  11.5\nIBM IBM App Connect Enterprise Certified Container  11.6\nIBM IBM App Connect Enterprise Certified Container  12.0-lts\nIBM IBM App Connect Enterprise Certified Container  12.1",
+    "CVE ID": "CVE-2022-43915",
+    "漏洞描述": "IBM App Connect Enterprise是美国国际商业机器（IBM）公司的一个操作系统。IBM App Connect Enterprise 将现有业界信任的IBM Integration Bus技术与IBM App Connect Professional以及新的云本机技术进行了组合，提供一个可满足现代数字企业全面集成需求的平台。\nIBM App Connect Enterprise Certified Container存在安全漏洞，攻击者可利用该漏洞在正在运行的Pod中执行命令以提升其用户权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2022-43915/",
+    "漏洞解决方案": "厂商已提供漏洞修补方案，建议用户下载使用：\nhttps://www.ibm.com/support/pages/node/7166463",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/607981",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-27",
+    "收录时间": "2024-11-06",
+    "更新时间": "2024-11-06",
+    "漏洞附件": "(无附件)"
+}

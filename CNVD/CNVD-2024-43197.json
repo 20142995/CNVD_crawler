@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM Cloud Pak for Security和IBM QRadar Suite存在未明漏洞",
+    "CNVD-ID": "CNVD-2024-43197",
+    "公开日期": "2024-11-06",
+    "危害级别": "低",
+    "影响产品": "IBM IBM Cloud Pak for Security >=1.10.0.0，<=1.10.11.0\nIBM IBM QRadar Suite Software >=1.10.12.0，<=1.10.23.0",
+    "CVE ID": "CVE-2024-28799",
+    "漏洞描述": "IBM Cloud Pak for Security是一款应用软件。一个开放的安全平台，可连接到您现有的数据源以产生更深刻的见解，并使您能够更快地采取自动化行动。IBM QRadar Suite是一款集成式的安全信息与事件管理（SIEM）解决方案，用于监控和分析组织中的网络活动以检测潜在的安全威胁。\nIBM Cloud Pak for Security和IBM QRadar Suite存在安全漏洞，该漏洞源于在后端命令期间未正确地显示敏感数据，攻击者可利用该漏洞获取敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-28799/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7165488",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/607996",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-21",
+    "收录时间": "2024-11-06",
+    "更新时间": "2024-11-06",
+    "漏洞附件": "(无附件)"
+}

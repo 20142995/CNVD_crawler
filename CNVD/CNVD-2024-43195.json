@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM OpenBMC权限提升漏洞",
+    "CNVD-ID": "CNVD-2024-43195",
+    "公开日期": "2024-11-06",
+    "危害级别": "高",
+    "影响产品": "IBM IBM OPENBMC >=FW1050.00，<=FW1050.10\nIBM IBM OPENBMC >=FW1030.00，<=FW1030.50\nIBM IBM OPENBMC >=FW1020.00，<=FW1020.60",
+    "CVE ID": "CVE-2024-35124",
+    "漏洞描述": "IBM OpenBMC是美国国际商业机器（IBM）公司的一个Linux发行版，用于管理服务器、架顶式交换机或RAID设备等设备的控制器。\nIBM OpenBMC存在权限提升漏洞，攻击者可利用该漏洞获取对BMC的管理访问权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-35124/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7163195",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/607986",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-21",
+    "收录时间": "2024-11-06",
+    "更新时间": "2024-11-06",
+    "漏洞附件": "(无附件)"
+}

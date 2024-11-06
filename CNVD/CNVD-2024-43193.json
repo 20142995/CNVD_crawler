@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM OpenPages with Watson身份验证绕过漏洞",
+    "CNVD-ID": "CNVD-2024-43193",
+    "公开日期": "2024-11-06",
+    "危害级别": "中",
+    "影响产品": "IBM IBM OpenPages with Watson 8.3\nIBM IBM OpenPages with Watson 9.0",
+    "CVE ID": "CVE-2024-35151",
+    "漏洞描述": "IBM OpenPages with Watson是美国国际商业机器（IBM）公司的一个AI驱动的金融风险分析解决方案。该平台基于AI技术来预测风险系数，将风险数据通过集成、自动识别、测量、监控、分析、管理等步骤将金融活动中的风险最小化。\nIBM OpenPages with Watson身份验证绕过漏洞，经过身份验证的攻击者可利用该漏洞通过对api的不当授权控制访问敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-35151/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7165959",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/607976",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-28",
+    "收录时间": "2024-11-06",
+    "更新时间": "2024-11-06",
+    "漏洞附件": "(无附件)"
+}

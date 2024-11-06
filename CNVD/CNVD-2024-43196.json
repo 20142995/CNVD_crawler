@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM WebSphere Application Server信任管理问题漏洞（CNVD-2024-43196）",
+    "CNVD-ID": "CNVD-2024-43196",
+    "公开日期": "2024-11-06",
+    "危害级别": "中",
+    "影响产品": "IBM WebSphere Application Server 8.5\nIBM WebSphere Application Server 9.0",
+    "CVE ID": "CVE-2023-50315",
+    "漏洞描述": "IBM WebSphere Application Server（WAS）是美国国际商业机器（IBM）公司的一款应用服务器产品。该产品是JavaEE和Web服务应用程序的平台，也是IBMWebSphere软件平台的基础。\nIBM WebSphere Application Server 8.5和9.0版本存在信任管理问题漏洞，攻击者可使用可信机构颁发的证书利用该漏洞获取敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2023-50315/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7165511",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/607991",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-21",
+    "收录时间": "2024-11-06",
+    "更新时间": "2024-11-06",
+    "漏洞附件": "(无附件)"
+}
