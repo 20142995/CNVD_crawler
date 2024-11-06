@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM Maximo Application Suite-Monitor Component存在未明漏洞",
+    "CNVD-ID": "CNVD-2024-43185",
+    "公开日期": "2024-11-06",
+    "危害级别": "中",
+    "影响产品": "IBM Maximo Application Suite-Monitor Component 8.10\nIBM Maximo Application Suite-Monitor Component 8.11\nIBM Maximo Application Suite-Monitor Component 9.0",
+    "CVE ID": "CVE-2024-38314",
+    "漏洞描述": "IBM Maximo Application Suite是美国国际商业机器（IBM）公司的一个为智能资产管理、监控、维护、计算机视觉、安全性和可靠性提供的单一平台。\nIBM Maximo Application Suite-Monitor Component存在安全漏洞，该漏洞源于存在硬编码加密密钥的形式，攻击者可利用该漏洞导致信息泄露。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.ibm.com/support/pages/node/7173988",
+    "漏洞解决方案": "厂商已提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.ibm.com/support/pages/node/7173988",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/607936",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-28",
+    "收录时间": "2024-11-06",
+    "更新时间": "2024-11-06",
+    "漏洞附件": "(无附件)"
+}

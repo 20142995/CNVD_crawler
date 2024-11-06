@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM TXSeries for Multiplatforms存在未明漏洞（CNVD-2024-43182）",
+    "CNVD-ID": "CNVD-2024-43182",
+    "公开日期": "2024-11-06",
+    "危害级别": "中",
+    "影响产品": "IBM TXSeries for Multiplatforms 10.1",
+    "CVE ID": "CVE-2024-41738",
+    "漏洞描述": "IBM TXSeries for Multiplatforms是美国国际商业机器（IBM）公司的一种事务处理监控和管理的软件产品，它旨在支持多平台上的分布式事务处理。\nIBM TXSeries for Multiplatforms 10.1版本存在安全漏洞，攻击者可利用该漏洞从HTTP GET方法的查询字符串中获取敏感信息，以处理可使用中间人技术获取的请求。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.ibm.com/support/pages/node/7174572",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7174572",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/607926",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-05",
+    "收录时间": "2024-11-06",
+    "更新时间": "2024-11-06",
+    "漏洞附件": "(无附件)"
+}

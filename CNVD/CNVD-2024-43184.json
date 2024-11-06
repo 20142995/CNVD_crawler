@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM CICS Transaction Gateway for Multiplatforms凭证保护不足漏洞",
+    "CNVD-ID": "CNVD-2024-43184",
+    "公开日期": "2024-11-06",
+    "危害级别": "中",
+    "影响产品": "IBM CICS Transaction Gateway for Multiplatforms 9.2\nIBM CICS Transaction Gateway for Multiplatforms 9.3",
+    "CVE ID": "CVE-2023-50310",
+    "漏洞描述": "IBM CICS Transaction Gateway是美国国际商业机器（IBM）公司的一个用于企业CICS资产现代化的连接器。\nIBM CICS Transaction Gateway for Multiplatforms存在安全漏洞，该漏洞源于未使用安全的方法传输或存储身份验证凭据，攻击者可利用该漏洞进行未经授权的拦截和检索。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.ibm.com/support/pages/node/7145418",
+    "漏洞解决方案": "厂商已提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.ibm.com/support/pages/node/7145418",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/607931",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-28",
+    "收录时间": "2024-11-06",
+    "更新时间": "2024-11-06",
+    "漏洞附件": "(无附件)"
+}
