@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Mozilla Firefox资源关闭或释放不当漏洞",
+    "CNVD-ID": "CNVD-2024-44472",
+    "公开日期": "2024-11-11",
+    "危害级别": "高",
+    "影响产品": "Mozilla Firefox <131\nMozilla Firefox ESR <128.3\nMozilla Thunderbird <128.3\nMozilla Thunderbird <131",
+    "CVE ID": "CVE-2024-9399",
+    "漏洞描述": "Mozilla Firefox是一款开源Web浏览器。Mozilla Firefox ESR是Firefox（Web浏览器）的一个延长支持版本。Mozilla Thunderbird是一套从Mozilla Application Suite独立出来的电子邮件客户端软件。\nMozilla Firefox存在资源关闭或释放不当漏洞，攻击者可利用该漏洞在配置为启动特制的WebTransport会话的网站导致Firefox进程崩溃。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://bugzilla.mozilla.org/show_bug.cgi?id=1907726",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/security/advisories/mfsa2024-46/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/616786",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-13",
+    "收录时间": "2024-11-11",
+    "更新时间": "2024-11-11",
+    "漏洞附件": "(无附件)"
+}

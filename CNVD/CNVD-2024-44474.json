@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Mozilla Firefox存在未明漏洞（CNVD-2024-44474）",
+    "CNVD-ID": "CNVD-2024-44474",
+    "公开日期": "2024-11-11",
+    "危害级别": "中",
+    "影响产品": "Mozilla Firefox <131\nMozilla Firefox ESR <128.3\nMozilla Thunderbird <128.3\nMozilla Thunderbird <131",
+    "CVE ID": "CVE-2024-9398",
+    "漏洞描述": "Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。\nMozilla Firefox存在安全漏洞，该漏洞源于可以通过弹出窗口枚举外部协议处理程序。目前没有详细漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://bugzilla.mozilla.org/show_bug.cgi?id=1881037",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/security/advisories/mfsa2024-46/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/616796",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-13",
+    "收录时间": "2024-11-11",
+    "更新时间": "2024-11-11",
+    "漏洞附件": "(无附件)"
+}
