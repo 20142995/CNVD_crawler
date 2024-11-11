@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Google Chrome越界写入漏洞（CNVD-2024-44477）",
+    "CNVD-ID": "CNVD-2024-44477",
+    "公开日期": "2024-11-11",
+    "危害级别": "高",
+    "影响产品": "Google Chrome <130.0.6723.92",
+    "CVE ID": "CVE-2024-10487",
+    "漏洞描述": "Google Chrome是美国谷歌（Google）公司的一款Web浏览器。 \nGoogle Chrome 130.0.6723.92之前版本存在越界写入漏洞，攻击者可利用该漏洞通过精心制作的HTML页面执行越界内存访问。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://issues.chromium.org/issues/375123371",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://chromereleases.googleblog.com/2024/10/stable-channel-update-for-desktop_29.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/616811",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-30",
+    "收录时间": "2024-11-11",
+    "更新时间": "2024-11-11",
+    "漏洞附件": "(无附件)"
+}
