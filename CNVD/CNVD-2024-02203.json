@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Dell OS Recovery Tool权限提升漏洞",
+    "CNVD-ID": "CNVD-2024-02203",
+    "公开日期": "2024-11-12",
+    "危害级别": "中",
+    "影响产品": "DELL OS Recovery Tool 2.3.7012.0\nDELL OS Recovery Tool 2.2.4013\nDELL OS Recovery Tool 2.3.7515.0",
+    "CVE ID": "CVE-2023-39259",
+    "漏洞描述": "Dell OS Recovery Tool是一个系统恢复工具。当用户的戴尔电脑因为硬盘更换/损坏或软件原因无法进入系统时，可使用Dell OS Recovery Tool创建的恢复U盘恢复戴尔电脑的出厂系统设置，而无需另外下载驱动及随机软件。\nDell OS Recovery Tool存在权限提升漏洞。该漏洞是由于未能限制或错误地限制未经授权的参与者对资源的访问导致的。经过本地身份验证的攻击者可利用该漏洞读取敏感信息，进行系统权限提升。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2023-39259",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新:\nhttps://www.dell.com/support/kbdoc/en-us/000217078/dsa-2023-319dsa-2023-319",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/515741",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2023-11-17",
+    "收录时间": "2024-01-12",
+    "更新时间": "2024-01-12",
+    "漏洞附件": "(无附件)"
+}
