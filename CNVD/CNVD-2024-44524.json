@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft DeepSpeed远程代码执行漏洞",
+    "CNVD-ID": "CNVD-2024-44524",
+    "公开日期": "2024-11-13",
+    "危害级别": "高",
+    "影响产品": "Microsoft Microsoft DeepSpeed",
+    "CVE ID": "CVE-2024-43497",
+    "漏洞描述": "Microsoft DeepSpeed是美国微软（Microsoft）公司的一款易于使用的深度学习优化软件套件，可为DL训练和推理提供前所未有的规模和速度。\nMicrosoft DeepSpeed存在远程代码执行漏洞，攻击者可利用该漏洞在系统上执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-43497",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-43497",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/616886",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-17",
+    "收录时间": "2024-11-12",
+    "更新时间": "2024-11-12",
+    "漏洞附件": "(无附件)"
+}

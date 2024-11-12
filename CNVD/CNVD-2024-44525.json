@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft OpenSSH for Windows远程代码执行漏洞",
+    "CNVD-ID": "CNVD-2024-44525",
+    "公开日期": "2024-11-13",
+    "危害级别": "高",
+    "影响产品": "Microsoft Windows Server 2022 23H2 Edition (Server Core installation)",
+    "CVE ID": "CVE-2024-38029",
+    "漏洞描述": "Microsoft OpenSSH是美国微软（Microsoft）公司的一套用于安全访问远程计算机的连接工具。\nMicrosoft OpenSSH for Windows存在远程代码执行漏洞，该漏洞是由OpenSSH for Windows组件中的缺陷引起的。攻击者可利用该漏洞在系统上执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-38029/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38029",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/616891",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-17",
+    "收录时间": "2024-11-12",
+    "更新时间": "2024-11-12",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Bento4 Ap4Utils.cpp文件缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2024-44528",
+    "公开日期": "2024-11-13",
+    "危害级别": "高",
+    "影响产品": "Bento4 Bento4 4.1.6.0641",
+    "CVE ID": "CVE-2024-31002",
+    "漏洞描述": "Bento4是一款用于读写MP4文件的开源的C++库。\nBento4 Ap4Utils.cpp文件存在缓冲区溢出漏洞，该漏洞源于Ap4Utils.cpp文件的AP4_BitReader::ReadCache方法未能正确验证输入数据的长度大小，远程攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务攻击。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/axiomatic-systems/Bento4/issues/939",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/axiomatic-systems/Bento4/issues/939",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/616906",
+    "验证信息": "已验证",
+    "报送时间": "2024-04-08",
+    "收录时间": "2024-11-12",
+    "更新时间": "2024-11-12",
+    "漏洞附件": "(无附件)"
+}
