@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Google Chrome类型混淆漏洞（CNVD-2024-44540）",
+    "CNVD-ID": "CNVD-2024-44540",
+    "公开日期": "2024-11-12",
+    "危害级别": "高",
+    "影响产品": "Google Chrome V8 <129.0.6668.100",
+    "CVE ID": "CVE-2024-9603",
+    "漏洞描述": "Google Chrome是美国谷歌（Google）公司的一款Web浏览器。\nGoogle Chrome V8 129.0.6668.100之前版本存在类型混淆漏洞，攻击者可利用该漏洞通过特制的HTML页面导致堆损坏。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-9603/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://chromereleases.googleblog.com/2024/10/stable-channel-update-for-desktop_8.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/616941",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-09",
+    "收录时间": "2024-11-12",
+    "更新时间": "2024-11-12",
+    "漏洞附件": "(无附件)"
+}
