@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Outlook for macOS安全绕过漏洞",
+    "CNVD-ID": "CNVD-2024-44516",
+    "公开日期": "2024-11-12",
+    "危害级别": "中",
+    "影响产品": "Microsoft Outlook for macOS 16.83.3",
+    "CVE ID": "CVE-2024-42220",
+    "漏洞描述": "Microsoft Outlook是美国微软（Microsoft）公司的一套电子邮件应用程序。\nMicrosoft Outlook for macOS存在安全绕过漏洞，攻击者可以利用此漏洞进行权限绕过。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-42220",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://www.microsoft.com/en-us/microsoft-365/outlook/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/616861",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-08",
+    "收录时间": "2024-11-12",
+    "更新时间": "2024-11-12",
+    "漏洞附件": "(无附件)"
+}

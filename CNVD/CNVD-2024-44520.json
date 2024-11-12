@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft .NET和Visual Studio远程代码执行漏洞",
+    "CNVD-ID": "CNVD-2024-44520",
+    "公开日期": "2024-11-12",
+    "危害级别": "高",
+    "影响产品": "Microsoft Visual Studio 2022 17.0\nMicrosoft Visual Studio 2022 17.6\nMicrosoft .NET 8.0\nMicrosoft Visual Studio 2022 17.8\nMicrosoft Visual Studio 2022 17.11",
+    "CVE ID": "CVE-2024-38229",
+    "漏洞描述": "Microsoft Visual Studio是一款开发工具套件系列产品，也是一个基本完整的开发工具集，它包括了整个软件生命周期中所需要的大部分工具。Microsoft .NET是一个致力于敏捷软件开发、快速应用开发、平台无关性和网络透明化的软件框架。\nMicrosoft .NET和Visual Studio存在远程代码执行漏洞，该漏洞是由于释放后使用错误造成的。攻击者可利用该漏洞在系统上执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-38229",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38229",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/616866",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-17",
+    "收录时间": "2024-11-12",
+    "更新时间": "2024-11-12",
+    "漏洞附件": "(无附件)"
+}
