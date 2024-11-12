@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Tenda RX9 Pro堆栈溢出漏洞",
+    "CNVD-ID": "CNVD-2024-44513",
+    "公开日期": "2024-11-07",
+    "危害级别": "高",
+    "影响产品": "Tenda RX9 Pro 22.03.02.20",
+    "CVE ID": "CVE-2024-10351",
+    "漏洞描述": "Tenda RX9 Pro是一款高性能的无线路由器，提供稳定快速的网络连接服务。\nTenda RX9 Pro 22.03.02.20版本中存在栈溢出漏洞，该漏洞影响POST请求处理组件中的/goform/setMacFilterCfg文件的sub_424CE0函数。由于对deviceList参数的不当处理，导致基于堆栈的缓冲区溢出。远程攻击者可利用该漏洞发起攻击并可能执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://gitee.com/GXB0_0/iot-vul/blob/master/Tenda/RX9/20/setMacFilterCfg.md\nhttps://vuldb.com/?ctiid.281699\nhttps://vuldb.com/?id.281699\nhttps://vuldb.com/?submit.427706\nhttps://www.tenda.com.cn/",
+    "漏洞解决方案": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://gitee.com/GXB0_0/iot-vul/blob/master/Tenda/RX9/20/setMacFilterCfg.md",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-25",
+    "收录时间": "2024-11-12",
+    "更新时间": "2024-11-12",
+    "漏洞附件": "(无附件)"
+}

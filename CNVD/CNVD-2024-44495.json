@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Cisco Secure Firewall Management Center SQL注入漏洞",
+    "CNVD-ID": "CNVD-2024-44495",
+    "公开日期": "2024-11-06",
+    "危害级别": "高",
+    "影响产品": "Cisco Cisco Secure Firewall Management Center",
+    "CVE ID": "CVE-2024-20472",
+    "漏洞描述": "Cisco Secure Firewall Management Center（FMC）是一个全面、集中化的管理平台，用于Cisco的网络安全解决方案。它提供了对防火墙、应用控制、入侵防御、URL过滤和高级恶意软件防护的统一管理。\nCisco Secure Firewall Management Center存在SQL注入漏洞。该漏洞是由于基于Web的管理界面未充分验证用户输入。攻击者可以利用该漏洞通过以管理员身份向应用程序进行身份验证并向受影响的系统发送精心编制的SQL查询来获取未经授权的数据并更改系统。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-20472",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新:\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-sql-inj-LOYAFcfq",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/608801",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-25",
+    "收录时间": "2024-11-12",
+    "更新时间": "2024-11-12",
+    "漏洞附件": "(无附件)"
+}

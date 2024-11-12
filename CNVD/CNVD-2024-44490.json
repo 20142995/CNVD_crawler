@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Cisco Secure Firewall Management Center命令执行漏洞",
+    "CNVD-ID": "CNVD-2024-44490",
+    "公开日期": "2024-11-06",
+    "危害级别": "高",
+    "影响产品": "Cisco Cisco Secure Firewall Management Center",
+    "CVE ID": "CVE-2024-20374",
+    "漏洞描述": "Cisco Secure Firewall Management Center是美国思科（Cisco）公司的一个强大的网络安全管理工具。\nCisco Secure Firewall Management Center存在命令执行漏洞，该漏洞源于发送到Web管理界面的某些HTTP请求参数的输入验证不足。远程攻击者可利用该漏洞在底层操作系统上执行任意命令。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-20374",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-cmd-inj-2HBkA97G",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/608076",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-31",
+    "收录时间": "2024-11-12",
+    "更新时间": "2024-11-12",
+    "漏洞附件": "(无附件)"
+}

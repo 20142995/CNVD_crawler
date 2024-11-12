@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Cisco Expressway Series命令注入漏洞",
+    "CNVD-ID": "CNVD-2024-44496",
+    "公开日期": "2024-11-07",
+    "危害级别": "中",
+    "影响产品": "Cisco Expressway Series <15.2 (Oct 2024)",
+    "CVE ID": "CVE-2024-20492",
+    "漏洞描述": "Cisco Expressway Series是美国思科（Cisco）公司的一款用于防火墙外访问设备的软件。该软件为防火墙外的用户提供了简单、高度安全的访问功能，帮助远程办公人员在他们选择的设备上更有效地工作。\nCisco Expressway Series存在命令注入漏洞，该漏洞源于对用户提供的输入验证不足。经过身份验证的本地攻击者可利用该漏洞对底层操作系统执行命令注入攻击并将权限提升至root。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-20492",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-expw-escalation-3bkz77bD",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/608806",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-17",
+    "收录时间": "2024-11-12",
+    "更新时间": "2024-11-12",
+    "漏洞附件": "(无附件)"
+}

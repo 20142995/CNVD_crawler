@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft .NET和Visual Studio拒绝服务漏洞",
+    "CNVD-ID": "CNVD-2024-44521",
+    "公开日期": "2024-11-12",
+    "危害级别": "高",
+    "影响产品": "Microsoft PowerShell 7.2\nMicrosoft Visual Studio 2022 17.6\nMicrosoft Visual Studio 2022 17.8\nMicrosoft Visual Studio 2022 17.10\nMicrosoft PowerShell 7.4\nMicrosoft Visual Studio 2022 17.11\nMicrosoft .NET 8.0 on Linux\nMicrosoft .NET 6.0 on Linux\nMicrosoft .NET 6.0 on Windows\nMicrosoft .NET 8.0 on Mac OS\nMicrosoft .NET 6.0 on Mac OS\nMicrosoft .NET 8.0 on Windows",
+    "CVE ID": "CVE-2024-43485",
+    "漏洞描述": "Microsoft Visual Studio是一款开发工具套件系列产品，也是一个基本完整的开发工具集，它包括了整个软件生命周期中所需要的大部分工具。Microsoft .NET是一个致力于敏捷软件开发、快速应用开发、平台无关性和网络透明化的软件框架。\nMicrosoft .NET和Visual Studio存在拒绝服务漏洞。该漏洞是由算法复杂性缺陷引起的。攻击者可利用该漏洞造成拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-43485/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-43485",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/616871",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-17",
+    "收录时间": "2024-11-12",
+    "更新时间": "2024-11-12",
+    "漏洞附件": "(无附件)"
+}

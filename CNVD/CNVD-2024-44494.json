@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Cisco Adaptive Security Appliance SSH远程命令注入漏洞",
+    "CNVD-ID": "CNVD-2024-44494",
+    "公开日期": "2024-11-06",
+    "危害级别": "高",
+    "影响产品": "Cisco Cisco Adaptive Security Appliance",
+    "CVE ID": "CVE-2024-20329",
+    "漏洞描述": "Cisco Adaptive Security Appliance (ASA) 是思科公司开发的一款综合性网络安全设备，提供防火墙、VPN、IPS等安全功能。它支持物理和虚拟部署，能够适应不同规模网络的安全需求。\nCisco Adaptive Security Appliance存在远程命令注入漏洞。该漏洞是由于对用户输入的验证不足造成的。攻击者可以利用该漏洞以root级权限在底层操作系统上执行命令。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-20329",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新:\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asa-ssh-rce-gRAuPEUF",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/608796",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-25",
+    "收录时间": "2024-11-12",
+    "更新时间": "2024-11-12",
+    "漏洞附件": "(无附件)"
+}

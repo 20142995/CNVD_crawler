@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Azure Command Line Integration（CLI）权限提升漏洞",
+    "CNVD-ID": "CNVD-2024-44522",
+    "公开日期": "2024-11-12",
+    "危害级别": "高",
+    "影响产品": "Microsoft Azure Service Connector \nMicrosoft Azure CLI",
+    "CVE ID": "CVE-2024-43591",
+    "漏洞描述": "Microsoft Azure Command Line Integration（CLI）是美国微软（Microsoft）公司的一个跨平台的命令行工具，可连接到Azure并对Azure资源执行管理命令。\nMicrosoft Azure Command Line Integration（CLI）存在权限提升漏洞，该漏洞是由命令行集成（CLI）组件中的缺陷引起的。攻击者可利用该漏洞以更高的权限执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-43591",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-43591",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/616876",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-17",
+    "收录时间": "2024-11-12",
+    "更新时间": "2024-11-12",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Cisco Firepower Threat Defense代码问题漏洞（CNVD-2024-44487）",
+    "CNVD-ID": "CNVD-2024-44487",
+    "公开日期": "2024-11-06",
+    "危害级别": "中",
+    "影响产品": "Cisco Cisco Firepower Threat Defense",
+    "CVE ID": "CVE-2024-20431",
+    "漏洞描述": "Cisco Firepower Threat Defense（FTD）是美国思科（Cisco）公司的一套提供下一代防火墙服务的统一软件。\nCisco Firepower Threat Defense存在代码问题漏洞，该漏洞源于地理位置数据分配不当。攻击者可利用该漏洞绕过访问控制策略。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-20431",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ftd-geoip-bypass-MB4zRDu",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/608066",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-31",
+    "收录时间": "2024-11-12",
+    "更新时间": "2024-11-12",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Cisco Firepower Threat Defense信任管理问漏洞",
+    "CNVD-ID": "CNVD-2024-44488",
+    "公开日期": "2024-11-06",
+    "危害级别": "高",
+    "影响产品": "Cisco Cisco Firepower Threat Defense",
+    "CVE ID": "CVE-2024-20412",
+    "漏洞描述": "Cisco Firepower Threat Defense（FTD）是美国思科（Cisco）公司的一套提供下一代防火墙服务的统一软件。\nCisco Firepower Threat Defense存在信任管理问题漏洞，该漏洞源于受影响的系统上存在带有硬编码密码的静态帐户。攻击者可利用该漏洞使用静态凭据访问受影响的系统。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-20412",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ftd-statcred-dFC8tXT5",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/608071",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-31",
+    "收录时间": "2024-11-12",
+    "更新时间": "2024-11-12",
+    "漏洞附件": "(无附件)"
+}
