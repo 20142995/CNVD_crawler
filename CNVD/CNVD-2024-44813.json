@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "NETGEAR R8500 ipv6_fix.cgi组件ipv6_wan_ipaddr参数缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2024-44813",
+    "公开日期": "2024-11-08",
+    "危害级别": "中",
+    "影响产品": "NETGEAR R8500 v1.0.2.160",
+    "CVE ID": "CVE-2024-50994",
+    "漏洞描述": "NETGEAR R8500是美国网件（NETGEAR）公司的一款无线路由器。\nNETGEAR R8500 v1.0.2.160版本存在缓冲区溢出漏洞，该漏洞源于ipv6_fix.cgi组件中的ipv6_wan_ipaddr、ipv6_lan_ipaddr、ipv6_wan_length和ipv6_lan_length parameters参数未能正确验证输入数据的长度大小，远程攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务攻击。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-50994",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.netgear.com/about/security/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/612616",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-07",
+    "收录时间": "2024-11-13",
+    "更新时间": "2024-11-13",
+    "漏洞附件": "(无附件)"
+}
