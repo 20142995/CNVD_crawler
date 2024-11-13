@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Oracle Java SE存在未明漏洞（CNVD-2024-44545）",
+    "CNVD-ID": "CNVD-2024-44545",
+    "公开日期": "2024-11-14",
+    "危害级别": "低",
+    "影响产品": "Oracle Java SE 23\nOracle Java SE 8u421\nOracle Java SE 8u421-perf\nOracle Java SE 11.0.24\nOracle Java SE 17.0.12\nOracle Java SE 21.0.4",
+    "CVE ID": "CVE-2024-21210",
+    "漏洞描述": "Oracle Java SE是美国甲骨文（Oracle）公司的一款用于开发和部署桌面、服务器以及嵌入设备和实时环境中的Java应用程序。\nOracle Java SE存在安全漏洞，攻击者可利用该漏洞导致对某些Oracle Java SE可访问数据的未经授权的更新、插入或删除访问。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.oracle.com/security-alerts/cpuoct2024.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.oracle.com/security-alerts/cpuoct2024.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/616991",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-23",
+    "收录时间": "2024-11-12",
+    "更新时间": "2024-11-12",
+    "漏洞附件": "(无附件)"
+}
