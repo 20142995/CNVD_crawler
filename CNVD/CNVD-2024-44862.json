@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Tenda AC6缓冲区溢出漏洞（CNVD-2024-44862）",
+    "CNVD-ID": "CNVD-2024-44862",
+    "公开日期": "2024-11-14",
+    "危害级别": "高",
+    "影响产品": "Tenda AC6 v2.0 V15.03.06.50",
+    "CVE ID": "CVE-2024-51116",
+    "漏洞描述": "Tenda AC6是中国腾达（Tenda）公司的一款无线路由器。\nTenda AC6 v2.0 V15.03.06.50版本存在缓冲区溢出漏洞，该漏洞源于函数formSetPPTPServer中未能正确验证输入数据的长度大小，远程攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务攻击。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/CLan-nad/CVE/blob/main/tenda/formSetPPTPServer/readme.md",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.tendacn.com/download/detail-3794.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/618231",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-07",
+    "收录时间": "2024-11-14",
+    "更新时间": "2024-11-14",
+    "漏洞附件": "(无附件)"
+}

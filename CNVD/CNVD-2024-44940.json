@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens Spectrum Power权限提升漏洞",
+    "CNVD-ID": "CNVD-2024-44940",
+    "公开日期": "2024-11-14",
+    "危害级别": "中",
+    "影响产品": "Siemens Spectrum Power 7 <24Q3",
+    "CVE ID": "CVE-2024-29119",
+    "漏洞描述": "Spectrum Power为控制和监控系统提供SCADA、通信和数据建模的基本组件。\nSiemens Spectrum Power存在权限提升漏洞，经过身份验证的本地攻击者可利用该漏洞提升权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-616032.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://cert-portal.siemens.com/productcert/html/ssa-616032.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/617316",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-13",
+    "收录时间": "2024-11-14",
+    "更新时间": "2024-11-14",
+    "漏洞附件": "(无附件)"
+}

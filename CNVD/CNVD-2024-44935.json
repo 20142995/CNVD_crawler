@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "多款Siemens产品注入漏洞",
+    "CNVD-ID": "CNVD-2024-44935",
+    "公开日期": "2024-11-14",
+    "危害级别": "高",
+    "影响产品": "Siemens SCALANCE M-800 family <8.2\nSiemens SCALANCE S615 family <8.2\nSiemens RUGGEDCOM RM1224 family (6GK6108-4AM00) <8.2\nSiemens SCALANCE MUM-800 family <8.2",
+    "CVE ID": "CVE-2024-50572",
+    "漏洞描述": "SCALANCE M-800， MUM-800和S615以及RUGGEDCOM RM1224是工业路由器。\n多款Siemens产品存在注入漏洞，攻击者可利用该漏洞注入代码或生成系统根shell。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-354112.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://cert-portal.siemens.com/productcert/html/ssa-354112.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/617336",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-13",
+    "收录时间": "2024-11-14",
+    "更新时间": "2024-11-14",
+    "漏洞附件": "(无附件)"
+}
