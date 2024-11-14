@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Dell PowerProtect DD信息泄露漏洞",
+    "CNVD-ID": "CNVD-2024-44817",
+    "公开日期": "2024-11-14",
+    "危害级别": "低",
+    "影响产品": "DELL Dell PowerProtect DD <7.7.5.50",
+    "CVE ID": "CVE-2024-48011",
+    "漏洞描述": "Dell PowerProtect Data Domain（Dell PowerProtect DD）是美国戴尔（Dell）公司的一套用于数据保护、备份、存储和重复数据消除的硬件设备。\nDell PowerProtect DD 7.7.5.50之前版本存在信息泄露漏洞，该漏洞源于应用对于敏感信息保护不足，攻击者可利用该漏洞获取敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-48011",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000245360/dsa-2024-424-security-update-for-dell-pdsa-2024-424-security-update-for-dell-powerprotect-dd-vulnerabilityowerprotect-dd-vulnerability",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/618121",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-13",
+    "收录时间": "2024-11-14",
+    "更新时间": "2024-11-14",
+    "漏洞附件": "(无附件)"
+}
