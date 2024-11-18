@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens SINEC INS路径遍历漏洞（CNVD-2024-45208）",
+    "CNVD-ID": "CNVD-2024-45208",
+    "公开日期": "2024-11-18",
+    "危害级别": "高",
+    "影响产品": "Siemens SINEC INS <1.0 SP2 Update 3",
+    "CVE ID": "CVE-2024-46888",
+    "漏洞描述": "Siemens SINEC INS是德国西门子（Siemens）公司的一款为网络基础设施提供中央服务的软件。\nSiemens SINEC INS存在路径遍历漏洞，该漏洞源于未正确清理用户提供的基于sftp的文件上传和下载路径，经过身份验证的远程攻击者可利用该漏洞操纵文件系统上的任意文件，并在设备上执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-915275.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.industry.siemens.com/cs/ww/en/view/109975745/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/617401",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-13",
+    "收录时间": "2024-11-18",
+    "更新时间": "2024-11-18",
+    "漏洞附件": "(无附件)"
+}
