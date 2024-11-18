@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "多款VMware产品信息泄露漏洞（CNVD-2024-45224）",
+    "CNVD-ID": "CNVD-2024-45224",
+    "公开日期": "2024-11-18",
+    "危害级别": "中",
+    "影响产品": "VMWare VMware ESXi 7.0\nVMWare VMware ESXi 8.0\nVMWare VMware ESXi 8.0 [2]\nVMware Workstation 17.*\nVMware Fusion 13.*",
+    "CVE ID": "CVE-2024-22255",
+    "漏洞描述": "VMware ESXi是一套可直接安装在物理服务器上的服务器虚拟化平台。Workstation是一套虚拟机软件。Fusion是一套专用于在苹果机（Mac）上运行Windows应用程序的的虚拟机软件。 \n多款VMware产品存在信息泄露漏洞，具有虚拟机管理访问权限的攻击者可利用该漏洞导致内存泄漏。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.vmware.com/security/advisories/VMSA-2024-0006.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.vmware.com/security/advisories/VMSA-2024-0006.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/620636",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-03-08",
+    "收录时间": "2024-11-18",
+    "更新时间": "2024-11-18",
+    "漏洞附件": "(无附件)"
+}

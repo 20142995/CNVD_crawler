@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "VMware ESXi越界写入漏洞",
+    "CNVD-ID": "CNVD-2024-45223",
+    "公开日期": "2024-11-18",
+    "危害级别": "中",
+    "影响产品": "VMWare VMware ESXi 7.0\nVMWare VMware ESXi 8.0\nVMWare VMware ESXi 8.0 [2]",
+    "CVE ID": "CVE-2024-22254",
+    "漏洞描述": "VMware ESXi是美国威睿（VMware）公司的一套可直接安装在物理服务器上的服务器虚拟化平台。\nVMware ESXi存在越界写入漏洞，具有管理权限的本地攻击者可利用该漏洞导致沙箱逃逸。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.vmware.com/security/advisories/VMSA-2024-0006.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.vmware.com/security/advisories/VMSA-2024-0006.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/620641",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-05-28",
+    "收录时间": "2024-11-18",
+    "更新时间": "2024-11-18",
+    "漏洞附件": "(无附件)"
+}
