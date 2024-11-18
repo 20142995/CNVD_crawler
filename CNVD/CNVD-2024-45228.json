@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Google Android权限提升漏洞（CNVD-2024-45228）",
+    "CNVD-ID": "CNVD-2024-45228",
+    "公开日期": "2024-11-19",
+    "危害级别": "中",
+    "影响产品": "Google Android <12\nGoogle Android <12L\nGoogle Android <13\nGoogle Android <14",
+    "CVE ID": "CVE-2024-40650",
+    "漏洞描述": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。\nGoogle Android存在权限提升漏洞，该漏洞是由于styles.xml的wifi_item_edit_content中缺少对FRP状态的检查造成的。攻击者可利用此漏洞升级权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-40650",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/2024-09-01",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/620661",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-12",
+    "收录时间": "2024-11-18",
+    "更新时间": "2024-11-18",
+    "漏洞附件": "(无附件)"
+}
