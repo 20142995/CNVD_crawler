@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens Mendix竞态条件漏洞",
+    "CNVD-ID": "CNVD-2024-45213",
+    "公开日期": "2024-11-18",
+    "危害级别": "中",
+    "影响产品": "Siemens Mendix Runtime V8 \nSiemens Mendix Runtime V9 <9.24.29\nSiemens Mendix Runtime V10 <10.16.0\nSiemens Mendix Runtime V10.6 <10.6.15\nSiemens Mendix Runtime V10.12 <10.12.7",
+    "CVE ID": "CVE-2024-50313",
+    "漏洞描述": "Mendix是一个高生产力的应用程序平台，使您能够大规模构建和持续改进移动和web应用程序。\nSiemens Mendix存在竞态条件漏洞，未经身份验证的远程攻击者可利用该漏洞绕过默认帐户锁定措施。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-914892.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://cert-portal.siemens.com/productcert/html/ssa-914892.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/617331",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-13",
+    "收录时间": "2024-11-18",
+    "更新时间": "2024-11-18",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens Solid Edge DLL劫持漏洞",
+    "CNVD-ID": "CNVD-2024-45216",
+    "公开日期": "2024-11-18",
+    "危害级别": "中",
+    "影响产品": "Siemens Solid Edge SE2024 <224.0 Update 9",
+    "CVE ID": "CVE-2024-47942",
+    "漏洞描述": "Solid Edge是一个软件工具组合，可解决各种产品开发过程：3D设计，仿真，制造和设计管理。\nSiemens Solid Edge存在DLL劫持漏洞，攻击者可利用该漏洞通过在系统上放置精心制作的DLL文件来执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-351178.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.sw.siemens.com/product/246738425/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/617306",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-13",
+    "收录时间": "2024-11-18",
+    "更新时间": "2024-11-18",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens TeleControl Server Basic反序列化漏洞",
+    "CNVD-ID": "CNVD-2024-45215",
+    "公开日期": "2024-11-18",
+    "危害级别": "高",
+    "影响产品": "SIEMENS TeleControl Server Basic 3.1",
+    "CVE ID": "CVE-2024-44102",
+    "漏洞描述": "TeleControl Server Basic允许通过WAN/LAN远程监控和控制工厂。\nSiemens TeleControl Server Basic存在反序列化漏洞，攻击者可利用该漏洞在具有SYSTEM权限的设备上执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-454789.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.industry.siemens.com/cs/ww/en/view/109975921/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/617311",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-13",
+    "收录时间": "2024-11-18",
+    "更新时间": "2024-11-18",
+    "漏洞附件": "(无附件)"
+}

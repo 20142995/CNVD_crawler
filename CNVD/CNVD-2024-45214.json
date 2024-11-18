@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "多款Siemens产品反序列化漏洞",
+    "CNVD-ID": "CNVD-2024-45214",
+    "公开日期": "2024-11-18",
+    "危害级别": "中",
+    "影响产品": "Siemens SIMATIC S7-PLCSIM V17 \nSiemens SIMATIC S7-PLCSIM V16 \nSiemens SIRIUS Safety ES V18 \nSiemens SIRIUS Soft Starter ES V18 \nSiemens SIMATIC STEP 7 Safety V16 \nSiemens SIMATIC STEP 7 V16 \nSiemens SIMATIC WinCC Unified V16 \nSiemens SIMATIC WinCC V16 \nSiemens SIMOCODE ES V16 \nSiemens SIMOTION SCOUT TIA V5.4 SP1 \nSiemens SINAMICS Startdrive V16 \nSiemens TIA Portal Cloud V16 \nSiemens SINAMICS Startdrive V17 \nSiemens SIMOTION SCOUT TIA V5.4 SP3 \nSiemens SIMATIC STEP 7 Safety V17 <17 Update 8\nSiemens SIMATIC STEP 7 V17 <17 Update 8\nSiemens SIMATIC WinCC Unified V17 <17 Update 8\nSiemens SIMATIC WinCC V17 <17 Update 8\nSiemens SIMOCODE ES V17 <17 Update 8\nSiemens SIRIUS Safety ES V17 <17 Update 8\nSiemens SIRIUS Soft Starter ES V17 <17 Update 8\nSiemens TIA Portal Cloud V17 <4.6.0.1\nSiemens SIMATIC STEP 7 Safety V18 <18 Update 5\nSiemens SIMATIC STEP 7 V18 <18 Update 5\nSiemens SIMATIC WinCC Unified V18 <18 Update 5\nSiemens SIMATIC WinCC V18 <18 Update 5\nSiemens TIA Portal Cloud V18 <4.6.1.0",
+    "CVE ID": "CVE-2023-32736",
+    "漏洞描述": "SIMATIC S7-PLCSIM模拟S7-1200， S7-1500和其他一些PLC衍生产品，作为SIMATIC STEP 7的一部分发货。SIMATIC step7 （TIA Portal）是一个用于配置和编程SIMATIC控制器的工程软件。simmocode ES是simmocode pro配置、调试、操作和诊断的核心软件包。SINAMICS Startdrive调试软件是在TIA Portal中集成SINAMICS驱动器的工程工具。TIA Portal是一款PC软件，可提供从数字规划和集成工程到透明操作的全套西门子数字化自动化服务。TIA Portal Cloud使得在虚拟化环境中使用TIA Portal的主要包和主要选项包成为可能。\n多款Siemens产品存在反序列化漏洞，攻击者可利用该漏洞导致类型混淆，并在受影响的应用程序中执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-871035.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://cert-portal.siemens.com/productcert/html/ssa-871035.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/617326",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-13",
+    "收录时间": "2024-11-18",
+    "更新时间": "2024-11-18",
+    "漏洞附件": "(无附件)"
+}
