@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Cisco Unified Communications Manager信息泄露漏洞（CNVD-2024-45294）",
+    "CNVD-ID": "CNVD-2024-45294",
+    "公开日期": "2024-11-14",
+    "危害级别": "中",
+    "影响产品": "Cisco Unified Communications Manager 无",
+    "CVE ID": "CVE-2024-20457",
+    "漏洞描述": "Cisco Unified Communications Manager是美国思科（Cisco）公司的一款统一通信系统中的呼叫处理组件。该组件提供了一种可扩展、可分布和高可用的企业IP电话呼叫处理解决方案。\nCisco Unified Communications Manager存在信息泄露漏洞，该漏洞源于某些日志中存储了未加密的凭证。经过身份验证的远程攻击者可利用该漏洞在受影响的系统上以明文形式查看敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-20457",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-imp-inf-disc-cUPKuA5n",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/618071",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-13",
+    "收录时间": "2024-11-19",
+    "更新时间": "2024-11-19",
+    "漏洞附件": "(无附件)"
+}

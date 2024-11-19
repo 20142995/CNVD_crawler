@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Mattermost授权问题漏洞（CNVD-2024-45314）",
+    "CNVD-ID": "CNVD-2024-45314",
+    "公开日期": "2024-11-15",
+    "危害级别": "低",
+    "影响产品": "Mattermost Mattermost Server >=9.5.0，<9.5.10\nMattermost Mattermost Server >=9.10.0，<9.10.3\nMattermost Mattermost Server >=9.11.0，<9.11.2",
+    "CVE ID": "CVE-2024-42000",
+    "漏洞描述": "Mattermost是美国Mattermost公司的一个开源协作平台。\nMattermost存在授权问题漏洞，该漏洞源于对/api/v4/channels请求的授权不当，具有Read Groups权限但无渠道访问权限的攻击者可利用该漏洞员通过发送请求，来获取他们的敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-42000",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://mattermost.com/security-updates/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/618281",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-13",
+    "收录时间": "2024-11-19",
+    "更新时间": "2024-11-19",
+    "漏洞附件": "(无附件)"
+}
