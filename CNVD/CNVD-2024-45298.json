@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Cisco Identity Services Engine Web接口跨站脚本漏洞（CNVD-2024-45298）",
+    "CNVD-ID": "CNVD-2024-45298",
+    "公开日期": "2024-11-14",
+    "危害级别": "中",
+    "影响产品": "Cisco Identity Services Engine 3.1\nCisco Identity Services Engine 3.0\nCisco Identity Services Engine 3.2\nCisco Identity Services Engine 3.3",
+    "CVE ID": "CVE-2024-20538",
+    "漏洞描述": "Cisco Identity Services Engine是美国思科(Cisco)公司的一款环境感知平台。\nCisco Identity Services Engine WEB接口存在跨站脚本漏洞，远程攻击者可利用该漏洞注入恶意脚本或HTML代码，当恶意数据被查看时，可获取敏感信息或劫持用户会话。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-20538",
+    "漏洞解决方案": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-auth-bypass-BBRf7mkE",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/618096",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-11",
+    "收录时间": "2024-11-19",
+    "更新时间": "2024-11-19",
+    "漏洞附件": "(无附件)"
+}

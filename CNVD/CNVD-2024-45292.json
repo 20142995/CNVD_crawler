@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Cisco IP Phone跨站脚本漏洞（CNVD-2024-45292）",
+    "CNVD-ID": "CNVD-2024-45292",
+    "公开日期": "2024-11-13",
+    "危害级别": "中",
+    "影响产品": "Cisco IP Phones",
+    "CVE ID": "CVE-2024-20534",
+    "漏洞描述": "Cisco IP Phone是美国思科（Cisco）公司的一个硬件设备。提供通话功能的IP电话。\nCisco IP Phone存在跨站脚本漏洞，该漏洞源于受影响设备的WebUI未正确验证用户提供的输入。经过身份验证的远程攻击者可利用该漏洞在受影响的界面上下文中执行任意脚本代码，或者访问敏感的、基于浏览器的信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-20534",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-mpp-xss-8tAV2TvF",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/618061",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-13",
+    "收录时间": "2024-11-19",
+    "更新时间": "2024-11-19",
+    "漏洞附件": "(无附件)"
+}

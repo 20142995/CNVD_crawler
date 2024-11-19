@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Cisco Unified Industrial Wireless Software命令注入漏洞",
+    "CNVD-ID": "CNVD-2024-45300",
+    "公开日期": "2024-11-14",
+    "危害级别": "高",
+    "影响产品": "Cisco Unified Industrial Wireless Software",
+    "CVE ID": "CVE-2024-20418",
+    "漏洞描述": "Cisco Unified Industrial Wireless Software是思科公司提供的一款用于工业无线网络的软件。\nCisco Unified Industrial Wireless Software存在命令注入漏洞。该漏洞是由于受影响产品用于URWB接入点的web管理界面输入验证不当导致，攻击者可利用该漏洞通过发送精心构造的HTTP请求来执行操作系统命令。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-20418",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新:\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-backhaul-ap-cmdinj-R7E28Ecs",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/618101",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-08",
+    "收录时间": "2024-11-19",
+    "更新时间": "2024-11-19",
+    "漏洞附件": "(无附件)"
+}
