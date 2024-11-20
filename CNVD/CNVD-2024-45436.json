@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Active Products Tables for WooCommerce plugin跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2024-45436",
+    "公开日期": "2024-11-20",
+    "危害级别": "中",
+    "影响产品": "WordPress Active Products Tables for WooCommerce plugin <=1.0.6.4",
+    "CVE ID": "CVE-2024-10168",
+    "漏洞描述": "WordPress是一套使用PHP语言开发的博客平台。该平台支持在PHP和MySQL的服务器上架设个人博客网站。WordPress plugin是一个应用插件。 \nWordPress plugin Active Products Tables for WooCommerce 1.0.6.4版本及之前版本存在跨站脚本漏洞，该漏洞源于插件的woot_button函数对用户提供的数据缺乏有效过滤与转义，攻击者利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.wordfence.com/threat-intel/vulnerabilities/id/4a13b13e-72d3-43c9-b5ec-d499f3b22091?source=cve",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.wordfence.com/threat-intel/vulnerabilities/id/4a13b13e-72d3-43c9-b5ec-d499f3b22091?source=cve",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/622861",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-13",
+    "收录时间": "2024-11-20",
+    "更新时间": "2024-11-20",
+    "漏洞附件": "(无附件)"
+}

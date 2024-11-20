@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM WebSphere Application Server跨站脚本漏洞（CNVD-2024-45435）",
+    "CNVD-ID": "CNVD-2024-45435",
+    "公开日期": "2024-11-20",
+    "危害级别": "中",
+    "影响产品": "IBM IBM WebSphere Application Server 9.0\nIBM IBM WebSphere Application Server 8.5",
+    "CVE ID": "CVE-2024-45087",
+    "漏洞描述": "IBM WebSphere Application Server（WAS）是美国国际商业机器（IBM）公司的一款应用服务器产品。该产品是JavaEE和Web服务应用程序的平台，也是IBMWebSphere软件平台的基础。\nIBM WebSphere Application Server 8.5版本和9.0版本存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-45087",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7175393",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/622846",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-15",
+    "收录时间": "2024-11-20",
+    "更新时间": "2024-11-20",
+    "漏洞附件": "(无附件)"
+}
