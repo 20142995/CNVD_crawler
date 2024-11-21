@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Windows Hyper-V Shared Virtual Disk权限提升漏洞",
+    "CNVD-ID": "CNVD-2024-45321",
+    "公开日期": "2024-11-22",
+    "危害级别": "高",
+    "影响产品": "Microsoft Windows Server 2019 \nMicrosoft Windows Server 2022 \nMicrosoft Window 10 22H2\nMicrosoft Window 10 21H2\nMicrosoft Window 11 22H2\nMicrosoft Window 10 1809\nMicrosoft Window 11 23H2\nMicrosoft Window 11 24H2\nMicrosoft Windows Server 2025",
+    "CVE ID": "CVE-2024-43624",
+    "漏洞描述": "Microsoft Windows Hyper-V是微软开发的一种虚拟化技术，主要用于在Windows操作系统上创建和管理虚拟机，Shared Virtual Disk是其中的共享虚拟磁盘。\nMicrosoft Windows Hyper-V Shared Virtual Disk存在权限提升漏洞，该漏洞是由Hyper-V共享虚拟磁盘中的缺陷引起的。攻击者可利用此漏洞在系统上获得更高的权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-43624",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-43624",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/622071",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-15",
+    "收录时间": "2024-11-19",
+    "更新时间": "2024-11-19",
+    "漏洞附件": "(无附件)"
+}

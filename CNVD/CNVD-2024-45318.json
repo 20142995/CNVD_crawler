@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Excel远程代码执行明漏洞（CNVD-2024-45318）",
+    "CNVD-ID": "CNVD-2024-45318",
+    "公开日期": "2024-11-22",
+    "危害级别": "高",
+    "影响产品": "Microsoft Office 2019 \nMicrosoft 365 Apps for Enterprise \nMicrosoft Office LTSC 2021 \nMicrosoft Office LTSC for Mac 2021 \nMicrosoft Microsoft Office LTSC 2024 \nMicrosoft Office LTSC for Mac 2024 \nMicrosoft Excel 2016 (64-bit edition) \nMicrosoft Excel 2016 (32-bit edition)",
+    "CVE ID": "CVE-2024-49028",
+    "漏洞描述": "Microsoft Excel是美国微软（Microsoft）公司的一款Office套件中的电子表格处理软件。\nMicrosoft Excel存在远程代码执行漏洞，攻击者可利用该漏洞在系统上执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-49028",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-49028",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/622056",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-15",
+    "收录时间": "2024-11-19",
+    "更新时间": "2024-11-19",
+    "漏洞附件": "(无附件)"
+}
