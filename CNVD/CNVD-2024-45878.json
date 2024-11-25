@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Mozilla多款产品访问控制错误漏洞",
+    "CNVD-ID": "CNVD-2024-45878",
+    "公开日期": "2024-11-25",
+    "危害级别": "高",
+    "影响产品": "Mozilla Firefox <129\nMozilla Firefox ESR <128.1\nMozilla Thunderbird <128.1\nmozilla Firefox ESR <115.14\nMozilla Thunderbird <115.14",
+    "CVE ID": "CVE-2024-7525",
+    "漏洞描述": "Mozilla Firefox等都是美国Mozilla基金会的产品。Mozilla Firefox是一款开源Web浏览器。Mozilla Firefox ESR是Firefox(Web浏览器)的一个延长支持版本。Mozilla Thunderbird是一套从Mozilla Application Suite独立出来的电子邮件客户端软件。 \nMozilla多款产品存在访问控制错误漏洞，攻击者可利用该漏洞绕过安全限制。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://bugzilla.mozilla.org/show_bug.cgi?id=1909298",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/security/advisories/mfsa2024-33/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/627431",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-14",
+    "收录时间": "2024-11-25",
+    "更新时间": "2024-11-25",
+    "漏洞附件": "(无附件)"
+}

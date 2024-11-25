@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Mozilla Firefox和Mozilla Thunderbird越界读取漏洞",
+    "CNVD-ID": "CNVD-2024-45875",
+    "公开日期": "2024-11-25",
+    "危害级别": "高",
+    "影响产品": "Mozilla Firefox <132\nMozilla Firefox ESR <128.4\nMozilla Thunderbird <128.4\nMozilla Thunderbird <132",
+    "CVE ID": "CVE-2024-10464",
+    "漏洞描述": "Mozilla Firefox和Mozilla Thunderbird都是美国Mozilla基金会的产品。Mozilla Firefox是一款开源Web浏览器。Mozilla Thunderbird是一套从Mozilla Application Suite独立出来的电子邮件客户端软件。该软件支持IMAP、POP邮件协议以及HTML邮件格式。 \nMozilla Firefox和Mozilla Thunderbird存在越界读取漏洞，攻击者可利用该漏洞导致浏览器崩溃。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.mozilla.org/security/advisories/mfsa2024-59/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/en-US/security/advisories/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/627401",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-30",
+    "收录时间": "2024-11-25",
+    "更新时间": "2024-11-25",
+    "漏洞附件": "(无附件)"
+}

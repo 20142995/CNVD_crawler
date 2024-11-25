@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Linux kernel越界读取漏洞（CNVD-2024-45870）",
+    "CNVD-ID": "CNVD-2024-45870",
+    "公开日期": "2024-11-25",
+    "危害级别": "中",
+    "影响产品": "Linux Kernel",
+    "CVE ID": "CVE-2023-39179",
+    "漏洞描述": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。\nLinux kernel存在越界读取漏洞，攻击者可利用该漏洞获取安装中的敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://access.redhat.com/security/cve/CVE-2023-39179",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lore.kernel.org/lkml/CAH2r5mv+Sy5mrZThrQUf1na-mg-B9DiLd5fkYs9sPo97GWirCA@mail.gmail.com/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/627366",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-21",
+    "收录时间": "2024-11-25",
+    "更新时间": "2024-11-25",
+    "漏洞附件": "(无附件)"
+}
