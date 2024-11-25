@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Linux kernel空指针解引用漏洞（CNVD-2024-45906）",
+    "CNVD-ID": "CNVD-2024-45906",
+    "公开日期": "2024-11-25",
+    "危害级别": "中",
+    "影响产品": "Linux Linux kernel >=6.7，<6.10.3\nLinux Linux kernel >=6.2，<6.6.44\nLinux Linux kernel >=5.19，<6.1.103",
+    "CVE ID": "CVE-2024-43833",
+    "漏洞描述": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。\nLinux kernel存在空指针解引用漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-43833/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/249212ceb4187783af3801c57b92a5a25d410621",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/628886",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-20",
+    "收录时间": "2024-11-25",
+    "更新时间": "2024-11-25",
+    "漏洞附件": "(无附件)"
+}
