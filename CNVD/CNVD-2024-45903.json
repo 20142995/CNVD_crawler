@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Linux kernel越界读取漏洞（CNVD-2024-45903）",
+    "CNVD-ID": "CNVD-2024-45903",
+    "公开日期": "2024-11-25",
+    "危害级别": "中",
+    "影响产品": "Linux Linux kernel >=6.2，<6.6.14\nLinux Linux kernel >=6.7，<6.7.2\nLinux Linux kernel >=6.1，<6.1.75",
+    "CVE ID": "CVE-2024-26588",
+    "漏洞描述": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。 \nLinux kernel存在越界读取漏洞，攻击者可利用该漏洞获取敏感信息并在系统上执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-26588/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/commit/?id=36a87385e31c9343af9a4756598e704741250a67",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/628866",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-02-23",
+    "收录时间": "2024-11-25",
+    "更新时间": "2024-11-25",
+    "漏洞附件": "(无附件)"
+}
