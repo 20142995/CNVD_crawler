@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "AnythingLLM信息泄露漏洞",
+    "CNVD-ID": "CNVD-2024-46007",
+    "公开日期": "2024-11-26",
+    "危害级别": "高",
+    "影响产品": "AnythingLLM AnythingLLM 1.5.5",
+    "CVE ID": "CVE-2024-6842",
+    "漏洞描述": "AnythingLLM是一个支持使用商业或开源大语言模型并结合私有知识库进行搭建的聊天机器人应用程序。\nAnythingLLM存在信息泄露漏洞，攻击者可利用该漏洞获取从进程的环境变量中读取API key。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://huntr.com/bounties/cd911fc7-ac6b-4974-acd0-9cc926fa8d9e",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.github.com/mintplex-labs/anything-llm/commit/8b1ceb30c159cf3a10efa16275bc6849d84e4ea8",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/628966",
+    "验证信息": "已验证",
+    "报送时间": "2024-11-26",
+    "收录时间": "2024-11-26",
+    "更新时间": "2024-11-26",
+    "漏洞附件": "(无附件)"
+}
