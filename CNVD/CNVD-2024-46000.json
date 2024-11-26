@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "H2O远程代码执行漏洞",
+    "CNVD-ID": "CNVD-2024-46000",
+    "公开日期": "2024-11-25",
+    "危害级别": "高",
+    "影响产品": "H2O.ai H2O <=3.46.0.4",
+    "CVE ID": "CVE-2024-45758",
+    "漏洞描述": "H2O是H2O.ai开源的一个用于分布式、可扩展机器学习的内存平台。\nH2O 3.46.0.4及之前版本存在远程代码执行漏洞，攻击者可利用该漏洞任意设置JDBC URL，导致反序列化攻击、文件读取和命令执行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://spear-shield.notion.site/Unauthenticated-Remote-Code-Execution-via-Unrestricted-JDBC-Connection-87a958a4874044199cbb86422d1f6068",
+    "漏洞解决方案": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://spear-shield.notion.site/Unauthenticated-Remote-Code-Execution-via-Unrestricted-JDBC-Connection-87a958a4874044199cbb86422d1f6068",
+    "厂商补丁": "",
+    "验证信息": "已验证",
+    "报送时间": "2024-09-11",
+    "收录时间": "2024-11-26",
+    "更新时间": "2024-11-26",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Haystack远程代码执行漏洞",
+    "CNVD-ID": "CNVD-2024-46001",
+    "公开日期": "2024-11-26",
+    "危害级别": "高",
+    "影响产品": "Haystack haystack <2.3.1",
+    "CVE ID": "CVE-2024-41950",
+    "漏洞描述": "Haystack是一个开源NLP框架，可使用Transformer模型和LLM（GPT-4、ChatGPT 等）与您的数据进行交互。\nHaystack 2.3.1之前版本存在远程代码执行漏洞，攻击者可利用该漏洞在客户端机器上创建和呈现Jinja2模板，执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-41950",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/deepset-ai/haystack/releases/tag/v2.3.1",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/628961",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-02",
+    "收录时间": "2024-11-26",
+    "更新时间": "2024-11-26",
+    "漏洞附件": "(无附件)"
+}
