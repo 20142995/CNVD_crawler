@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens Tecnomatix Plant Simulation内存错误引用漏洞",
+    "CNVD-ID": "CNVD-2024-45996",
+    "公开日期": "2024-11-28",
+    "危害级别": "高",
+    "影响产品": "Siemens Tecnomatix Plant Simulation V2302 <2302.0018\nSiemens Tecnomatix Plant Simulation V2404 <2404.0007",
+    "CVE ID": "CVE-2024-52568",
+    "漏洞描述": "Siemens Tecnomatix Plant Simulation是德国西门子（Siemens）公司的一个工控设备。利用离散事件仿真的功能进行生产量分析和优化，进而改善制造系统性能。\nSiemens Tecnomatix Plant Simulation存在内存错误引用漏洞，攻击者可利用该漏洞在当前进程的上下文中执行代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-824503.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://cert-portal.siemens.com/productcert/html/ssa-824503.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/628951",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-21",
+    "收录时间": "2024-11-26",
+    "更新时间": "2024-11-26",
+    "漏洞附件": "(无附件)"
+}
