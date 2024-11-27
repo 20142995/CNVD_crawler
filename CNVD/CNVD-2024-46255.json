@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "MyBB跨站脚本漏洞（CNVD-2024-46255）",
+    "CNVD-ID": "CNVD-2024-46255",
+    "公开日期": "2024-11-27",
+    "危害级别": "中",
+    "影响产品": "Mybb MyBB v1.8.38",
+    "CVE ID": "CVE-2024-52702",
+    "漏洞描述": "MyBB是一款免费且开源的论坛软件，使用PHP语言编写，支持MySQL、MariaDB、PostgreSQL和SQLite数据库。\nMyBB存在跨站脚本漏洞。该漏洞与组件installindex.php有关，对websitename变量的清理不充分。攻击者可以利用该漏洞通过修改安装页面的websitename参数值来执行任意JavaScript代码，导致敏感信息泄露。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-52702",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps：//github.com/mybb/mybb",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/629026",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-22",
+    "收录时间": "2024-11-27",
+    "更新时间": "2024-11-27",
+    "漏洞附件": "(无附件)"
+}

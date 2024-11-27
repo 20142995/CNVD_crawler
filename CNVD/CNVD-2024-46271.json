@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apache OFBiz代码问题漏洞（CNVD-2024-46271）",
+    "CNVD-ID": "CNVD-2024-46271",
+    "公开日期": "2024-11-27",
+    "危害级别": "高",
+    "影响产品": "Apache Apache OFBiz <18.12.17",
+    "CVE ID": "CVE-2024-47208",
+    "漏洞描述": "Apache OFBiz是美国阿帕奇（Apache）基金会的一套企业资源计划（ERP）系统。该系统提供了一整套基于Java的Web应用程序组件和工具。\nApache OFBiz存在安全漏洞，该漏洞源于产品未能正确验证用户输入，攻击者可利用该漏洞探测服务器内网资源。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://ofbiz.apache.org/download.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/022r19skfofhv3lzql33vowlrvqndh11",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/629041",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-22",
+    "收录时间": "2024-11-27",
+    "更新时间": "2024-11-27",
+    "漏洞附件": "(无附件)"
+}

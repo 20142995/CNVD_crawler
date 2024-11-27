@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Adobe Bridge缓冲区溢出漏洞（CNVD-2024-46274）",
+    "CNVD-ID": "CNVD-2024-46274",
+    "公开日期": "2024-11-19",
+    "危害级别": "中",
+    "影响产品": "Adobe Adobe Bridge <=13.0.9\nAdobe Adobe Bridge >=14.0.0，<14.1.3",
+    "CVE ID": "CVE-2024-45147",
+    "漏洞描述": "Adobe Bridge是美国奥多比（Adobe）公司的一款文件查看器。\nAdobe Bridge存在安全漏洞，攻击者可利用该漏洞导致敏感内存泄露。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-45147",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/bridge/apsb24-77.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/622111",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-15",
+    "收录时间": "2024-11-27",
+    "更新时间": "2024-11-27",
+    "漏洞附件": "(无附件)"
+}
