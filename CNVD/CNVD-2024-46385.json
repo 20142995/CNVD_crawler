@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Linksys E3000 diag_ping_start命令注入漏洞",
+    "CNVD-ID": "CNVD-2024-46385",
+    "公开日期": "2024-11-27",
+    "危害级别": "高",
+    "影响产品": "Linksys E3000 1.0.06.002_US",
+    "CVE ID": "CVE-2024-48286",
+    "漏洞描述": "Linksys E3000是美国Linksys公司的一款功能强大的双频Wireless-N路由器。\nLinksys E3000 diag_ping_start存在安全漏洞，远程攻击者可以利用该漏洞提交特殊的请求，可以应用程序上下文执行任意命令。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/GroundCTL2MajorTom/pocs/blob/main/Cisco_Linksys_E3000_rce.md",
+    "漏洞解决方案": "目前厂商尚未发布升级补丁，请及时关注厂商更新：\nhttps://store.linksys.com/support-product?sku=E3000",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-25",
+    "收录时间": "2024-11-28",
+    "更新时间": "2024-11-28",
+    "漏洞附件": "(无附件)"
+}

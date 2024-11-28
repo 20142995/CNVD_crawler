@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM Flexible Service Processor信任管理问题漏洞",
+    "CNVD-ID": "CNVD-2024-46401",
+    "公开日期": "2024-11-27",
+    "危害级别": "高",
+    "影响产品": "IBM Flexible Service Processor",
+    "CVE ID": "CVE-2024-45656",
+    "漏洞描述": "IBM Flexible Service Processor（IBM FSP）是美国国际商业机器（IBM）公司的一系列灵活服务处理器。\nIBM Flexible Service Processor存在信任管理问题漏洞，该漏洞源于具有静态凭证，可能允许网络用户获得FSP 的服务特权。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-45656",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://www.ibm.com/support/pages/node/7174183",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/629021",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-22",
+    "收录时间": "2024-11-28",
+    "更新时间": "2024-11-28",
+    "漏洞附件": "(无附件)"
+}
