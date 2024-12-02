@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Rockwell Automation ThinManager ThinServer远程代码执行漏洞（CNVD-2024-46734）",
+    "CNVD-ID": "CNVD-2024-46734",
+    "公开日期": "2024-12-02",
+    "危害级别": "中",
+    "影响产品": "Rockwell Automation ThinManager ThinServer >=1.1.0，<=11.1.7\nRockwell Automation ThinManager ThinServer >=11.2.0，<=11.2.8\nRockwell Automation ThinManager ThinServer >=12.0.0，<=12.0.6\nRockwell Automation ThinManager ThinServer >=12.1.0，<=12.1.7\nRockwell Automation ThinManager ThinServer >=13.0.0，<=13.0.4\nRockwell Automation ThinManager ThinServer >=13.1.0，<=13.1.2\nRockwell Automation ThinManager ThinServer >=13.2.0，<=13.2.1",
+    "CVE ID": "CVE-2024-7987",
+    "漏洞描述": "Rockwell Automation ThinManager是美国罗克韦尔(Rockwell Automation)公司的一款瘦客户端管理软件。\nRockwell Automation ThinManager ThinServer存在远程代码执行漏洞，通过验证的本地攻击者可利用漏洞提交特殊的请求，创建恶意文件，可以系统上下文执行任意代码，提升权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.zerodayinitiative.com/advisories/ZDI-24-1157/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.rockwellautomation.com/en-ca/trust-center/security-advisories/advisory.SD1692.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/634611",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-26",
+    "收录时间": "2024-12-02",
+    "更新时间": "2024-12-02",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Rockwell Automation Micro850/870拒绝服务漏洞",
+    "CNVD-ID": "CNVD-2024-46732",
+    "公开日期": "2024-12-02",
+    "危害级别": "中",
+    "影响产品": "Rockwell Automation Micro850/870 v20.011",
+    "CVE ID": "CVE-2024-7567",
+    "漏洞描述": "Rockwell Automation Micro850/870是美国罗克韦尔（Rockwell Automation）公司的一款可编程逻辑控制器。\nRockwell Automation Micro850/870 v20.011版本存在拒绝服务漏洞，攻击者可利用该漏洞导致CIP/Modbus通信会短时间中断。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1684.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1684.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/634566",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-29",
+    "收录时间": "2024-12-02",
+    "更新时间": "2024-12-02",
+    "漏洞附件": "(无附件)"
+}
