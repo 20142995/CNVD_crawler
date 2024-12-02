@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Rockwell Automation ThinManager身份验证错误漏洞",
+    "CNVD-ID": "CNVD-2024-46725",
+    "公开日期": "2024-12-02",
+    "危害级别": "高",
+    "影响产品": "Rockwell Automation Rockwell Automation ThinManager >=11.2.0，<=11.2.9\nRockwell Automation Rockwell Automation ThinManager >=12.0.0，<=12.0.7\nRockwell Automation Rockwell Automation ThinManager >=12.1.0，<=12.1.8\nRockwell Automation Rockwell Automation ThinManager >=13.0.0，<=13.0.5\nRockwell Automation Rockwell Automation ThinManager >=13.1.0，<=13.1.3\nRockwell Automation Rockwell Automation ThinManager >=13.2.0，<=13.2.2\nRockwell Automation Rockwell Automation ThinManager 14.0.0",
+    "CVE ID": "CVE-2024-10386",
+    "漏洞描述": "Rockwell Automation ThinManager是美国罗克韦尔（Rockwell Automation）公司的一款瘦客户端管理软件。允许将瘦客户端同时分配给多个远程桌面服务器。\nRockwell Automation ThinManager存在身份验证错误漏洞，具有网络访问权限的攻击者可利用该漏洞向设备发送精心制作的消息，导致数据库操纵。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1708.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1708.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/634596",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-30",
+    "收录时间": "2024-12-02",
+    "更新时间": "2024-12-02",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Rockwell Automation PowerFlex 6000T拒绝服务漏洞",
+    "CNVD-ID": "CNVD-2024-46727",
+    "公开日期": "2024-12-02",
+    "危害级别": "高",
+    "影响产品": "Rockwell Automation Rockwell Automation PowerFlex 6000T 8.001\nRockwell Automation Rockwell Automation PowerFlex 6000T 8.002\nRockwell Automation Rockwell Automation PowerFlex 6000T 9.001",
+    "CVE ID": "CVE-2024-9124",
+    "漏洞描述": "Rockwell Automation PowerFlex 6000T是美国罗克韦尔（Rockwell Automation）公司的一款中压变频器。\nRockwell Automation PowerFlex 6000T存在拒绝服务漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1705.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1705.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/634591",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-17",
+    "收录时间": "2024-12-02",
+    "更新时间": "2024-12-02",
+    "漏洞附件": "(无附件)"
+}
