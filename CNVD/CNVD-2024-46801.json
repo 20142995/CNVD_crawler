@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Adobe After Effects缓冲区溢出漏洞（CNVD-2024-46801）",
+    "CNVD-ID": "CNVD-2024-46801",
+    "公开日期": "2024-11-19",
+    "危害级别": "中",
+    "影响产品": "Adobe After Effects <=23.6.9\nAdobe After Effects <=24.6.2",
+    "CVE ID": "CVE-2024-47445",
+    "漏洞描述": "Adobe After Effects是美国奥多比（Adobe）公司的一套视觉效果和动态图形制作软件。该软件主要用于2D和3D合成、动画制作和视觉特效制作等。\nAdobe After Effects存在安全漏洞，攻击者可利用该漏洞导致敏感内存泄露。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-47445",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/after_effects/apsb24-85.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/622131",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-15",
+    "收录时间": "2024-12-02",
+    "更新时间": "2024-12-02",
+    "漏洞附件": "(无附件)"
+}
