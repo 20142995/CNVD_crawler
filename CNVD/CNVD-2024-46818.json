@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM Global Configuration Management访问控制错误漏洞",
+    "CNVD-ID": "CNVD-2024-46818",
+    "公开日期": "2024-12-03",
+    "危害级别": "中",
+    "影响产品": "IBM IBM Global Configuration Management 7.0.2\nIBM IBM Global Configuration Management 7.0.3",
+    "CVE ID": "CVE-2024-41773",
+    "漏洞描述": "IBM Global Configuration Management是美国国际商业机器（IBM）公司的一个基于Web的工具。可用于将来自其他IBM Engineering Lifecycle Management （ELM） 应用程序的配置组装到全局配置中。\nIBM Global Configuration Management存在访问控制错误漏洞，该漏洞源于存在访问控制不当，经过身份验证的攻击者可利用该漏洞存档全局基线。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-41773",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7165963",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/609636",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-23",
+    "收录时间": "2024-12-02",
+    "更新时间": "2024-12-03",
+    "漏洞附件": "(无附件)"
+}

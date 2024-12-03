@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM Business Automation Workflow输入验证错误漏洞（CNVD-2024-46816）",
+    "CNVD-ID": "CNVD-2024-46816",
+    "公开日期": "2024-11-07",
+    "危害级别": "中",
+    "影响产品": "IBM IBM Business Automation Workflow 22.0.2\nIBM IBM Business Automation Workflow 23.0.1\nIBM IBM Business Automation Workflow 23.0.2\nIBM IBM Business Automation Workflow 24.0.0",
+    "CVE ID": "CVE-2024-43188",
+    "漏洞描述": "IBM Business Automation Workflow是美国国际商业机器（IBM）公司的一套工作流程自动化解决方案。该产品主要用于工作流程管理、合规性管理，并具有工作流程可见性和可扩展等特点。\nIBM Business Automation Workflow存在输入验证错误漏洞，该漏洞源于客户端验证不当，攻击者可利用该漏洞导致具有特权的用户执行未经授权的活动。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-43188",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7168769",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/609631",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-20",
+    "收录时间": "2024-12-02",
+    "更新时间": "2024-12-02",
+    "漏洞附件": "(无附件)"
+}
