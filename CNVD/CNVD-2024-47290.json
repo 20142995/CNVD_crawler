@@ -1,0 +1,17 @@
+{
+    "漏洞标题": "Bakery Online Ordering System存在文件上传漏洞",
+    "CNVD-ID": "CNVD-2024-47290",
+    "公开日期": "2024-12-06",
+    "危害级别": "高",
+    "影响产品": "Bakery Online Ordering System Bakery Online Ordering System",
+    "漏洞描述": "Bakery Online Ordering System是一个面包店在线订购系统。\nBakery Online Ordering System存在文件上传漏洞，攻击者可利用该漏洞获取服务器权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "",
+    "漏洞解决方案": "暂无",
+    "厂商补丁": "",
+    "验证信息": "已验证",
+    "报送时间": "2024-10-22",
+    "收录时间": "2024-12-06",
+    "更新时间": "2024-12-06",
+    "漏洞附件": "附件暂不公开"
+}
