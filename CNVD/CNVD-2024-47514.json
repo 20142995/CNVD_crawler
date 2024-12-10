@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM App Connect Enterprise操作系统命令注入漏洞",
+    "CNVD-ID": "CNVD-2024-47514",
+    "公开日期": "2024-12-10",
+    "危害级别": "高",
+    "影响产品": "IBM IBM App Connect Enterprise Certified Container  11.4\nIBM IBM App Connect Enterprise Certified Container  11.5\nIBM IBM App Connect Enterprise Certified Container  11.6\nIBM IBM App Connect Enterprise Certified Container  12.1\nIBM IBM App Connect Enterprise Certified Container  12.0\nIBM IBM App Connect Enterprise Certified Container  12.2\nIBM IBM App Connect Enterprise Certified Container  12.3",
+    "CVE ID": "CVE-2024-51465",
+    "漏洞描述": "IBM App Connect Enterprise是IBM公司的一个操作系统。IBM App Connect Enterprise将现有业界信任的IBM Integration Bus技术与IBM App Connect Professional以及新的云本机技术进行了组合，提供一个可满足现代数字企业全面集成需求的平台。\nIBM App Connect Enterprise Certified Container存在操作系统命令注入漏洞。该漏洞是由于受影响版本未能正确地中和或错误地中和用户可控输入，导致攻击者可以注入恶意脚本或代码。攻击者可利用该漏洞通过发送特制的请求在系统上执行任意命令。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-51465",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新:\nhttps://www.ibm.com/support/pages/node/7177814",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/639006",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-06",
+    "收录时间": "2024-12-10",
+    "更新时间": "2024-12-10",
+    "漏洞附件": "(无附件)"
+}
