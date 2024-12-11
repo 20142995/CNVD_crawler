@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apache NimBLE越界读取漏洞（CNVD-2024-47712）",
+    "CNVD-ID": "CNVD-2024-47712",
+    "公开日期": "2024-12-11",
+    "危害级别": "中",
+    "影响产品": "Apache NimBLE 1.7.0",
+    "CVE ID": "CVE-2024-47250",
+    "漏洞描述": "Apache NimBLE是美国阿帕奇（Apache）基金会的一个开源蓝牙5.4堆栈（主机和控制器），完全取代Nordic芯片组上的专有SoftDevice。它是Apache Mynewt项目的一部分。\nApache NimBLE存在越界读取漏洞，攻击者可利用该漏洞在解析HCI事件时导致越界访问。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "http://www.openwall.com/lists/oss-security/2024/11/26/4",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/zdb50spojlqbn0yxd866mbzqjt2vpt85",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/639476",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-06",
+    "收录时间": "2024-12-11",
+    "更新时间": "2024-12-11",
+    "漏洞附件": "(无附件)"
+}
