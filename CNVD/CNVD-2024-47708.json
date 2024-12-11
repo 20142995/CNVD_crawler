@@ -1,0 +1,17 @@
+{
+    "漏洞标题": "WordPress插件WP Umbrella: Update Backup Restore & Monitoring本地文件包含漏洞",
+    "CNVD-ID": "CNVD-2024-47708",
+    "公开日期": "2024-12-12",
+    "危害级别": "高",
+    "影响产品": "WordPress WP Umbrella: Update Backup Restore & Monitoring <2.17.0",
+    "漏洞描述": "WordPress是一套使用PHP语言开发的博客平台。该平台支持在PHP和MySQL的服务器上架设个人博客网站。WordPress plugin是一个应用插件。 \nWordPress插件WP Umbrella: Update Backup Restore & Monitoring存在本地文件包含漏洞，攻击者可利用该漏洞在服务器上包含和执行任意文件，从而允许执行这些文件中的任何PHP代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-12209",
+    "漏洞解决方案": "厂商已提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-health/wp-umbrella-update-backup-restore-monitoring-2170-unauthenticated-local-file-inclusion",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/639406",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-11",
+    "收录时间": "2024-12-11",
+    "更新时间": "2024-12-11",
+    "漏洞附件": "附件暂不公开"
+}
