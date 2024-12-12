@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens Parasolid越界写入漏洞（CNVD-2024-47906）",
+    "CNVD-ID": "CNVD-2024-47906",
+    "公开日期": "2024-12-12",
+    "危害级别": "高",
+    "影响产品": "Siemens Parasolid V36.1 <V36.1.225\nSiemens Parasolid V37.0 <V37.0.173\nSiemens Parasolid V37.1 <V37.1.109",
+    "CVE ID": "CVE-2024-54091",
+    "漏洞描述": "Siemens Parasolid是一种三维几何建模工具，支持各种技术，包括实体建模、直接编辑和自由曲面/图纸建模。\nSiemens Parasolid存在越界写入漏洞，攻击者可利用该漏洞在当前进程的上下文中执行代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-979056.html",
+    "漏洞解决方案": "用户可参考如下供应商提供的安全公告获得补丁信息：\nhttps://cert-portal.siemens.com/productcert/html/ssa-979056.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/639571",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-11",
+    "收录时间": "2024-12-12",
+    "更新时间": "2024-12-12",
+    "漏洞附件": "(无附件)"
+}
