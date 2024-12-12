@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apache Struts文件上传漏洞",
+    "CNVD-ID": "CNVD-2024-47916",
+    "公开日期": "2024-12-12",
+    "危害级别": "高",
+    "影响产品": "Apache struts >=2.0.0，<=2.3.37（EOL）\nApache struts >=2.5.0，<=2.5.33\nApache struts >=6.0.0，<=6.3.0.2",
+    "CVE ID": "CVE-2024-53677",
+    "漏洞描述": "Apache Struts是美国阿帕奇（Apache）基金会的一个开源项目，是一套用于创建企业级Java Web应用的开源MVC框架，主要提供两个版本框架产品，Struts 1和Struts 2。\nApache Struts存在文件上传漏洞，攻击者可利用该漏洞上传恶意文件，导致远程执行代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cwiki.apache.org/confluence/display/WW/S2-067",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/apache/struts/releases",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/639576",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-12",
+    "收录时间": "2024-12-12",
+    "更新时间": "2024-12-12",
+    "漏洞附件": "附件暂不公开"
+}
