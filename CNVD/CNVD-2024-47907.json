@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens Engineering Platforms反序列化漏洞",
+    "CNVD-ID": "CNVD-2024-47907",
+    "公开日期": "2024-12-12",
+    "危害级别": "高",
+    "影响产品": "Siemens Totally Integrated Automation Portal (TIA Portal) V16 \nSiemens Totally Integrated Automation Portal (TIA Portal) V17 \nSiemens Totally Integrated Automation Portal (TIA Portal) V18 \nSiemens Totally Integrated Automation Portal (TIA Portal) V19 \nSiemens SIMATIC S7-PLCSIM V17 \nSiemens SIMATIC S7-PLCSIM V16 \nSiemens SIMOTION SCOUT TIA V5.4 SP1",
+    "CVE ID": "CVE-2024-49849",
+    "漏洞描述": "SIMATIC S7-PLCSIM模拟S7-1200、S7-1500和其他一些PLC衍生产品，并作为SIMATIC STEP 7的一部分发货。SIMATIC STEP 7 (TIA Portal)是一款用于配置和编程SIMATIC控制器的工程软件。SIMOCODE ES是用于SIMOCODE-pro的配置、调试、操作和诊断的中央软件包。SINAMICS Startdrive调试软件是TIA Portal中集成SINAMICS驱动器的工程工具。Totally Integrated Automation Portal (TIA Portal)是一款PC软件，可提供西门子数字化自动化服务的完整范围，从数字规划、集成工程到透明操作。TIA Portal Cloud使在虚拟化环境中使用TIA Portal的主包和主选项包成为可能。本地项目可以转移到云端，并通过文件共享服务重新加载。\nSiemens Engineering Platforms存在反序列化漏洞，该漏洞是由于受影响的产品在解析日志文件时没有正确清理用户可控的输入。攻击者可利用该漏洞在受影响的应用程序中造成类型混淆并执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-800126.html",
+    "漏洞解决方案": "用户可参考如下供应商提供的安全公告获得补丁信息：\nhttps://cert-portal.siemens.com/productcert/html/ssa-800126.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/639566",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-11",
+    "收录时间": "2024-12-12",
+    "更新时间": "2024-12-12",
+    "漏洞附件": "(无附件)"
+}

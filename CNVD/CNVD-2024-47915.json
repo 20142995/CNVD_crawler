@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens SICAM A8000 CP-8031和CP-8050固件解密漏洞",
+    "CNVD-ID": "CNVD-2024-47915",
+    "公开日期": "2024-12-12",
+    "危害级别": "中",
+    "影响产品": "Siemens CPCI85 Central Processing/Communication <V05.30",
+    "CVE ID": "CVE-2024-53832",
+    "漏洞描述": "SICAM A8000 RTU（远程终端单元）是用于所有能源供应领域的远程控制和自动化应用的模块化设备。\nSiemens SICAM A8000 CP-8031和CP-8050存在固件解密漏洞，该漏洞是由于受影响的设备包含一个通过未加密的SPI总线连接的安全元件。攻击者可利用该漏洞观察用于安全元件身份验证的密码，然后将安全元件用作预言机来解密所有加密的更新文件。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-128393.html",
+    "漏洞解决方案": "用户可参考如下供应商提供的安全公告获得补丁信息：\nhttps://cert-portal.siemens.com/productcert/html/ssa-128393.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/639411",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-11",
+    "收录时间": "2024-12-12",
+    "更新时间": "2024-12-12",
+    "漏洞附件": "(无附件)"
+}

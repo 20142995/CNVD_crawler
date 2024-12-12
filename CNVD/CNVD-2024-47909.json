@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens Solid Edge V2024堆缓冲区溢出漏洞（CNVD-2024-47909）",
+    "CNVD-ID": "CNVD-2024-47909",
+    "公开日期": "2024-12-12",
+    "危害级别": "高",
+    "影响产品": "Siemens Solid Edge SE2024 <V224.0 Update 5\nSiemens Solid Edge SE2024 <V224.0 Update 10",
+    "CVE ID": "CVE-2024-54094",
+    "漏洞描述": "Solid Edge是一个软件工具组合，用于解决各种产品开发过程：3D设计、仿真、制造和设计管理。\nSiemens Solid Edge V2024存在堆缓冲区溢出漏洞，攻击者可利用该漏洞在当前进程的上下文中执行代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-730188.html",
+    "漏洞解决方案": "用户可参考如下供应商提供的安全公告获得补丁信息：\nhttps://cert-portal.siemens.com/productcert/html/ssa-730188.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/639556",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-11",
+    "收录时间": "2024-12-12",
+    "更新时间": "2024-12-12",
+    "漏洞附件": "(无附件)"
+}

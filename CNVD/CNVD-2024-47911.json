@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens COMOS XXE注入漏洞（CNVD-2024-47911）",
+    "CNVD-ID": "CNVD-2024-47911",
+    "公开日期": "2024-12-12",
+    "危害级别": "中",
+    "影响产品": "Siemens COMOS V10.3 <V10.3.3.5.8\nSiemens COMOS V10.4.0 \nSiemens COMOS V10.4.1 \nSiemens COMOS V10.4.2 \nSiemens COMOS V10.4.3 <V10.4.3.0.47\nSiemens COMOS V10.4.4 <V10.4.4.2\nSiemens COMOS V10.4.4.1 <V10.4.4.1.21",
+    "CVE ID": "CVE-2024-54005",
+    "漏洞描述": "COMOS是一个用于协同工厂设计、运营和管理的统一数据平台，支持在整个工厂生命周期内收集、处理、保存和分发信息。\nSiemens COMOS存在XXE注入漏洞，攻击者可利用该漏洞通过将恶意数据注入两个系统之间的通信信道，提取用户系统上已知位置或可访问网络文件夹上的任何文件。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-701627.html",
+    "漏洞解决方案": "用户可参考如下供应商提供的安全公告获得补丁信息：\nhttps://cert-portal.siemens.com/productcert/html/ssa-701627.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/639546",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-11",
+    "收录时间": "2024-12-12",
+    "更新时间": "2024-12-12",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens RUGGEDCOM ROX II跨站请求伪造漏洞",
+    "CNVD-ID": "CNVD-2024-47914",
+    "公开日期": "2024-12-12",
+    "危害级别": "高",
+    "影响产品": "Siemens RUGGEDCOM ROX MX5000 < V2.16.0\nSiemens RUGGEDCOM ROX MX5000RE < V2.16.0\nSiemens RUGGEDCOM ROX RX1400 < V2.16.0\nSiemens RUGGEDCOM ROX RX1500 < V2.16.0\nSiemens RUGGEDCOM ROX RX1501 < V2.16.0\nSiemens RUGGEDCOM ROX RX1510 < V2.16.0\nSiemens RUGGEDCOM ROX RX1511 < V2.16.0\nSiemens RUGGEDCOM ROX RX1512 < V2.16.0\nSiemens RUGGEDCOM ROX RX1524 < V2.16.0\nSiemens RUGGEDCOM ROX RX1536 < V2.16.0\nSiemens RUGGEDCOM ROX RX5000 < V2.16.0",
+    "CVE ID": "CVE-2020-28398",
+    "漏洞描述": "RUGGEDCOM ROX II是基于ROX的VPN端点和防火墙设备用于连接在恶劣环境中运行的设备，如电力变电站和交通控制柜。\nSiemens RUGGEDCOM ROX II存在跨站请求伪造漏洞，攻击者可利用该漏洞通过欺骗经过身份验证的合法用户访问恶意链接来读取或修改设备配置。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-384652.html",
+    "漏洞解决方案": "用户可参考如下供应商提供的安全公告获得补丁信息：\nhttps://cert-portal.siemens.com/productcert/html/ssa-384652.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/639416",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-11",
+    "收录时间": "2024-12-12",
+    "更新时间": "2024-12-12",
+    "漏洞附件": "(无附件)"
+}
