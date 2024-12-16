@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Adobe Substance 3D Stager缓冲区溢出漏洞（CNVD-2024-48211）",
+    "CNVD-ID": "CNVD-2024-48211",
+    "公开日期": "2024-12-10",
+    "危害级别": "中",
+    "影响产品": "Adobe Substance 3D Stager <=3.0.2",
+    "CVE ID": "CVE-2024-52998",
+    "漏洞描述": "Adobe Substance 3D Stager是美国奥多比（Adobe）公司的一个虚拟3D工作室。\nAdobe Substance 3D Stager存在缓冲区溢出漏洞，该漏洞源于容易受到越界读取漏洞的影响，可能导致敏感内存披露。攻击者可利用该漏洞远程执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-52998",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/substance3d_stager/apsb24-60.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/639026",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-06",
+    "收录时间": "2024-12-16",
+    "更新时间": "2024-12-16",
+    "漏洞附件": "(无附件)"
+}
