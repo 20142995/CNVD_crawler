@@ -1,0 +1,17 @@
+{
+    "漏洞标题": "Siemens Totally Integrated Automation Portal (TIA Portal)缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2024-48430",
+    "公开日期": "2024-12-17",
+    "危害级别": "高",
+    "影响产品": "Siemens Totally Integrated Automation Portal (TIA Portal)",
+    "漏洞描述": "‌Totally Integrated Automation Portal（TIA Portal）‌是一个集成的自动化平台，提供了从数字规划到集成工程和透明操作的全套数字化自动化服务。TIA Portal旨在缩短产品上市时间，提升工厂生产效率，并增加系统的灵活性。它包含创新性的仿真工具、无缝集成的工程功能和透明的操作管理，特别适合系统集成商、机器制造商和工厂运营商使用‌。\nSiemens Totally Integrated Automation Portal (TIA Portal)存在缓冲区溢出漏洞，未经身份验证的远程攻击者可利用漏洞执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "",
+    "漏洞解决方案": "目前暂无详细的解决方案，Siemens建议根据Siemens的工业信息安全操作指南如下链接配置环境，并遵循产品手册中的建议：\nhttps://www.siemens.com/cert/operational-guidelines-industrial-security",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-16",
+    "收录时间": "2024-12-17",
+    "更新时间": "2024-12-17",
+    "漏洞附件": "(无附件)"
+}

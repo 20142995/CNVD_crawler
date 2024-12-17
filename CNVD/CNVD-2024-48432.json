@@ -1,0 +1,17 @@
+{
+    "漏洞标题": "Siemens SIMATIC PCS neo缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2024-48432",
+    "公开日期": "2024-12-17",
+    "危害级别": "高",
+    "影响产品": "Siemens SIMATIC PCS neo",
+    "漏洞描述": "SIMATIC PCS neo是一款完全基于Web的过程控制系统。\nSiemens SIMATIC PCS neo存在缓冲区溢出漏洞，未经身份验证的远程攻击者可利用漏洞执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "",
+    "漏洞解决方案": "目前暂无详细的解决方案，Siemens建议根据Siemens的工业信息安全操作指南如下链接配置环境，并遵循产品手册中的建议：\nhttps://www.siemens.com/cert/operational-guidelines-industrial-security",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-16",
+    "收录时间": "2024-12-17",
+    "更新时间": "2024-12-17",
+    "漏洞附件": "(无附件)"
+}
