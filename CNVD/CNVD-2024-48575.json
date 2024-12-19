@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apache Tomcat远程代码执行漏洞",
+    "CNVD-ID": "CNVD-2024-48575",
+    "公开日期": "2024-12-19",
+    "危害级别": "高",
+    "影响产品": "Apache Tomcat >=11.0.0-M1，<=11.0.1\nApache Tomcat >=10.1.0-M1，<=10.1.33\nApache Tomcat >=9.0.0.M1，<=9.0.97",
+    "CVE ID": "CVE-2024-50379",
+    "漏洞描述": "Apache Tomcat是美国阿帕奇（Apache）软件基金会的一款轻量级Web应用服务器。该程序实现了对Servlet和JavaServer Page（JSP）的支持。\nApache Tomcat中存在远程代码执行漏洞，该漏洞是由于web.xml中开启readonly为false的配置，攻击者可利用该漏洞以条件竞争进行文件上传导致命令执行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-50379",
+    "漏洞解决方案": "用户可参考如下供应商提供的安全公告获得补丁信息：\nhttps://lists.apache.org/thread/y6lj6q1xnp822g6ro70tn19sgtjmr80r",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/643061",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-19",
+    "收录时间": "2024-12-19",
+    "更新时间": "2024-12-19",
+    "漏洞附件": "附件暂不公开"
+}

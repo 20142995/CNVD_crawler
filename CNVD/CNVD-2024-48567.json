@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Mozilla Firefox for iOS欺骗漏洞",
+    "CNVD-ID": "CNVD-2024-48567",
+    "公开日期": "2024-12-19",
+    "危害级别": "中",
+    "影响产品": "Mozilla Firefox for iOS <133",
+    "CVE ID": "CVE-2024-53975",
+    "漏洞描述": "Mozilla Firefox是美国Mozilla基金会的一款开源Web浏览器。\nMozilla Firefox for iOS存在欺骗漏洞，该漏洞是由于访问使用不存在的端口的非安全HTTP站点时出错造成的。攻击者可利用此漏洞使位置URL栏中的SSL挂锁图标看起来安全，从而产生误导。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://bugzilla.mozilla.org/show_bug.cgi?id=1843467",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/security/advisories/mfsa2024-66/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/643046",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-04",
+    "收录时间": "2024-12-19",
+    "更新时间": "2024-12-19",
+    "漏洞附件": "(无附件)"
+}
