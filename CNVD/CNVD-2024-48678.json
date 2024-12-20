@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Oracle Java SE存在未明漏洞（CNVD-2024-48678）",
+    "CNVD-ID": "CNVD-2024-48678",
+    "公开日期": "2024-11-15",
+    "危害级别": "低",
+    "影响产品": "Oracle Java SE 8u401\nOracle GraalVM Enterprise Edition 20.3.13\nOracle GraalVM Enterprise Edition 21.3.9",
+    "CVE ID": "CVE-2024-21005",
+    "漏洞描述": "Oracle Java SE是一款用于开发和部署桌面、服务器以及嵌入设备和实时环境中的Java应用程序。\nOracle Java SE的Oracle Java SE和Oracle GraalVM Enterprise Edition存在安全漏洞，攻击者可利用该漏洞获得对数据的更新、插入或删除权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-21005/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.oracle.com/security-alerts/cpuapr2024.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/617041",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-04-18",
+    "收录时间": "2024-12-19",
+    "更新时间": "2024-12-19",
+    "漏洞附件": "(无附件)"
+}
