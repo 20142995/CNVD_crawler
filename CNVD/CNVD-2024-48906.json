@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Adobe Bridge整数潜流漏洞",
+    "CNVD-ID": "CNVD-2024-48906",
+    "公开日期": "2024-12-24",
+    "危害级别": "高",
+    "影响产品": "Adobe Adobe Bridge <=15.0\nAdobe Adobe Bridge <=14.1.3",
+    "CVE ID": "CVE-2024-53955",
+    "漏洞描述": "Adobe Bridge是美国奥多比（Adobe）公司的一款文件查看器。\nAdobe Bridge存在整数潜流漏洞，攻击者可利用该漏洞在当前用户的环境中执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://helpx.adobe.com/security/products/bridge/apsb24-103.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/bridge/apsb24-103.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/645491",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-13",
+    "收录时间": "2024-12-23",
+    "更新时间": "2024-12-23",
+    "漏洞附件": "(无附件)"
+}
