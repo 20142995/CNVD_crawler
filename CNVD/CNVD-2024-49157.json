@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apache Traffic Server权限提升漏洞（CNVD-2024-49157）",
+    "CNVD-ID": "CNVD-2024-49157",
+    "公开日期": "2024-12-24",
+    "危害级别": "高",
+    "影响产品": "Apache Apache Traffic Server >=9.2.0，<=9.2.5\nApache Apache Traffic Server >=10.0.0，<=10.0.1",
+    "CVE ID": "CVE-2024-50306",
+    "漏洞描述": "Apache Traffic Server是一个高性能的缓存代理服务器，用于加速 Web 应用和内容分发网络。\nApache Traffic Server存在权限提升漏洞，漏洞原因是未检查的返回值可能导致Apache Traffic Server在启动时保留特权，攻击者可利用该漏洞提升权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-50306",
+    "漏洞解决方案": "目前厂商已发布升级补丁以修复漏洞。补丁获取链接：\nhttps://lists.apache.org/thread/y15fh6c7kyqvzm0f9odw7c5jh4r4np0y",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/645686",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-15",
+    "收录时间": "2024-12-24",
+    "更新时间": "2024-12-24",
+    "漏洞附件": "(无附件)"
+}

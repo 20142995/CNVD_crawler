@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM Data Virtualization Manager代码执行漏洞",
+    "CNVD-ID": "CNVD-2024-49172",
+    "公开日期": "2024-12-24",
+    "危害级别": "高",
+    "影响产品": "IBM IBM Data Virtualization Manager 1.1\nIBM IBM Data Virtualization Manager 1.2",
+    "CVE ID": "CVE-2024-52899",
+    "漏洞描述": "IBM Data Virtualization Manager是美国国际商业机器（IBM）公司的一个通用查询引擎，可跨数据库、数据仓库、数据湖和流数据执行分布式和虚拟化查询。\nIBM Data Virtualization Manager 1.1版本和1.2版本存在代码执行漏洞。该漏洞源于应用未能正确过滤构造代码段的特殊元素。经过身份验证的攻击者可利用该漏洞注入恶意JDBC URL参数并在服务器上执行代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-52899",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7177091",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/645731",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-06",
+    "收录时间": "2024-12-24",
+    "更新时间": "2024-12-24",
+    "漏洞附件": "(无附件)"
+}

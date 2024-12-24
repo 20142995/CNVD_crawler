@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apache ZooKeeper身份验证绕过漏洞",
+    "CNVD-ID": "CNVD-2024-49158",
+    "公开日期": "2024-12-24",
+    "危害级别": "高",
+    "影响产品": "Apache Zookeeper <3.9.3",
+    "CVE ID": "CVE-2024-51504",
+    "漏洞描述": "Apache ZooKeeper是Apache软件基金会下一项集中式服务，用于维护配置信息、命名、提供分布式同步以及提供组服务。\nApache ZooKeeper在3.9.3以前的版本中存在身份验证绕过漏洞。该漏洞是由于受影响版本ZooKeeper Admin Server中使用的IPAuthenticationProvider配置不当导致，攻击者可利用该漏洞执行管理服务器命令，从而导致信息泄露或服务可用性问题。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-51504",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新:\nhttps://lists.apache.org/thread/b3qrmpkto5r6989qr61fw9y2x646kqlh",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/612511",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-08",
+    "收录时间": "2024-12-24",
+    "更新时间": "2024-12-24",
+    "漏洞附件": "(无附件)"
+}

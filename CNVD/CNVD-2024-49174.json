@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM Security Verify Access Appliance硬编码漏洞",
+    "CNVD-ID": "CNVD-2024-49174",
+    "公开日期": "2024-12-24",
+    "危害级别": "高",
+    "影响产品": "IBM Security Verify Access Appliance >=10.0.0，<=10.0.8",
+    "CVE ID": "CVE-2024-49806",
+    "漏洞描述": "IBM Security Verify AccessAppliance是基于网络设备的安全解决方案,提供基于 Web 的威胁的访问控制和保护。\nIBM Security Verify Access Appliance存在硬编码漏洞，远程攻击者可以利用该漏洞提交特殊的请求，可未授权访问系统。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-49806",
+    "漏洞解决方案": "目前厂商已发布升级补丁以修复漏洞，详情请关注厂商主页：\nhttps://www.ibm.com/support/pages/node/7177447",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/645746",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-03",
+    "收录时间": "2024-12-24",
+    "更新时间": "2024-12-24",
+    "漏洞附件": "(无附件)"
+}

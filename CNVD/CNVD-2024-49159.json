@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apache Solr代码问题漏洞",
+    "CNVD-ID": "CNVD-2024-49159",
+    "公开日期": "2024-12-24",
+    "危害级别": "高",
+    "影响产品": "Typo3 Apache Solr >=9.0.0，<9.7.0\nTypo3 Apache Solr >=6.6.0，<8.11.4",
+    "CVE ID": "CVE-2024-45217",
+    "漏洞描述": "Apache Solr是美国阿帕奇（Apache）基金会的一款基于Lucene（一款全文搜索引擎）的搜索服务器。该产品支持层面搜索、垂直搜索、高亮显示搜索结果等。\nApache Solr存在代码问题漏洞，该漏洞源于存在资源默认初始化不安全，攻击者可利用该漏洞导致未通过认证请求创建的trusted ConfigSets可以加载自定义代码到类加载器中。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-45217/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://solr.apache.org/security.html#cve-2024-45217-apache-solr-configsets-created-during-a-backup-restore-command-are-trusted-implicitly",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/645681",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-23",
+    "收录时间": "2024-12-24",
+    "更新时间": "2024-12-24",
+    "漏洞附件": "(无附件)"
+}
