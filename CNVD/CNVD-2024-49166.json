@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM InfoSphere Information Server输入验证错误漏洞（CNVD-2024-4916618）",
+    "CNVD-ID": "CNVD-2024-49166",
+    "公开日期": "2024-12-24",
+    "危害级别": "中",
+    "影响产品": "IBM IBM InfoSphere Information Server 11.7",
+    "CVE ID": "CVE-2024-52901",
+    "漏洞描述": "IBM InfoSphere Information Server是美国国际商业机器（IBM）公司的一套数据整合平台。该平台可用于整合各种渠道获取的数据信息。\nIBM InfoSphere Information Server 11.7版本存在输入验证错误漏洞，该漏洞源于输入验证不当，攻击者可利用该漏洞导致已认证用户使用的GUI无法加载或停止工作。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-52901",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7177700",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/645691",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-20",
+    "收录时间": "2024-12-24",
+    "更新时间": "2024-12-24",
+    "漏洞附件": "(无附件)"
+}

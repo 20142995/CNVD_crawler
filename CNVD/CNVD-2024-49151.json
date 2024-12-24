@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apache Tomcat资源管理问题漏洞（CNVD-2024-4915119）",
+    "CNVD-ID": "CNVD-2024-49151",
+    "公开日期": "2024-12-24",
+    "危害级别": "中",
+    "影响产品": "Apache Tomcat >=11.0.0-M1，<=11.0.1\nApache Tomcat >=10.1.0-M1，<=10.1.33\nApache Tomcat >=9.0.0.M1，<=9.0.97",
+    "CVE ID": "CVE-2024-54677",
+    "漏洞描述": "Apache Tomcat是美国阿帕奇（Apache）基金会的一款轻量级Web应用服务器。用于实现对Servlet和JavaServer Page（JSP）的支持。\nApache Tomcat存在资源管理问题漏洞，该漏洞源于存在不受控制的资源消耗，攻击者可利用该漏洞会导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "http://www.openwall.com/lists/oss-security/2024/12/17/5",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/tdtbbxpg5trdwc2wnopcth9ccvdftq2n",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/645666",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-20",
+    "收录时间": "2024-12-24",
+    "更新时间": "2024-12-24",
+    "漏洞附件": "(无附件)"
+}
