@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Update Catalog反序列化漏洞",
+    "CNVD-ID": "CNVD-2024-49212",
+    "公开日期": "2024-12-25",
+    "危害级别": "高",
+    "影响产品": "Microsoft Microsoft Update Catalog",
+    "CVE ID": "CVE-2024-49147",
+    "漏洞描述": "Microsoft Update Catalog是美国微软（Microsoft）公司的一个更新网站。用于为公司提供补丁、驱动程序和软件的列表。\nMicrosoft Update Catalog存在反序列化漏洞，该漏洞源于对不受信任的数据进行反序列化，未经授权的攻击者可利用该漏洞提升该网站Web服务器上的权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-49147",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-49147",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/645821",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-20",
+    "收录时间": "2024-12-25",
+    "更新时间": "2024-12-25",
+    "漏洞附件": "(无附件)"
+}

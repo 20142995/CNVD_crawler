@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Linux kernel存在未明漏洞（CNVD-2024-4921023）",
+    "CNVD-ID": "CNVD-2024-49210",
+    "公开日期": "2024-12-25",
+    "危害级别": "中",
+    "影响产品": "Linux Linux kernel >=6.7，<6.7.11\nLinux Linux kernel >=6.8，<6.8.2\nLinux Linux kernel >=3.18，<4.19.311\nLinux Linux kernel >=4.20，<5.4.273\nLinux Linux kernel >=5.5，<5.10.214\nLinux Linux kernel >=5.11，<5.15.153\nLinux Linux kernel >=5.16，<6.1.83\nLinux Linux kernel >=6.2，<6.6.23",
+    "CVE ID": "CVE-2024-27078",
+    "漏洞描述": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。\nLinux kernel存在安全漏洞，攻击者可利用该漏洞导致资源耗尽。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-27078",
+    "漏洞解决方案": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://git.kernel.org/stable/c/0de691ff547d86dd54c24b40a81f9c925df8dd77",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/645811",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-24",
+    "收录时间": "2024-12-25",
+    "更新时间": "2024-12-25",
+    "漏洞附件": "(无附件)"
+}
