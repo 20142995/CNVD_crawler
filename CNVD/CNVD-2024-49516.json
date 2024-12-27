@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Delta Electronics DRASimuCAD ICS解析越界写代码执行漏洞",
+    "CNVD-ID": "CNVD-2024-49516",
+    "公开日期": "2024-12-27",
+    "危害级别": "高",
+    "影响产品": "Delta Electronics DRASimuCAD",
+    "CVE ID": "CVE-2024-12835",
+    "漏洞描述": "Delta Electronics DRASimuCAD是台达电子开发的一款机器人模拟整合平台。\nDelta Electronics DRASimuCAD ICS文件解析存在越界写漏洞，攻击者可利用该漏洞提交特殊的文件请求，诱使用户解析，可使应用程序崩溃或以应用程序上下文执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.zerodayinitiative.com/advisories/ZDI-24-1723/",
+    "漏洞解决方案": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://www.deltaww.com/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/647366",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-23",
+    "收录时间": "2024-12-27",
+    "更新时间": "2024-12-27",
+    "漏洞附件": "(无附件)"
+}

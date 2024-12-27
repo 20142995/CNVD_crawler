@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Oracle MySQL Server存在未明漏洞（CNVD-2024-49513）",
+    "CNVD-ID": "CNVD-2024-49513",
+    "公开日期": "2024-12-27",
+    "危害级别": "中",
+    "影响产品": "Oracle MySQL Server <8.4.2\nOracle MySQL Server <9.0.1\nOracle MySQL Server <8.0.39",
+    "CVE ID": "CVE-2024-21238",
+    "漏洞描述": "Oracle MySQL是美国甲骨文（Oracle）公司的一套开源的关系数据库管理系统。\nOracle MySQL的MySQL Server存在安全漏洞。攻击者可利用该漏洞导致MySQL Server挂起或频繁重复崩溃。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://access.redhat.com/security/cve/cve-2024-21238",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.oracle.com/security-alerts/cpuoct2024.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/647346",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-23",
+    "收录时间": "2024-12-27",
+    "更新时间": "2024-12-27",
+    "漏洞附件": "(无附件)"
+}

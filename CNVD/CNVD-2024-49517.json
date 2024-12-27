@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "ABB ASPECT存在未明漏洞",
+    "CNVD-ID": "CNVD-2024-49517",
+    "公开日期": "2024-12-27",
+    "危害级别": "高",
+    "影响产品": "ABB ABB ASPECT-Enterprise v3.07.02\nABB ABB ASPECT-NEXUS Series v3.07.02\nABB ABB ASPECT-MATRIX Series v3.07.02",
+    "CVE ID": "CVE-2024-48845",
+    "漏洞描述": "ABB ASPECT是瑞士ABB公司的一个可扩展建筑能源管理和控制解决方案。\nABB ASPECT存在安全漏洞，该漏洞源于包含一个弱密码重置规则漏洞。攻击者可利用此漏洞获得未经授权的管理员/应用程序访问权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://search.abb.com/library/Download.aspx?DocumentID=9AKK108469A7497&LanguageCode=en&DocumentPartId=&Action=Launch",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://search.abb.com/library/Download.aspx?DocumentID=9AKK108469A7497&LanguageCode=en&DocumentPartId=&Action=Launch",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/647371",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-13",
+    "收录时间": "2024-12-27",
+    "更新时间": "2024-12-27",
+    "漏洞附件": "(无附件)"
+}
