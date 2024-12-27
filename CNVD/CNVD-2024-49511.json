@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "D-Link DCS-932L拒绝服务漏洞",
+    "CNVD-ID": "CNVD-2024-49511",
+    "公开日期": "2024-12-27",
+    "危害级别": "高",
+    "影响产品": "D-Link DCS-932L REVB_FIRMWARE_2.18.01",
+    "CVE ID": "CVE-2024-37606",
+    "漏洞描述": "D-Link DCS-932L是中国友讯（D-Link）公司的一个网络监控摄像头。用于安全和监控。\nD-Link DCS-932L REVB_FIRMWARE_2.18.01版本存在拒绝服务漏洞，该漏洞源于空指针取消引用。攻击者可利用该漏洞导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-37606",
+    "漏洞解决方案": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://docs.google.com/document/d/1qWJh2jgEhmyeW3OefMQNsrlKdATMSU6Twjkk1p3qfAs/edit?usp=sharing",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-20",
+    "收录时间": "2024-12-27",
+    "更新时间": "2024-12-27",
+    "漏洞附件": "(无附件)"
+}
