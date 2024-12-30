@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "SAP Global Label Management SQL注入漏洞",
+    "CNVD-ID": "CNVD-2024-49636",
+    "公开日期": "2024-12-25",
+    "危害级别": "低",
+    "影响产品": "SAP SAP Global Label Management",
+    "CVE ID": "CVE-2024-33009",
+    "漏洞描述": "SAP Global Label Management是德国思爱普（SAP）公司的一个全局标签管理系统。\nSAP Global Label Management存在SQL注入漏洞，该漏洞源于应用缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://me.sap.com/notes/1938764",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.sap.com/en/my-support/knowledge-base/security-notes-news/may-2024.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/645956",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-05-30",
+    "收录时间": "2024-12-30",
+    "更新时间": "2024-12-30",
+    "漏洞附件": "(无附件)"
+}
