@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "SAP NetWeaver Application Server跨站脚本漏洞（CNVD-2024-49629）",
+    "CNVD-ID": "CNVD-2024-49629",
+    "公开日期": "2024-12-25",
+    "危害级别": "中",
+    "影响产品": "SAP SAP NetWeaver Application Server 702\nSAP SAP NetWeaver Application Server 731\nSAP SAP NetWeaver Application Server 740\nSAP SAP NetWeaver Application Server 750\nSAP SAP NetWeaver Application Server 751\nSAP SAP NetWeaver Application Server 752\nSAP SAP NetWeaver Application Server 700\nSAP SAP NetWeaver Application Server 701\nSAP SAP NetWeaver Application Server 75C\nSAP SAP NetWeaver Application Server 75D\nSAP SAP NetWeaver Application Server 75E\nSAP SAP NetWeaver Application Server 75F\nSAP SAP NetWeaver Application Server 75G\nSAP SAP NetWeaver Application Server 75H\nSAP SAP NetWeaver Application Server 75I",
+    "CVE ID": "CVE-2024-45279",
+    "漏洞描述": "SAP NetWeaver Application Server是德国思爱普（SAP）公司的一款应用程序服务器。\nSAP NetWeaver Application Server存在跨站脚本漏洞，该漏洞源于输入验证不足，未经身份验证的攻击者可利用该漏洞制作可嵌入恶意JavaScript的URL链接。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://me.sap.com/notes/3501359",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.sap.com/en/my-support/knowledge-base/security-notes-news/september-2024.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/645931",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-18",
+    "收录时间": "2024-12-30",
+    "更新时间": "2024-12-30",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "SAP NetWeaver Administrator服务端请求伪造漏洞",
+    "CNVD-ID": "CNVD-2024-49625",
+    "公开日期": "2024-12-25",
+    "危害级别": "中",
+    "影响产品": "SAP SAP NetWeaver Administrator",
+    "CVE ID": "CVE-2024-54197",
+    "漏洞描述": "SAP NetWeaver Administrator（SAP NWA）是德国思爱普（SAP）公司的一个基于Web的框架工具，用于管理、配置和监控。\nSAP NetWeaver Administrator存在服务端请求伪造漏洞，该漏洞源于产品未能正确验证用户输入，攻击者可利用该漏洞探测服务器内网资源。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://me.sap.com/notes/3542543",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.sap.com/en/my-support/knowledge-base/security-notes-news/december-2024.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/645901",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-20",
+    "收录时间": "2024-12-30",
+    "更新时间": "2024-12-30",
+    "漏洞附件": "(无附件)"
+}

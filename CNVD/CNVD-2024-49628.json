@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "SAP Commerce Backoffice跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2024-49628",
+    "公开日期": "2024-12-25",
+    "危害级别": "中",
+    "影响产品": "SAP Commerce Backoffice 2205\nSAP Commerce Backoffice 2211",
+    "CVE ID": "CVE-2024-45278",
+    "漏洞描述": "SAP Commerce Backoffice是一个用于管理和维护电子商务网站的强大工具，允许管理员和运营团队轻松地管理网站内容和配置。\nSAP Commerce Backoffice存在跨站脚本漏洞，远程攻击者可利用该漏洞注入恶意脚本或HTML代码，当恶意数据被查看时，可获取敏感信息或劫持用户会话。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-45278",
+    "漏洞解决方案": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://support.sap.com/en/my-support/knowledge-base/security-notes-news/october-2024.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/645911",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-14",
+    "收录时间": "2024-12-30",
+    "更新时间": "2024-12-30",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "SAP NetWeaver Enterprise Portal跨站脚本漏洞（CNVD-2024-49627）",
+    "CNVD-ID": "CNVD-2024-49627",
+    "公开日期": "2024-12-25",
+    "危害级别": "中",
+    "影响产品": "SAP NetWeaver Enterprise Portal",
+    "CVE ID": "CVE-2024-47594",
+    "漏洞描述": "SAP Commerce Cloud的Backoffice是一个用户中心的、可扩展的后端界面，它允许业务用户轻松管理SAP Commerce Cloud中的任何类型的数据。\nSAP NetWeaver Enterprise Portal存在跨站脚本漏洞，远程攻击者可利用该漏洞注入恶意脚本或HTML代码，当恶意数据被查看时，可获取敏感信息或劫持用户会话。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-47594",
+    "漏洞解决方案": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://support.sap.com/en/my-support/knowledge-base/security-notes-news/october-2024.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/645906",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-14",
+    "收录时间": "2024-12-30",
+    "更新时间": "2024-12-30",
+    "漏洞附件": "(无附件)"
+}

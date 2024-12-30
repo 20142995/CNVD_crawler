@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Fortinet FortiOS访问控制错误漏洞（CNVD-2024-49648）",
+    "CNVD-ID": "CNVD-2024-49648",
+    "公开日期": "2024-12-26",
+    "危害级别": "高",
+    "影响产品": "Fortinet FortiOS >=7.0.0，<7.0.14\nFortinet FortiOS >=7.4.0，<7.4.4\nFortinet FortiOS >=7.2.0，<7.2.8",
+    "CVE ID": "CVE-2023-50176",
+    "漏洞描述": "Fortinet FortiOS是美国飞塔（Fortinet）公司的一套专用于FortiGate网络安全平台上的安全操作系统。该系统为用户提供防火墙、防病毒、IPSec/SSLVPN、Web内容过滤和反垃圾邮件等多种安全功能。\nFortinet FortiOS存在访问控制错误漏洞，该漏洞源于包含一个会话固定问题。攻击者可利用该漏洞通过网络钓鱼SAML身份验证链接执行未经授权的代码或命令。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2023-50176",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.fortinet.com/psirt/FG-IR-23-475",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/647181",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-15",
+    "收录时间": "2024-12-30",
+    "更新时间": "2024-12-30",
+    "漏洞附件": "(无附件)"
+}

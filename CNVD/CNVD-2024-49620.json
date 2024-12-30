@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Dell RecoverPoint for Virtual Machines OS命令注入漏洞",
+    "CNVD-ID": "CNVD-2024-49620",
+    "公开日期": "2024-12-25",
+    "危害级别": "高",
+    "影响产品": "EMC RecoverPoint for Virtual Machines 6.0 SP1\nEMC RecoverPoint for Virtual Machines 6.0 SP1 P1",
+    "CVE ID": "CVE-2024-22461",
+    "漏洞描述": "Dell RecoverPoint for Virtual Machines是一款用于虚拟机环境的数据保护和恢复解决方案。\nDell RecoverPoint for Virtual Machines中存在OS命令注入漏洞。该漏洞源于对用户输入缺乏适当的验证。攻击者可以利用该漏洞以root身份运行任意命令，从而获得root级别的访问权限并可能导致系统完全被攻陷。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.dell.com/support/kbdoc/en-us/000259765/dsa-2024-429-security-update-for-dell-recoverpoint-for-virtual-machines-multiple-third-party-component-vulnerabilities",
+    "漏洞解决方案": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.dell.com",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/645871",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-19",
+    "收录时间": "2024-12-30",
+    "更新时间": "2024-12-30",
+    "漏洞附件": "(无附件)"
+}

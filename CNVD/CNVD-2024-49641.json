@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "ClassCMS代码注入漏洞",
+    "CNVD-ID": "CNVD-2024-49641",
+    "公开日期": "2024-12-25",
+    "危害级别": "中",
+    "影响产品": "ClassCMS ClassCMS 4.8",
+    "CVE ID": "CVE-2024-12503",
+    "漏洞描述": "ClassCMS是中国ClassCMS开源的一款简单、灵活、安全、易于拓展的内容管理系统。\nClassCMS 4.8版本存在代码注入漏洞，攻击者可利用该漏洞导致跨站脚本攻击。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/Jack-Black-13/blob/blob/main/classCMS_v4.8_model_xss.md\nhttps://vuldb.com/?ctiid.287875\nhttps://vuldb.com/?id.287875\nhttps://vuldb.com/?submit.461085",
+    "漏洞解决方案": "目前厂商尚未发布升级补丁以修复漏洞，详情请关注厂商主页：\nhttps://github.com/Jack-Black-13/blob/blob/main/classCMS_v4.8_model_xss.md",
+    "厂商补丁": "",
+    "验证信息": "已验证",
+    "报送时间": "2024-12-20",
+    "收录时间": "2024-12-30",
+    "更新时间": "2024-12-30",
+    "漏洞附件": "(无附件)"
+}

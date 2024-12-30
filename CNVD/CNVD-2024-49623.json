@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Dell NetWorker Management Console信任管理问题漏洞",
+    "CNVD-ID": "CNVD-2024-49623",
+    "公开日期": "2024-12-25",
+    "危害级别": "高",
+    "影响产品": "DELL Dell NetWorker Management Console 19.11",
+    "CVE ID": "CVE-2024-47476",
+    "漏洞描述": "Dell NetWorker Management Console是美国戴尔（Dell）公司的一款备份和恢复软件。\nDell NetWorker Management Console 19.11版本存在信任管理问题漏洞，该漏洞源于存在加密签名验证不当，攻击者可利用该漏洞导致代码执行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-47476",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000255884/dsa-2024-477-security-update-for-dell-networker-runtime-environment-nre-multiple-component-vulnerabilities",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/645891",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-06",
+    "收录时间": "2024-12-30",
+    "更新时间": "2024-12-30",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Fortinet FortiWLM路径遍历漏洞（CNVD-2024-4963848）",
+    "CNVD-ID": "CNVD-2024-49638",
+    "公开日期": "2024-12-26",
+    "危害级别": "高",
+    "影响产品": "Fortinet FortiWLM >=8.6.0，<=8.6.5\nFortinet FortiWLM >=8.5.0，<=8.5.4",
+    "CVE ID": "CVE-2023-34990",
+    "漏洞描述": "Fortinet FortiWLM是美国飞塔（Fortinet）公司的一个无线管理器。\nFortinet FortiWLM存在路径遍历漏洞，该漏洞源于程序未能正确地过滤资源或文件路径中的特殊元素。攻击者可利用该漏洞通过精心构造的web请求执行未经授权的代码或命令。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://fortiguard.com/psirt/FG-IR-23-144",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://docs.fortinet.com/document/fortiwlm/8.6.6/release-notes/682570/about-fortiwlm-8-6-6",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/647186",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-25",
+    "收录时间": "2024-12-30",
+    "更新时间": "2024-12-30",
+    "漏洞附件": "(无附件)"
+}

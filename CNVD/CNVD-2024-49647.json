@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Fortinet FortiClient数据伪造问题漏洞（CNVD-2024-49647）",
+    "CNVD-ID": "CNVD-2024-49647",
+    "公开日期": "2024-12-26",
+    "危害级别": "中",
+    "影响产品": "Fortinet FortiClient (macOS) >=6.4.0，<7.2.5\nFortinet FortiClient (macOS) 7.4.0",
+    "CVE ID": "CVE-2024-40592",
+    "漏洞描述": "Fortinet FortiClient是美国飞塔（Fortinet）公司的一套移动终端安全解决方案。该方案与FortiGate防火墙设备连接时可提供IPsec和SSL加密、广域网优化、终端合规和双因子认证等功能。\nFortinet FortiClient存在数据伪造问题漏洞，该漏洞源于包含一个加密签名的不正确验证。本地经过身份验证的攻击者可利用该漏洞交换安装程序在安装过程中通过竞争条件使用恶意包。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-40592",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.fortinet.com/psirt/FG-IR-24-022",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/647191",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-15",
+    "收录时间": "2024-12-30",
+    "更新时间": "2024-12-30",
+    "漏洞附件": "(无附件)"
+}

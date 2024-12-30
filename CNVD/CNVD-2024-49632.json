@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "SAP NetWeaver授权问题漏洞（CNVD-2024-49632）",
+    "CNVD-ID": "CNVD-2024-49632",
+    "公开日期": "2024-12-25",
+    "危害级别": "中",
+    "影响产品": "SAP SAP Netweaver DW4CORE 200\nSAP SAP Netweaver DW4CORE 300\nSAP SAP Netweaver DW4CORE 400\nSAP SAP Netweaver SAP_BW 700\nSAP SAP Netweaver SAP_BW 701\nSAP SAP Netweaver SAP_BW 702\nSAP SAP Netweaver SAP_BW 731\nSAP SAP Netweaver SAP_BW 740\nSAP SAP Netweaver SAP_BW 750\nSAP SAP Netweaver SAP_BW 751\nSAP SAP Netweaver SAP_BW 752\nSAP SAP Netweaver SAP_BW 753\nSAP SAP Netweaver SAP_BW 754\nSAP SAP Netweaver SAP_BW 755\nSAP SAP Netweaver SAP_BW 756\nSAP SAP Netweaver SAP_BW 757\nSAP SAP Netweaver SAP_BW 758",
+    "CVE ID": "CVE-2024-41729",
+    "漏洞描述": "SAP NetWeaver是德国思爱普（SAP）公司的一套面向服务的集成化应用平台。该平台主要为SAP应用程序提供开发和运行环境。\nSAP NetWeaver存在授权问题漏洞，该漏洞源于缺少授权检查，经过身份验证的攻击者可利用该漏洞通过网络访问信息，否则这些信息将受到限制。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://me.sap.com/notes/3481588",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.sap.com/en/my-support/knowledge-base/security-notes-news/september-2024.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/645936",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-18",
+    "收录时间": "2024-12-30",
+    "更新时间": "2024-12-30",
+    "漏洞附件": "(无附件)"
+}

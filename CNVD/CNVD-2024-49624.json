@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "SAP HCM Approve Timesheets授权问题漏洞",
+    "CNVD-ID": "CNVD-2024-49624",
+    "公开日期": "2024-12-25",
+    "危害级别": "中",
+    "影响产品": "SAP SAP HCM Approve Timesheets 4",
+    "CVE ID": "CVE-2024-47581",
+    "漏洞描述": "SAP HCM Approve Timesheets是德国思爱普（SAP）公司的一款交易应用软件。\nSAP HCM Approve Timesheets 4版本存在授权问题漏洞，该漏洞源于未对经过身份验证的用户执行必要的授权检查，攻击者可利用该漏洞导致特权升级。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://me.sap.com/notes/3522332",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.sap.com/en/my-support/knowledge-base/security-notes-news/december-2024.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/645896",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-20",
+    "收录时间": "2024-12-30",
+    "更新时间": "2024-12-30",
+    "漏洞附件": "(无附件)"
+}

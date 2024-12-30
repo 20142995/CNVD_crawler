@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "JFinalCMS跨站请求伪造漏洞（CNVD-2024-49644）",
+    "CNVD-ID": "CNVD-2024-49644",
+    "公开日期": "2024-12-25",
+    "危害级别": "中",
+    "影响产品": "JFinalCMS JFinalCMS 1.0",
+    "CVE ID": "CVE-2024-12349",
+    "漏洞描述": "JFinalCMS是一个内容管理系统。\nJFinalCMS 1.0版本存在跨站请求伪造漏洞，该漏洞源于/admin/tag/save文件未充分验证请求是否来自可信用户。攻击者可利用该漏洞伪造恶意请求诱骗受害者点击执行敏感操作。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-12349",
+    "漏洞解决方案": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/hadagaga/vuln/blob/master/JFinalCMS/Cross_Site_Request_Forgery/Cross-Site-Request-Forgery.md",
+    "厂商补丁": "",
+    "验证信息": "已验证",
+    "报送时间": "2024-12-13",
+    "收录时间": "2024-12-30",
+    "更新时间": "2024-12-30",
+    "漏洞附件": "(无附件)"
+}

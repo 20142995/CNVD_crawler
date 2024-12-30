@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "TP-LINK Archer C7访问控制错误漏洞",
+    "CNVD-ID": "CNVD-2024-49646",
+    "公开日期": "2024-12-25",
+    "危害级别": "高",
+    "影响产品": "TPLink Archer C7 v5",
+    "CVE ID": "CVE-2024-53623",
+    "漏洞描述": "TP-LINK Archer C7是中国普联（TP-LINK）公司的一款无线路由器。\nTP-LINK Archer C7 v5版本存在访问控制错误漏洞，该漏洞源于组件l_0_0.xml中的错误访问控制，攻击者可利用该漏洞访问敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-53623",
+    "漏洞解决方案": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/Crane-c/CVE_Request/blob/main/TP-Link/C7v5/TPLink_ARCHERC7v5_unauthorized_access_vulnerability_first.md",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-06",
+    "收录时间": "2024-12-30",
+    "更新时间": "2024-12-30",
+    "漏洞附件": "(无附件)"
+}
