@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Google Android信息泄露漏洞（CNVD-2025-00305）",
+    "CNVD-ID": "CNVD-2025-00305",
+    "公开日期": "2025-01-03",
+    "危害级别": "中",
+    "影响产品": "Google Android 7.0\nGoogle Android 7.1.1\nGoogle Android 7.1.2\nGoogle Android 8.0\nGoogle Android 8.1\nGoogle Android 9.0",
+    "CVE ID": "CVE-2018-9489",
+    "漏洞描述": "Android是美国谷歌（Google）公司和开放手持设备联盟（简称OHA）共同开发的一套以Linux为基础的开源操作系统。\nAndroid中存在安全漏洞。攻击者可借助WiFi广播利用该漏洞绕过权限检测，泄露有关用户设备的信息，例如WiFi网络名称，BSSID，本地IP地址，DNS服务器信息和MAC地址。攻击者可利用该漏洞获取目标系统上的标识数据。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://securitytracker.com/id/1041590",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttp://android.com/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/648791",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2018-08-31",
+    "收录时间": "2025-01-03",
+    "更新时间": "2025-01-03",
+    "漏洞附件": "(无附件)"
+}

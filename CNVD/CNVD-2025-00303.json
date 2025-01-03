@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Rockwell Automation FactoryTalk Services Platform授权问题漏洞",
+    "CNVD-ID": "CNVD-2025-00303",
+    "公开日期": "2025-01-03",
+    "危害级别": "高",
+    "影响产品": "Rockwell Automation FactoryTalk Services Platform <2.80",
+    "CVE ID": "CVE-2023-46290",
+    "漏洞描述": "Rockwell Automation FactoryTalk Services Platform是美国罗克韦尔（Rockwell Automation）公司的一套由多个产品组成的服务平台，它为应用程序提供常规服务，如诊断信息、健康监视和实时数据访问等。\nRockwell Automation FactoryTalk Services Platform v2.74版本存在安全漏洞，该漏洞源于代码逻辑不充分，未经身份验证的攻击者可利用该漏洞获取本地Windows操作系统的用户令牌。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2023-46290",
+    "漏洞解决方案": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1085012/loc/en_US#__highlight",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/648786",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2023-10-30",
+    "收录时间": "2025-01-03",
+    "更新时间": "2025-01-03",
+    "漏洞附件": "(无附件)"
+}

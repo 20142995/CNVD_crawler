@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Rockwell Automation PanelView Plus代码问题漏洞",
+    "CNVD-ID": "CNVD-2025-00304",
+    "公开日期": "2025-01-03",
+    "危害级别": "高",
+    "影响产品": "Rockwell Automation FactoryTalk View <=13.0\nrockwellautomation panelview plus",
+    "CVE ID": "CVE-2023-2071",
+    "漏洞描述": "Rockwell Automation PanelView Plus是美国罗克韦尔（Rockwell Automation）公司的一款人机界面（HMI）产品系列。这些 HMI 设备旨在与工业自动化系统集成，为操作员提供控制和监视生产过程的直观界面。PanelView Plus 具有广泛的应用，尤其是在制造业、工业控制和过程控制中。\nRockwell Automation PanelView Plus 存在安全漏洞，该漏洞源于无法正确验证用户的输入，未经身份验证的攻击者可利用该漏洞通过精心设计的恶意数据包实现远程执行代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2023-2071",
+    "漏洞解决方案": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1140724",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/648781",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2023-09-20",
+    "收录时间": "2025-01-03",
+    "更新时间": "2025-01-03",
+    "漏洞附件": "(无附件)"
+}
