@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM MQ Appliance缓冲区溢出漏洞（CNVD-2025-0031176）",
+    "CNVD-ID": "CNVD-2025-00311",
+    "公开日期": "2024-12-26",
+    "危害级别": "中",
+    "影响产品": "IBM IBM MQ Appliance 9.3 LTS\nIBM IBM MQ Appliance 9.3 CD\nIBM IBM MQ Appliance 9.4 LTS",
+    "CVE ID": "CVE-2024-51471",
+    "漏洞描述": "IBM MQ Appliance是美国国际商业机器（IBM）公司的一款用于快速部署企业级消息中间件的一体机设备。\nIBM MQ Appliance 9.3 LTS版本、9.3 CD版本和9.4 LTS版本存在缓冲区溢出漏洞，该漏洞源于信息被写入内存超出了预期的缓冲区大小，攻击者可利用该漏洞导致拒绝服务攻击。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-51471",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7178243",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/647231",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-25",
+    "收录时间": "2025-01-06",
+    "更新时间": "2025-01-06",
+    "漏洞附件": "(无附件)"
+}
