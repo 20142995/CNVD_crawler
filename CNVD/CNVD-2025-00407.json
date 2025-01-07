@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Dell NativeEdge权限提升漏洞",
+    "CNVD-ID": "CNVD-2025-00407",
+    "公开日期": "2025-01-06",
+    "危害级别": "中",
+    "影响产品": "DELL NativeEdge 2.1.0.0",
+    "CVE ID": "CVE-2024-47978",
+    "漏洞描述": "Dell NativeEdge 是戴尔公司提供的一款用于管理和配置网络设备的软件。\nDell NativeEdge存在安全漏洞。攻击者可利用该漏洞在本地以低权限访问系统，导致权限提升。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-47978",
+    "漏洞解决方案": "目前厂商已发布升级补丁以修复漏洞。补丁获取链接：\nhttps://www.dell.com/support/kbdoc/en-us/000258904/dsa-2024-488-security-update-for-dell-nativeedge-multiple-vulnerabilities",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/649781",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-27",
+    "收录时间": "2025-01-07",
+    "更新时间": "2025-01-07",
+    "漏洞附件": "(无附件)"
+}

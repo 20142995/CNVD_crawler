@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Adobe Substance 3D Painter堆缓冲区溢出漏洞（CNVD-2025-00384）",
+    "CNVD-ID": "CNVD-2025-00384",
+    "公开日期": "2025-01-06",
+    "危害级别": "高",
+    "影响产品": "Adobe Adobe Substance 3D Painter <=10.1.1",
+    "CVE ID": "CVE-2024-53957",
+    "漏洞描述": "Adobe Substance 3D Painter是美国奥多比（Adobe）公司的一个3D纹理处理应用程序。\nAdobe Substance 3D Painter存在堆缓冲区溢出漏洞，攻击者可利用该漏洞在当前用户的上下文中执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://helpx.adobe.com/security/products/substance3d_painter/apsb24-105.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/substance3d_painter/apsb24-105.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/649771",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-13",
+    "收录时间": "2025-01-06",
+    "更新时间": "2025-01-07",
+    "漏洞附件": "(无附件)"
+}

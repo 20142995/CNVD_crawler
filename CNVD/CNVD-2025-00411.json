@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Fortinet FortiSOAR跨站脚本漏洞（CNVD-2025-00411）",
+    "CNVD-ID": "CNVD-2025-00411",
+    "公开日期": "2025-01-06",
+    "危害级别": "高",
+    "影响产品": "Fortinet FortiSOAR 7.4.0\nFortinet FortiSOAR >=6.4.0，<7.3.3",
+    "CVE ID": "CVE-2023-26211",
+    "漏洞描述": "Fortinet FortiSOAR是美国飞塔（Fortinet）公司的一种安全编排、自动化和响应(SOAR) 解决方案。\nFortinet FortiSOAR存在跨站脚本漏洞，该漏洞源于在网页生成过程中输入不正确中和。远程攻击者可利用该漏洞通过通信模块注入任意Web脚本。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2023-26211",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.fortiguard.com/psirt/FG-IR-23-088",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/649831",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-29",
+    "收录时间": "2025-01-07",
+    "更新时间": "2025-01-07",
+    "漏洞附件": "(无附件)"
+}
