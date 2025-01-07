@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Fortinet FortiEDR访问控制错误漏洞（CNVD-2025-00410）",
+    "CNVD-ID": "CNVD-2025-00410",
+    "公开日期": "2025-01-07",
+    "危害级别": "中",
+    "影响产品": "Fortinet FortiEDR Manager >=6.2.0，<=6.2.2\nFortinet FortiEDR Manager 6.0.1",
+    "CVE ID": "CVE-2024-45323",
+    "漏洞描述": "Fortinet FortiEDR是美国飞塔（Fortinet）公司的一个从头开始构建的端点安全解决方案。\nFortinet FortiEDR存在访问控制错误漏洞，该漏洞源于不正确的访问控制。攻击者可利用该漏洞获取敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-45323",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.com/psirt/FG-IR-24-371",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/649846",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-12",
+    "收录时间": "2025-01-07",
+    "更新时间": "2025-01-07",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Fortinet FortiWLM路径遍历漏洞（CNVD-2025-00417）",
+    "CNVD-ID": "CNVD-2025-00417",
+    "公开日期": "2025-01-07",
+    "危害级别": "高",
+    "影响产品": "Fortinet FortiWLM 8.6.1\nFortinet FortiWLM 8.2.2\nFortinet FortiWLM 8.6.5\nFortinet FortiWLM 8.6.4\nFortinet FortiWLM 8.6.3\nFortinet FortiWLM 8.6.2\nFortinet FortiWLM 8.6.0\nFortinet FortiWLM 8.5.4\nFortinet FortiWLM 8.5.3\nFortinet FortiWLM 8.5.2\nFortinet FortiWLM 8.5.1\nFortinet FortiWLM 8.5.0\nFortinet FortiWLM 8.6.6\nFortinet FortiWLM 8.4.2\nFortinet FortiWLM 8.4.1\nFortinet FortiWLM 8.4.0\nFortinet FortiWLM 8.3.2\nFortinet FortiWLM 8.3.1\nFortinet FortiWLM 8.3.0",
+    "CVE ID": "CVE-2023-42783",
+    "漏洞描述": "Fortinet FortiWLM是美国飞塔（Fortinet）公司的一个无线管理器。\nFortinet FortiWLM存在路径遍历漏洞，该漏洞源于程序未能正确地过滤资源或文件路径中的特殊元素。攻击者可利用该漏洞通过精心设计的http请求读取任意文件。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2023-42783",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.com/psirt/FG-IR-23-143",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/649876",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2023-11-17",
+    "收录时间": "2025-01-07",
+    "更新时间": "2025-01-07",
+    "漏洞附件": "(无附件)"
+}

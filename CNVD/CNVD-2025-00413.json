@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Fortinet FortiAIOps跨站请求伪造漏洞",
+    "CNVD-ID": "CNVD-2025-00413",
+    "公开日期": "2025-01-07",
+    "危害级别": "高",
+    "影响产品": "Fortinet FortiAIOps 2.0.0",
+    "CVE ID": "CVE-2024-27783",
+    "漏洞描述": "Fortinet FortiAIOps是美国飞塔（Fortinet）公司的一款结合人工智能与机器学习(AI/ML) 的Fortinet网络配套解决方案。\nFortinet FortiAIOps 2.0.0版本存在跨站请求伪造漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户。未经身份验证的远程攻击者可利用该漏洞通过诱骗受害者执行恶意GET请求，代表经过身份验证的用户执行任意操作。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-27783",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.fortinet.com/psirt/FG-IR-24-070",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/649861",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-07-12",
+    "收录时间": "2025-01-07",
+    "更新时间": "2025-01-07",
+    "漏洞附件": "(无附件)"
+}
