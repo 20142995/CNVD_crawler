@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Mozilla Firefox和Thunderbird未经授权访问漏洞",
+    "CNVD-ID": "CNVD-2025-00858",
+    "公开日期": "2025-01-09",
+    "危害级别": "高",
+    "影响产品": "Mozilla Firefox <133\nmozilla Thunderbird <133",
+    "CVE ID": "CVE-2024-11708",
+    "漏洞描述": "Mozilla Firefox是一款开源Web浏览器。Mozilla Thunderbird是一套从Mozilla Application Suite独立出来的电子邮件客户端软件。\nMozilla Firefox和Thunderbird存在未经授权访问漏洞，该漏洞是由于缺少线程同步原语造成的。攻击者可利用该漏洞在PlaybackParams结构的成员上引发数据竞争。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://bugzilla.mozilla.org/show_bug.cgi?id=1922912",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/security/advisories/mfsa2024-63/ \nhttps://www.mozilla.org/security/advisories/mfsa2024-67/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/650031",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-04",
+    "收录时间": "2025-01-10",
+    "更新时间": "2025-01-10",
+    "漏洞附件": "(无附件)"
+}
