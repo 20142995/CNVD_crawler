@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens Teamcenter Visualization和Siemens Tecnomatix Plant Simulation越界读取漏洞",
+    "CNVD-ID": "CNVD-2025-00880",
+    "公开日期": "2025-01-10",
+    "危害级别": "中",
+    "影响产品": "Siemens Tecnomatix Plant Simulation V2302 <V2302.0016\nSiemens Tecnomatix Plant Simulation V2404 <V2404.0005\nSiemens Teamcenter Visualization V14.2 <V14.2.0.14\nSiemens Teamcenter Visualization V14.3 <V14.3.0.12\nSiemens Teamcenter Visualization V2312 <V2312.0008\nSIEMENS Teamcenter Visualization V2406 <V2406.0005",
+    "CVE ID": "CVE-2024-53242",
+    "漏洞描述": "Siemens Teamcenter Visualization是一个可为设计2D、3D场景提供团队协作功能的软件。该软件通过从多种机械计算机辅助设计（MCAD）格式创建虚拟原型，可简化了工程和制造流程。Siemens Tecnomatix Plant Simulation是一个工控设备。利用离散事件仿真的强大功能进行生产量分析和优化，进而改善制造系统性能。 \nSiemens Teamcenter Visualization和Siemens Tecnomatix Plant Simulation存在越界读取漏洞，攻击者可利用该漏洞在当前进程的环境中执行代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-583523.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://cert-portal.siemens.com/productcert/html/ssa-583523.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/650126",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-20",
+    "收录时间": "2025-01-10",
+    "更新时间": "2025-01-10",
+    "漏洞附件": "(无附件)"
+}
