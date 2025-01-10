@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Rockwell Automation Arena Simulation DOE文件内存错误引用代码执行漏洞",
+    "CNVD-ID": "CNVD-2025-00881",
+    "公开日期": "2025-01-10",
+    "危害级别": "高",
+    "影响产品": "(暂无)",
+    "CVE ID": "CVE-2024-12175",
+    "漏洞描述": "Rockwell Automation Arena Simulation是美国罗克韦尔（Rockwell Automation）公司的一套提供3D动画和图形功能的仿真软件。\nRockwell Automation Arena Simulation DOE文件存在内存错误引用代码执行漏洞，攻击者可利用该漏洞在当前进程的上下文中执行代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.zerodayinitiative.com/advisories/ZDI-24-1714/",
+    "漏洞解决方案": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://www.rockwellautomation.com/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/650131",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-23",
+    "收录时间": "2025-01-10",
+    "更新时间": "2025-01-10",
+    "漏洞附件": "(无附件)"
+}
