@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Huawei HarmonyOS和EMUI App Multiplier模块访问权限验证漏洞",
+    "CNVD-ID": "CNVD-2025-00872",
+    "公开日期": "2025-01-10",
+    "危害级别": "中",
+    "影响产品": "Huawei HarmonyOS 4.0.0\nHuawei HarmonyOS 4.2.0\nHuawei EMUI 14.0.0",
+    "CVE ID": "CVE-2024-9136",
+    "漏洞描述": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。提供一个基于微内核的全场景分布式操作系统。Huawei EMUI是华为公司开发的一种基于Android操作系统的用户界面。\nHuawei HarmonyOS和EMUI App Multiplier模块存在访问权限验证漏洞，攻击者可利用该漏洞影响服务机密性。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://consumer.huawei.com/en/support/bulletin/2024/10/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://consumer.huawei.com/en/support/bulletin/2024/10/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/650101",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-30",
+    "收录时间": "2025-01-10",
+    "更新时间": "2025-01-10",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "多款Mozilla产品代码执行漏洞（CNVD-2025-00862）",
+    "CNVD-ID": "CNVD-2025-00862",
+    "公开日期": "2025-01-09",
+    "危害级别": "高",
+    "影响产品": "Mozilla Firefox <133\nmozilla Firefox ESR <128.5\nmozilla Thunderbird <133\nmozilla Thunderbird <128.5",
+    "CVE ID": "CVE-2024-11699",
+    "漏洞描述": "Mozilla Firefox是一款开源Web浏览器。Mozilla Firefox ESR是Firefox（Web浏览器）的一个延长支持版本。Mozilla Thunderbird是一套从Mozilla Application Suite独立出来的电子邮件客户端软件。\n多款Mozilla产品存在代码执行漏洞，攻击者可利用该漏洞在易受攻击的系统上执行任意代码或造成拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.mozilla.org/en-US/security/advisories/mfsa2024-63/",
+    "漏洞解决方案": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://www.mozilla.org/security/advisories/mfsa2024-63/ \nhttps://www.mozilla.org/security/advisories/mfsa2024-64/ \nhttps://www.mozilla.org/security/advisories/mfsa2024-67/ \nhttps://www.mozilla.org/security/advisories/mfsa2024-68/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/650051",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-03",
+    "收录时间": "2025-01-10",
+    "更新时间": "2025-01-10",
+    "漏洞附件": "(无附件)"
+}
