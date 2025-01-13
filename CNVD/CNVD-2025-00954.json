@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Foxit PDF Reader缓冲区溢出漏洞（CNVD-2025-00954）",
+    "CNVD-ID": "CNVD-2025-00954",
+    "公开日期": "2025-01-10",
+    "危害级别": "高",
+    "影响产品": "Foxit PDF Reader",
+    "CVE ID": "CVE-2024-12752",
+    "漏洞描述": "Foxit PDF Reader是中国福昕（Foxit）公司的一款PDF阅读器。\nFoxit PDF Reader存在缓冲区溢出漏洞，该漏洞源于缺乏对用户提供的数据进行适当验证，导致内存损坏状况，远程攻击者可利用该漏洞在当前进程中执行代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.zerodayinitiative.com/advisories/ZDI-24-1738/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新： \nhttps://www.foxit.com/support/security-bulletins.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/650711",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-07",
+    "收录时间": "2025-01-13",
+    "更新时间": "2025-01-13",
+    "漏洞附件": "(无附件)"
+}

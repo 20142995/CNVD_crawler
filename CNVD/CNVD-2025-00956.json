@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Foxit Reader内存破坏漏洞（CNVD-2025-0095609）",
+    "CNVD-ID": "CNVD-2025-00956",
+    "公开日期": "2025-01-10",
+    "危害级别": "高",
+    "影响产品": "Foxit Foxit Reader 2024.3.0.26795",
+    "CVE ID": "CVE-2024-49576",
+    "漏洞描述": "Foxit Reader是中国福昕（Foxit）公司的一款PDF文档阅读器。\nFoxit Reader 2024.3.0.26795版本存在安全漏洞，该漏洞源于复选框CBF_Widget对象中包含一个释放后重用漏洞。攻击者可利用该漏洞导致任意代码执行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-49576",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新:\nhttps://talosintelligence.com/vulnerability_reports/TALOS-2024-2093",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/650741",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-20",
+    "收录时间": "2025-01-13",
+    "更新时间": "2025-01-13",
+    "漏洞附件": "(无附件)"
+}
