@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Google Android prepare_to_draw_into_mask任意代码执行漏洞",
+    "CNVD-ID": "CNVD-2025-00974",
+    "公开日期": "2025-01-08",
+    "危害级别": "高",
+    "影响产品": "Google Android",
+    "CVE ID": "CVE-2024-43767",
+    "漏洞描述": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。\nGoogle Android SkBlurMaskFilterImpl.cpp包含的prepare_to_draw_into_mask存在安全漏洞，远程攻击者可利用该漏洞提交特殊的请求，可以应用程序上下文执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-43767",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/2024-12-01",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/649946",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-07",
+    "收录时间": "2025-01-13",
+    "更新时间": "2025-01-13",
+    "漏洞附件": "(无附件)"
+}

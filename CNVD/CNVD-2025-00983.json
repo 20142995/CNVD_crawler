@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Rockwell Automation FactoryTalk Services Platform信任管理问题漏洞",
+    "CNVD-ID": "CNVD-2025-00983",
+    "公开日期": "2025-01-08",
+    "危害级别": "中",
+    "影响产品": "Rockwell Automation FactoryTalk Services Platform",
+    "CVE ID": "CVE-2023-2639",
+    "漏洞描述": "Rockwell Automation FactoryTalk Services Platform是美国罗克韦尔（Rockwell Automation）公司的一套由多个产品组成的服务平台，它为应用程序提供常规服务，如诊断信息、健康监视和实时数据访问等。\nRockwell Automation FactoryTalk Services Platform存在信任管理问题漏洞，该漏洞源于不会验证通信的来源是否来自合法的本地客户端设备。攻击者可利用该漏洞接收信息，包括是否安装了FactoryTalk Policy Manager以及可能的整个安全策略。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2023-2639",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1139683",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/649956",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2023-06-21",
+    "收录时间": "2025-01-13",
+    "更新时间": "2025-01-13",
+    "漏洞附件": "(无附件)"
+}

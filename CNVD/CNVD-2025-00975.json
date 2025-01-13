@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Linux kernel资源管理错误漏洞（CNVD-2025-00975）",
+    "CNVD-ID": "CNVD-2025-00975",
+    "公开日期": "2025-01-08",
+    "危害级别": "中",
+    "影响产品": "Linux Linux kernel 6.8\nLinux Linux kernel >=6.7，<6.7.10\nLinux Linux kernel >=6.2，<6.6.22\nLinux Linux kernel >=5.16，<6.1.82\nLinux Linux kernel >=5.11，<5.15.152\nLinux Linux kernel >=5.5，<5.10.213\nLinux Linux kernel >=4.20，<5.4.272\nLinux Linux kernel >=4.11，<4.19.310\nLinux Linux kernel >=4.9.66，<4.10\nLinux Linux kernel >=4.4.103，<4.5\nLinux Linux kernel >=4.1.48，<4.2\nLinux Linux kernel >=3.18.85，<3.19",
+    "CVE ID": "CVE-2024-27024",
+    "漏洞描述": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。\nLinux kernel存在资源管理错误漏洞，该漏洞源于如果尚未建立连接，get_mr()将失败，在get_mr()之后触发连接。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-27024",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/c055fc00c07be1f0df7375ab0036cebd1106ed38",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/649941",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-07",
+    "收录时间": "2025-01-13",
+    "更新时间": "2025-01-13",
+    "漏洞附件": "(无附件)"
+}

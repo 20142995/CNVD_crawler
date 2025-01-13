@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM Security Directory Integrator操作系统命令注入漏洞",
+    "CNVD-ID": "CNVD-2025-00969",
+    "公开日期": "2025-01-08",
+    "危害级别": "高",
+    "影响产品": "IBM IBM Security Directory Integrator >=7.2.0，<=7.2.0.13\nIBM IBM Security Directory Integrator >=10.0.0，<=10.0.3",
+    "CVE ID": "CVE-2024-28767",
+    "漏洞描述": "IBM Security Directory Integrator是美国国际商业机器（IBM）公司的一个集成开发环境和运行时服务。\nIBM Security Directory Integrator存在操作系统命令注入漏洞，该漏洞源于应用未能正确过滤构造命令特殊字符、命令等。远程经过身份验证的攻击者可利用该漏洞通过发送特制的请求在系统上执行任意命令。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-28767",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7179558",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-25",
+    "收录时间": "2025-01-13",
+    "更新时间": "2025-01-13",
+    "漏洞附件": "(无附件)"
+}

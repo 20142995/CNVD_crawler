@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Rockwell Automation FactoryTalk Transaction Manager拒绝服务漏洞",
+    "CNVD-ID": "CNVD-2025-00984",
+    "公开日期": "2025-01-08",
+    "危害级别": "高",
+    "影响产品": "Rockwell Automation FactoryTalk Transaction Manager",
+    "CVE ID": "CVE-2023-2778",
+    "漏洞描述": "Rockwell Automation FactoryTalk Transaction Manager是美国罗克韦尔（Rockwell Automation）公司的一个用于保存数据库数据的控制系统。\nRockwell Automation FactoryTalk Transaction Manager处理400端口访问存在安全漏洞，远程攻击者可以利用该漏洞提交特殊的请求，可消耗大量cpu和内存资源，造成拒绝服务攻击。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2023-2778",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1139744",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/649961",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2023-06-19",
+    "收录时间": "2025-01-13",
+    "更新时间": "2025-01-13",
+    "漏洞附件": "(无附件)"
+}

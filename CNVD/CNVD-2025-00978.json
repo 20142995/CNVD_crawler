@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Codezips Project Management System SQL注入漏洞（CNVD-2025-0097825）",
+    "CNVD-ID": "CNVD-2025-00978",
+    "公开日期": "2025-01-08",
+    "危害级别": "中",
+    "影响产品": "Codezips Project Management System Codezips Project Management System 1.0",
+    "CVE ID": "CVE-2024-12926",
+    "漏洞描述": "Codezips Project Management System是一款项目管理系统，提供项目管理、任务分配等功能。\nCodezips Project Management System 1.0版本中的/pages/forms/advanced.php文件存在SQL注入漏洞，该漏洞源于对name参数的输入验证不足。攻击者可以利用该漏洞通过构造恶意的SQL语句进行注入攻击，进而获取数据库中的敏感信息或执行任意SQL命令。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-12926",
+    "漏洞解决方案": "目前厂商尚未发布升级补丁以修复这个安全问题，请到厂商的主页下载:\nhttps://vuldb.com/?id.289279",
+    "厂商补丁": "",
+    "验证信息": "已验证",
+    "报送时间": "2024-12-30",
+    "收录时间": "2025-01-13",
+    "更新时间": "2025-01-13",
+    "漏洞附件": "(无附件)"
+}
