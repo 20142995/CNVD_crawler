@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Windows Remote Desktop Services远程代码执行漏洞（CNVD-2025-01186）",
+    "CNVD-ID": "CNVD-2025-01186",
+    "公开日期": "2025-01-17",
+    "危害级别": "高",
+    "影响产品": "Microsoft Windows Server 2016 \nMicrosoft Windows Server 2019 \nMicrosoft Windows Server 2022 \nMicrosoft Windows Server 2022 23H2 Edition (Server Core installation)\nMicrosoft Windows Server 2025",
+    "CVE ID": "CVE-2024-49106",
+    "漏洞描述": "Microsoft Windows Remote Desktop Services是美国微软（Microsoft）公司的一个允许用户远程访问图形桌面和Windows应用程序的功能集合。\nMicrosoft Windows Remote Desktop Services存在远程代码漏洞，该漏洞是由于在远程桌面客户端组件中释放后使用造成的。攻击者可利用此漏洞在系统上执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-49106",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-49106",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/651311",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-13",
+    "收录时间": "2025-01-14",
+    "更新时间": "2025-01-14",
+    "漏洞附件": "(无附件)"
+}
