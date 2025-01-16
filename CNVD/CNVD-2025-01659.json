@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens Mendix LDAP注入漏洞",
+    "CNVD-ID": "CNVD-2025-01659",
+    "公开日期": "2025-01-16",
+    "危害级别": "高",
+    "影响产品": "Siemens Mendix LDAP <1.1.2",
+    "CVE ID": "CVE-2024-56841",
+    "漏洞描述": "Mendix LDAP是轻量级目录访问协议（LDAP）的客户端实现，允许您的应用程序与LDAP服务器，如本地Microsoft Active Directory（AD）进行通信。\nSiemens Mendix LDAP存在注入漏洞，未经身份验证的远程攻击者可利用漏洞绕过用户名验证。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "",
+    "漏洞解决方案": "厂商已发布升级版本修复漏洞，请广大用户及时下载更新至V1.1.2及以上版本：\nhttps://marketplace.mendix.com/link/component/210270",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/651841",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-15",
+    "收录时间": "2025-01-16",
+    "更新时间": "2025-01-16",
+    "漏洞附件": "(无附件)"
+}
