@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "SonicWALL SonicOS IPSec VPN缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-01691",
+    "公开日期": "2025-01-16",
+    "危害级别": "高",
+    "影响产品": "SonicWall SonicWALL SonicOS IPSec VPN",
+    "CVE ID": "CVE-2024-40764",
+    "漏洞描述": "SonicWALL SonicOS IPSec VPN是美国SonicWALL公司的一个VPN解决方案。\nSonicWALL SonicOS IPSec VPN存在缓冲区溢出漏洞，该漏洞源于应用在处理不受信任的输入时出现边界错误。远程攻击者可利用该漏洞导致程序拒绝服务(DoS)。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-40764",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://psirt.global.sonicwall.com/vuln-detail/SNWLID-2024-0012",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/651786",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-07-24",
+    "收录时间": "2025-01-17",
+    "更新时间": "2025-01-17",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens Siveillance Video摄像机驱动程序信息泄露漏洞",
+    "CNVD-ID": "CNVD-2025-01695",
+    "公开日期": "2025-01-17",
+    "危害级别": "中",
+    "影响产品": "Siemens Siveillance Video Device Pack <V13.5",
+    "CVE ID": "CVE-2024-12569",
+    "漏洞描述": "Siveillance Video（以前称为Siveillance VMS）是一款功能强大的IP视频管理软件，专为从小型简单到大规模和高安全性的部署而设计。Siveillance Video系列产品组合包括四个版本：Siveillance Video Core、Core Plus、Advanced和Pro，可满足从中小型解决方案到大型复杂部署的特定需求。\nSiemens Siveillance Video摄像机驱动程序存在信息泄露漏洞，本地攻击者可利用漏洞在特定条件下读取存储在Recording Server中的摄像机凭据。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-404759.html",
+    "漏洞解决方案": "厂商已发布升级版本修复漏洞，请广大用户及时下载更新至V13.5及以上版本：\nhttps://support.industry.siemens.com/cs/ww/en/view/109761843/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/651896",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-14",
+    "收录时间": "2025-01-17",
+    "更新时间": "2025-01-17",
+    "漏洞附件": "(无附件)"
+}

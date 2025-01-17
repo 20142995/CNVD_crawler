@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "SonicWall SonicOS存在未明漏洞（CNVD-2025-01663）",
+    "CNVD-ID": "CNVD-2025-01663",
+    "公开日期": "2025-01-16",
+    "危害级别": "高",
+    "影响产品": "Dell SonicWALL SonicOS",
+    "CVE ID": "CVE-2024-12806",
+    "漏洞描述": "SonicWALL SonicOS是美国SonicWALL公司的一套专为SonicWall防火墙设备设计的操作系统。\nSonicWALL SonicOS存在安全漏洞，该漏洞源于存在认证后绝对路径遍历漏洞，经过身份验证的远程攻击者可利用该漏洞读取任意文件。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-12806",
+    "漏洞解决方案": "目前厂商已发布升级补丁以修复漏洞。补丁获取链接：\nhttps://psirt.global.sonicwall.com/vuln-detail/SNWLID-2025-0004",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/651766",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-10",
+    "收录时间": "2025-01-17",
+    "更新时间": "2025-01-17",
+    "漏洞附件": "(无附件)"
+}
