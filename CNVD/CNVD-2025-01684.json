@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Google Pixel存在未明漏洞（CNVD-2025-01684）",
+    "CNVD-ID": "CNVD-2025-01684",
+    "公开日期": "2025-01-15",
+    "危害级别": "高",
+    "影响产品": "Google Android",
+    "CVE ID": "CVE-2018-9395",
+    "漏洞描述": "Google Pixel是美国谷歌（Google）公司的一款智能手机。\nGoogle Pixel存在安全漏洞，该漏洞源于在drivers/misc/mediatek/connectivity/wlan/gen2/os/linux/gl_vendor.c的mtk_cfg80211_vendor_packet_keep_alive_start和mtk_cfg80211_vendor_set_config中缺少边界检查，可能存在越界写入。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2018-9395",
+    "漏洞解决方案": "目前厂商已发布升级补丁以修复漏洞，详情请关注厂商主页：\nhttps://source.android.com/security/bulletin/pixel/2018-06-01",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/651601",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-03",
+    "收录时间": "2025-01-17",
+    "更新时间": "2025-01-17",
+    "漏洞附件": "(无附件)"
+}

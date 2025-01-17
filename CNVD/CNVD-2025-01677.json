@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Linux kernel存在未明漏洞（CNVD-2025-01677）",
+    "CNVD-ID": "CNVD-2025-01677",
+    "公开日期": "2025-01-15",
+    "危害级别": "中",
+    "影响产品": "Linux Kernel",
+    "CVE ID": "CVE-2024-56658",
+    "漏洞描述": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。\nLinux kernel存在安全漏洞，该漏洞源于net模块中netns拆卸期间struct net的最终释放延迟。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-56658",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/0f6ede9fbc747e2553612271bce108f7517e7a45",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/651571",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-03",
+    "收录时间": "2025-01-17",
+    "更新时间": "2025-01-17",
+    "漏洞附件": "(无附件)"
+}
