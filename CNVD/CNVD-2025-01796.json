@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM Security Guardium Key Lifecycle Manager信息泄露漏洞（CNVD-2025-0179613）",
+    "CNVD-ID": "CNVD-2025-01796",
+    "公开日期": "2025-01-20",
+    "危害级别": "中",
+    "影响产品": "IBM IBM Security Guardium Key Lifecycle Manager 4.1.1\nIBM IBM Security Guardium Key Lifecycle Manager 4.1\nIBM IBM Security Guardium Key Lifecycle Manager 4.2.0\nIBM IBM Security Guardium Key Lifecycle Manager 4.2.1",
+    "CVE ID": "CVE-2024-49818",
+    "漏洞描述": "IBM Security Guardium Key Lifecycle Manager是国际商业机器（IBM）公司的一种加密密钥管理工具。可集中、简化和自动化密钥管理流程。\nIBM Security Guardium Key Lifecycle Manager存在信息泄露漏洞，攻击者可利用该漏洞在浏览器返回详细的技术错误消息时获取敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.ibm.com/support/pages/node/7175067",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7175067",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/652016",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-20",
+    "收录时间": "2025-01-20",
+    "更新时间": "2025-01-20",
+    "漏洞附件": "(无附件)"
+}
