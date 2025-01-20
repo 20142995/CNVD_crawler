@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Delta Electronics DIAScreen堆栈缓冲区漏洞",
+    "CNVD-ID": "CNVD-2025-01802",
+    "公开日期": "2025-01-21",
+    "危害级别": "高",
+    "影响产品": "Delta Electronics DIAScreen <1.4.2",
+    "CVE ID": "CVE-2024-7502",
+    "漏洞描述": "Delta Electronics DIAScreen是中国台达电子（Delta Electronics）公司的一个智能机台建置软件。\nDelta Electronics DIAScreen存在堆栈缓冲区漏洞，攻击者可利用该漏洞执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-219-01",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://diastudio.deltaww.com/home/downloads?sec=download#catalog",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/652036",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-14",
+    "收录时间": "2025-01-20",
+    "更新时间": "2025-01-20",
+    "漏洞附件": "(无附件)"
+}

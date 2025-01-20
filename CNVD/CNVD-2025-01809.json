@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Delta Electronics DIAEnergie跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2025-01809",
+    "公开日期": "2025-01-21",
+    "危害级别": "中",
+    "影响产品": "Delta Electronics DIAEnergie <v1.10.005",
+    "CVE ID": "CVE-2024-28045",
+    "漏洞描述": "Delta Electronics DIAEnergie是中国台湾台达电子（Delta Electronics）公司推出的的一款推出的一款工业能源管理系统。\nDelta Electronics DIAEnergie存在跨站脚本漏洞，攻击者可利用此漏洞窃取受害者基于cookie的身份验证凭据。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-074-12",
+    "漏洞解决方案": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://www.deltaww.com/en/customerService",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/652091",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-03-26",
+    "收录时间": "2025-01-20",
+    "更新时间": "2025-01-20",
+    "漏洞附件": "(无附件)"
+}

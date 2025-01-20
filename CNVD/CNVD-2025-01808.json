@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Delta Electronics DIAEnergie GetDIAE_usList SQL注入漏洞",
+    "CNVD-ID": "CNVD-2025-01808",
+    "公开日期": "2025-01-21",
+    "危害级别": "高",
+    "影响产品": "Delta Electronics DIAEnergie <1.10.00.005",
+    "CVE ID": "CVE-2024-25574",
+    "漏洞描述": "Delta Electronics DIAEnergie是中国台湾台达电子（Delta Electronics）公司推出的的一款推出的一款工业能源管理系统。\nDelta Electronics DIAEnergie GetDIAE_usList存在SQL注入漏洞，攻击者可利用该漏洞查看、添加、修改或删除后端数据库中的信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-074-12",
+    "漏洞解决方案": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://www.deltaww.com/en/customerService",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/652086",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-03-25",
+    "收录时间": "2025-01-20",
+    "更新时间": "2025-01-20",
+    "漏洞附件": "(无附件)"
+}
