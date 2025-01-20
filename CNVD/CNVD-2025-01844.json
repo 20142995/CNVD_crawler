@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Fortinet FortiDeceptor跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2025-01844",
+    "公开日期": "2025-01-17",
+    "危害级别": "中",
+    "影响产品": "Fortinet FortiDeceptor 5.3.0\nFortinet FortiDeceptor 5.2.0\nFortinet FortiDeceptor 5.0.x\nFortinet FortiDeceptor 4.3.x\nFortinet FortiDeceptor 4.2.x\nFortinet FortiDeceptor 4.1.x\nFortinet FortiDeceptor 4.0.x\nFortinet FortiDeceptor 3.3.x\nFortinet FortiDeceptor 3.2.x\nFortinet FortiDeceptor 3.1.x\nFortinet FortiDeceptor 3.0.x",
+    "CVE ID": "CVE-2024-35280",
+    "漏洞描述": "Fortinet FortiDeceptor是美国飞塔（Fortinet）公司的一款网络威胁检测平台。该平台主要通过欺骗技术暴露网络威胁等。\nFortinet FortiDeceptor存在跨站脚本漏洞，该漏洞源于网页生成过程中对输入进行了不当中和，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-35280",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.fortinet.com/psirt/FG-IR-24-010",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/652136",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-17",
+    "收录时间": "2025-01-20",
+    "更新时间": "2025-01-20",
+    "漏洞附件": "(无附件)"
+}

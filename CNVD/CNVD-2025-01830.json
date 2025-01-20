@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Adobe Premiere Pro堆栈溢出漏洞",
+    "CNVD-ID": "CNVD-2025-01830",
+    "公开日期": "2025-01-16",
+    "危害级别": "高",
+    "影响产品": "Adobe Premiere Pro <24.6.4\nAdobe Premiere Pro 25.0",
+    "CVE ID": "CVE-2024-53956",
+    "漏洞描述": "Adobe Premiere Pro是一款由Adobe公司开发的视频编辑软件。  \nAdobe Premiere Pro 25.0版本及之前版本存在安全漏洞，该漏洞源于包含一个基于堆的缓冲区溢出漏洞。攻击者可利用该漏洞导致在当前用户的环境中执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://helpx.adobe.com/security/products/premiere_pro/apsb24-104.html",
+    "漏洞解决方案": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://helpx.adobe.com/security/products/premiere_pro/apsb24-104.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/651791",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-13",
+    "收录时间": "2025-01-20",
+    "更新时间": "2025-01-20",
+    "漏洞附件": "(无附件)"
+}
