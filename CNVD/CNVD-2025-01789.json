@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM Cognos Controller文件上传漏洞（CNVD-2025-01789）",
+    "CNVD-ID": "CNVD-2025-01789",
+    "公开日期": "2025-01-20",
+    "危害级别": "中",
+    "影响产品": "IBM IBM Cognos Controller 11.0.0\nIBM IBM Cognos Controller 11.0.1",
+    "CVE ID": "CVE-2024-25020",
+    "漏洞描述": "IBM Cognos Controller是美国国际商业机器（IBM）公司的一套商业智能与计划解决方案。该产品具有流程自动化、财务审计控制、创建和管理财务报告等功能。\nIBM Cognos Controller 11.0.0和11.0.1版本存在文件上传漏洞，攻击者可利用该漏洞上传恶意文件从而远程执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.ibm.com/support/pages/node/7177220",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7177220",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/651981",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-06",
+    "收录时间": "2025-01-20",
+    "更新时间": "2025-01-20",
+    "漏洞附件": "(无附件)"
+}
