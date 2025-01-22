@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "OpenCart注入漏洞",
+    "CNVD-ID": "CNVD-2025-02101",
+    "公开日期": "2025-01-22",
+    "危害级别": "中",
+    "影响产品": "OpenCart OpenCart 4.0.0.1",
+    "CVE ID": "CVE-2025-0214",
+    "漏洞描述": "OpenCart是中国OpenCart团队的一套开源的电子商务系统。该系统提供产品评论、产品评分、产品添加等模块。\nOpenCart 4.0.0.1版本存在注入漏洞，该漏洞源于/admin/index.php文件的参数headermenu_id会导致SQL注入。攻击者可利用该漏洞执行SQL注入攻击。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://gist.github.com/mcdruid/ff4f29f4e7830e9e91988c7195d77039https://vuldb.com/?ctiid.290159https://vuldb.com/?id.290159https://vuldb.com/?submit.474299",
+    "漏洞解决方案": "目前厂商已发布升级补丁以修复漏洞，详情请关注厂商主页：\nhttps://www.opencart.com/index.php?route=cms/download/history",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/652626",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-21",
+    "收录时间": "2025-01-22",
+    "更新时间": "2025-01-22",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Linux kernel内存泄露漏洞（CNVD-2025-02099）",
+    "CNVD-ID": "CNVD-2025-02099",
+    "公开日期": "2025-01-22",
+    "危害级别": "中",
+    "影响产品": "Linux Linux kernel >=6.7，<6.7.11\nLinux Linux kernel >=6.8，<6.8.2\nLinux Linux kernel >=4.20，<5.4.273\nLinux Linux kernel >=5.5，<5.10.214\nLinux Linux kernel >=5.11，<5.15.153\nLinux Linux kernel >=5.16，<6.1.83\nLinux Linux kernel >=6.2，<6.6.23\nLinux Linux kernel >=3.10，<4.19.311",
+    "CVE ID": "CVE-2024-27388",
+    "漏洞描述": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。\nLinux kernel存在内存泄露漏洞，该漏洞源于gssx_dec_option_array存在内存泄漏漏洞。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-27388",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/dd292e884c649f9b1c18af0ec75ca90b390cd044",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/652641",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-22",
+    "收录时间": "2025-01-22",
+    "更新时间": "2025-01-22",
+    "漏洞附件": "(无附件)"
+}
