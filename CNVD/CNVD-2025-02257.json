@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Huawei HarmonyOS存在未明漏洞（CNVD-2025-0225734）",
+    "CNVD-ID": "CNVD-2025-02257",
+    "公开日期": "2025-01-24",
+    "危害级别": "中",
+    "影响产品": "Huawei HarmonyOS 5.0.0",
+    "CVE ID": "CVE-2024-54113",
+    "漏洞描述": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。提供一个基于微内核的全场景分布式操作系统。\nHuawei HarmonyOS存在安全漏洞，攻击者可利用该漏洞导致功耗受影响。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://consumer.huawei.com/en/support/bulletin/2024/12/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://consumer.huawei.com/en/support/bulletin/2024/12/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/653021",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-20",
+    "收录时间": "2025-01-23",
+    "更新时间": "2025-01-23",
+    "漏洞附件": "(无附件)"
+}
