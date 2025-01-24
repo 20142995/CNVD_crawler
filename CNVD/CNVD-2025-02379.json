@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "TOTOLINK A810R命令注入漏洞（CNVD-2025-02379）",
+    "CNVD-ID": "CNVD-2025-02379",
+    "公开日期": "2025-01-24",
+    "危害级别": "高",
+    "影响产品": "TOTOLINK A810R 4.1.2cu.5032_B20200407",
+    "CVE ID": "CVE-2024-57036",
+    "漏洞描述": "TOTOLink A810R是中国TotoLink公司的一款无线双频路由器。\nTOTOLINK A810R存在命令注入漏洞，攻击者可利用该漏洞通过发送HTTP请求来执行任意命令。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-57036",
+    "漏洞解决方案": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.totolink.net/home/menu/detail/menu_listtpl/download/id/169/ids/36.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/654286",
+    "验证信息": "已验证",
+    "报送时间": "2025-01-24",
+    "收录时间": "2025-01-24",
+    "更新时间": "2025-01-24",
+    "漏洞附件": "附件暂不公开"
+}

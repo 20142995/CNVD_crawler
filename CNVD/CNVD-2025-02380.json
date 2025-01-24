@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Palo Alto Networks Expedition命令注入漏洞",
+    "CNVD-ID": "CNVD-2025-02380",
+    "公开日期": "2025-01-24",
+    "危害级别": "高",
+    "影响产品": "Palo Alto Networks Expedition 1.2.000",
+    "CVE ID": "CVE-2025-0107",
+    "漏洞描述": "Palo Alto Networks Expedition是一款网络安全设备，用于提供防火墙、入侵检测和预防等功能。\nPalo Alto Networks Expedition存在命令注入漏洞，攻击者可利用该漏洞运行任意操作系统命令，从而导致用户名、明文密码、设备配置和运行PAN-OS软件的防火墙的设备API密钥被泄露。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://security.paloaltonetworks.com/PAN-SA-2025-0001",
+    "漏洞解决方案": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://security.paloaltonetworks.com/PAN-SA-2025-0001",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/654291",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-24",
+    "收录时间": "2025-01-24",
+    "更新时间": "2025-01-24",
+    "漏洞附件": "附件暂不公开"
+}
