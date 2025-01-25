@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress插件FlickRocket跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2025-02015",
+    "公开日期": "2025-01-26",
+    "危害级别": "中",
+    "影响产品": "WordPress FlickRocket plugin <=4.74",
+    "CVE ID": "CVE-2024-12438",
+    "漏洞描述": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress是一套使用PHP语言开发的博客平台。该平台支持在PHP和MySQL的服务器上架设个人博客网站。WordPress plugin是一个应用插件。\n \nWordPress插件FlickRocket 4.74版本及之前版本存在跨站脚本漏洞，该漏洞源于start_dateandend_date参数对用户提供的数据缺乏有效过滤与转义，攻击者利用该漏洞可以通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://plugins.trac.wordpress.org/browser/woocommerce-digital-content-delivery-with-drm-flickrocket/trunk/woocommerce-flickrocket.php#L613",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.wordfence.com/threat-intel/vulnerabilities/id/aa3909f6-fd2f-44e7-83b5-51c8cda4b20f?source=cve",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/652561",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-10",
+    "收录时间": "2025-01-21",
+    "更新时间": "2025-01-21",
+    "漏洞附件": "(无附件)"
+}

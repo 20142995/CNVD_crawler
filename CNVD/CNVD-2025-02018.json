@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress插件GDY Modular Content跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2025-02018",
+    "公开日期": "2025-01-26",
+    "危害级别": "中",
+    "影响产品": "WordPress GDY Modular Content plugin <=0.9.91",
+    "CVE ID": "CVE-2024-12153",
+    "漏洞描述": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress是一套使用PHP语言开发的博客平台。该平台支持在PHP和MySQL的服务器上架设个人博客网站。WordPress plugin是一个应用插件。\n \nWordPress插件GDY Modular Content 0.9.91版本及之前版本存在跨站脚本漏洞，该漏洞源于add_query_arg对用户提供的数据缺乏有效过滤与转义，攻击者利用该漏洞可以通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://plugins.trac.wordpress.org/browser/gdy-modular-content/trunk/includes/elements.php#L16",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.wordfence.com/threat-intel/vulnerabilities/id/8f854737-e87b-4c50-a9fb-d3b129f9d9fc?source=cve",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/652586",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-10",
+    "收录时间": "2025-01-21",
+    "更新时间": "2025-01-21",
+    "漏洞附件": "(无附件)"
+}
