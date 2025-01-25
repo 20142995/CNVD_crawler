@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress插件Enable Accessibility跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2025-02012",
+    "公开日期": "2025-01-26",
+    "危害级别": "中",
+    "影响产品": "WordPress Enable Accessibility plugin <=1.4.1",
+    "CVE ID": "CVE-2024-9208",
+    "漏洞描述": "WordPress是一套使用PHP语言开发的博客平台。该平台支持在PHP和MySQL的服务器上架设个人博客网站。WordPress plugin是一个应用插件。 \nWordPress插件Enable Accessibility 1.4.1版本及之前版本存在跨站脚本漏洞，该漏洞源于当使用add_query_arg和remove_query_arg对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://plugins.trac.wordpress.org/browser/enable-accessibility/tags/1.4.1/includes/accessibility-attachments-alt.php#L62",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.wordfence.com/threat-intel/vulnerabilities/id/da125e31-4747-46b7-8a46-a234388035c0?source=cve",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/652541",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-10",
+    "收录时间": "2025-01-21",
+    "更新时间": "2025-01-21",
+    "漏洞附件": "(无附件)"
+}

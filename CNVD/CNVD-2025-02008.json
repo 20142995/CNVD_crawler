@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress插件Elementor Addons AI Addons信息泄露漏洞",
+    "CNVD-ID": "CNVD-2025-02008",
+    "公开日期": "2025-01-26",
+    "危害级别": "中",
+    "影响产品": "WordPress Elementor Addons AI Addons plugin <=2.2.1",
+    "CVE ID": "CVE-2024-12140",
+    "漏洞描述": "WordPress是一套使用PHP语言开发的博客平台。该平台支持在PHP和MySQL的服务器上架设个人博客网站。WordPress plugin是一个应用插件。 \nWordPress插件Elementor Addons AI Addons 2.2.1版本及之前版本存在信息泄露漏洞，该漏洞源于应用对于敏感信息保护不足，攻击者可利用此漏洞获取敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://plugins.trac.wordpress.org/browser/ai-addons-for-elementor/tags/2.2.1/includes/widgets/accordion.php#L958",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.wordfence.com/threat-intel/vulnerabilities/id/c00d83a7-dd7a-407d-b44e-7ee0a2a1492a?source=cve",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/652521",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-10",
+    "收录时间": "2025-01-21",
+    "更新时间": "2025-01-21",
+    "漏洞附件": "(无附件)"
+}
