@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Fortinet FortiOS存在未明漏洞（CNVD-2025-02529）",
+    "CNVD-ID": "CNVD-2025-02529",
+    "公开日期": "2025-01-23",
+    "危害级别": "中",
+    "影响产品": "Fortinet FortiOS",
+    "CVE ID": "CVE-2024-46666",
+    "漏洞描述": "Fortinet FortiOS是美国飞塔（Fortinet）公司的一套专用于FortiGate网络安全平台上的安全操作系统。该系统为用户提供防火墙、防病毒、IPSec/SSLVPN、Web内容过滤和反垃圾邮件等多种安全功能。\nFortinet FortiOS存在安全漏洞，远程未经身份验证的攻击者可利用该漏洞通过针对特定端点的特制请求阻止对GUI的访问。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-46666",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.fortinet.com/psirt/FG-IR-24-250",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/653016",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-23",
+    "收录时间": "2025-02-06",
+    "更新时间": "2025-02-06",
+    "漏洞附件": "(无附件)"
+}
