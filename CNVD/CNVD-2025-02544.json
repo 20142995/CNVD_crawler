@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Linux kernel代码问题漏洞（CNVD-2025-02544）",
+    "CNVD-ID": "CNVD-2025-02544",
+    "公开日期": "2025-01-17",
+    "危害级别": "中",
+    "影响产品": "Linux Kernel",
+    "CVE ID": "CVE-2024-56778",
+    "漏洞描述": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。\nLinux kernel存在安全漏洞，该漏洞源于STI DRM驱动在sti_hqvdp_atomic_check函数中未检查drm_atomic_get_crtc_state的返回值，可能导致错误指针的解引用，影响显示系统的稳定性和性能。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-56778",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/31c857e7496d34e5a32a6f75bc024d0b06fd646a",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/652046",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-16",
+    "收录时间": "2025-02-06",
+    "更新时间": "2025-02-06",
+    "漏洞附件": "(无附件)"
+}

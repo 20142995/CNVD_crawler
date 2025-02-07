@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apple多款产品权限问题漏洞",
+    "CNVD-ID": "CNVD-2025-02580",
+    "公开日期": "2025-02-06",
+    "危害级别": "低",
+    "影响产品": "Apple MacOS 14.0\nApple iPhone OS <17.1\nApple watchOS <10.1\nApple Ipad Os <17.1",
+    "CVE ID": "CVE-2023-42878",
+    "漏洞描述": "macOS是一套由苹果开发的运行于Macintosh系列电脑上的操作系统。‌iPhone OS是苹果公司为iPhone和iPod touch开发的操作系统‌。watchOS是苹果公司基于iOS系统开发的一套使用于Apple Watch的手表操作系统。iPadOS‌是苹果公司为iPad设备开发的移动端操作系统，它是基于iOS开发的，专门针对iPad进行优化。\nApple macOS、iPhone OS、watchOS及iPadOS‌存在权限问题漏洞，该漏洞源于应用程序可能访问敏感的用户数据。攻击者可利用该漏洞获取敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2023-42878",
+    "漏洞解决方案": "厂商已发布补丁修复漏洞，请广大用户及时下载更新：\nhttps://support.apple.com/en-us/HT213988",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/654441",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-13",
+    "收录时间": "2025-02-07",
+    "更新时间": "2025-02-07",
+    "漏洞附件": "(无附件)"
+}

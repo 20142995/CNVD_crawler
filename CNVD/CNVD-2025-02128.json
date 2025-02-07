@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft BranchCache存在未明漏洞",
+    "CNVD-ID": "CNVD-2025-02128",
+    "公开日期": "2025-01-21",
+    "危害级别": "中",
+    "影响产品": "Microsoft Windows Server 2016 \nMicrosoft Windows Server 2019 \nMicrosoft Windows Server 2012 \nMicrosoft Windows Server 2008 R2  \nMicrosoft Windows Server 2012 R2 \nMicrosoft Window 11 \nMicrosoft Window 10 \nMicrosoft Windows Server 2022 23H2\nMicrosoft Windows Server 2008 22H2\nMicrosoft Windows Server 2008 21H2\nMicrosoft Windows Server 2008 1809\nMicrosoft Windows Server 2008 1607\nMicrosoft Windows Server 2022 22H2\nMicrosoft Windows Server 2022 24H2",
+    "CVE ID": "CVE-2025-21296",
+    "漏洞描述": "Microsoft BranchCache是美国微软（Microsoft）公司的一项广域网(WAN) 带宽优化技术，可以从总部或云内容服务器复制内容，并将内容缓存在分支机构位置，使分支机构的客户端计算机可以从本地访问内容。\nMicrosoft BranchCache存在安全漏洞。攻击者可利用该漏洞远程执行代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-21296",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21296",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/652221",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-17",
+    "收录时间": "2025-02-06",
+    "更新时间": "2025-02-06",
+    "漏洞附件": "(无附件)"
+}
