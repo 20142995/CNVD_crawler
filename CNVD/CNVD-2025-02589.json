@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Mini-Inventory-and-Sales-Management-System跨站请求伪造漏洞",
+    "CNVD-ID": "CNVD-2025-02589",
+    "公开日期": "2025-02-07",
+    "危害级别": "中",
+    "影响产品": "Mini-Inventory-and-Sales-Management-System Mini-Inventory-and-Sales-Management-System 1.0",
+    "CVE ID": "CVE-2021-44321",
+    "漏洞描述": "Mini-Inventory-and-Sales-Management-System是一个用PHP(codeIgniter) 编写的库存和销售管理系统，支持MySQL和Sqlite3数据库。\nMini-Inventory-and-Sales-Management-System 1.0版本存在跨站请求伪造漏洞，该漏洞源于Mini-Inventory-and-Sales-Management-System受到跨站请求伪造(CSRF)的影响，攻击者可以在其中更新/删除库存中的项目。 攻击者可利用该漏洞登录到应用程序创建一个恶意文件来更新库存详细信息和项目。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2021-44321/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://huntr.dev/bounties/1d84931c-ee10-4944-9764-d96612cdbc71/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/351241",
+    "验证信息": "已验证",
+    "报送时间": "2022-03-08",
+    "收录时间": "2025-02-07",
+    "更新时间": "2025-02-07",
+    "漏洞附件": "(无附件)"
+}

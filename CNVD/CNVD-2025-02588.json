@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Inductive Automation Ignition代码问题漏洞",
+    "CNVD-ID": "CNVD-2025-02588",
+    "公开日期": "2025-02-07",
+    "危害级别": "低",
+    "影响产品": "Inductive Automation Inductive Automation Ignition >=7.9.0，<=8.1.16",
+    "CVE ID": "CVE-2022-35870",
+    "漏洞描述": "Inductive Automation Ignition‌是一个用于工业自动化的综合性平台，提供了可扩展的解决方案，用于监控、控制、数据收集和分析。Ignition由Inductive Automation开发，旨在帮助用户构建和部署符合特定需求的自动化系统‌。\nInductive Automation Ignition存在代码问题漏洞，该漏洞源于输入验证不安全所致。远程攻击者可利用漏洞将专门制作的数据传递给应用程序，并在目标系统上执行任意代码。目前暂无详细的漏洞细节。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://support.inductiveautomation.com/hc/en-us",
+    "漏洞解决方案": "目前厂商暂未发布修复措施解决此安全问题，建议使用此软件的用户随时关注厂商主页或参考网址以获取解决办法：\nhttps://support.inductiveautomation.com/hc/en-us",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2022-07-21",
+    "收录时间": "2025-02-07",
+    "更新时间": "2025-02-07",
+    "漏洞附件": "(无附件)"
+}

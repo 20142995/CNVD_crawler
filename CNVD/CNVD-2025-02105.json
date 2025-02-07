@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "NETGEAR DGN1000命令注入漏洞（CNVD-2025-02105）",
+    "CNVD-ID": "CNVD-2025-02105",
+    "公开日期": "2025-01-21",
+    "危害级别": "高",
+    "影响产品": "NETGEAR DGN1000 <1.1.00.48",
+    "CVE ID": "CVE-2024-12847",
+    "漏洞描述": "NETGEAR DGN1000是NETGEAR公司的一款无线路由器，用于家庭和小型办公室的网络连接。\nNETGEAR DGN1000 1.1.00.48版本之前存在身份验证绕过漏洞。攻击者可利用该漏洞通过向setup.cgi端点发送构造的HTTP请求，执行任意操作系统命令，从而完全控制设备。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://seclists.org/bugtraq/2013/Jun/8\nhttps://vulncheck.com/advisories/netgear-dgn\nhttps://www.exploit-db.com/exploits/25978\nhttps://www.exploit-db.com/exploits/43055",
+    "漏洞解决方案": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.netgear.com/support/product/dgn1000/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/652621",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-21",
+    "收录时间": "2025-02-06",
+    "更新时间": "2025-02-06",
+    "漏洞附件": "(无附件)"
+}

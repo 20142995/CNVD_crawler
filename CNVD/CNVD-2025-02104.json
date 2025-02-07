@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Purview代码问题漏洞",
+    "CNVD-ID": "CNVD-2025-02104",
+    "公开日期": "2025-01-21",
+    "危害级别": "高",
+    "影响产品": "Microsoft Microsoft Purview",
+    "CVE ID": "CVE-2025-21385",
+    "漏洞描述": "Microsoft Purview是微软提供的一项用于数据治理和合规性的服务。\nMicrosoft Purview存在安全漏洞，攻击者可利用该漏洞通过精心构造的请求触发服务器向内部或外部网络发送请求，进而泄露敏感信息或导致信息暴露，增加系统的安全风险。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-21385",
+    "漏洞解决方案": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21385",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/652491",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-21",
+    "收录时间": "2025-02-06",
+    "更新时间": "2025-02-06",
+    "漏洞附件": "(无附件)"
+}
