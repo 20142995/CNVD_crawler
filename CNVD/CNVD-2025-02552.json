@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apache OpenMeetings代码问题漏洞",
+    "CNVD-ID": "CNVD-2025-02552",
+    "公开日期": "2025-01-14",
+    "危害级别": "高",
+    "影响产品": "Apache OpenMeetings >=2.1.0, <8.0.0",
+    "CVE ID": "CVE-2024-54676",
+    "漏洞描述": "Apache OpenMeetings 是一款开源的音频及视频会议软件，广泛应用于企业级的在线协作和会议管理。\nApache OpenMeetings存在安全漏洞。攻击者可利用该漏洞导致不受信任的数据被反序列化。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "http://www.openwall.com/lists/oss-security/2025/01/08/1\nhttps://lists.apache.org/thread/o0k05jxrt5tp4nm45lj14yfjxmg67m95",
+    "漏洞解决方案": "目前厂商已发布升级补丁以修复漏洞。补丁获取链接：\nhttp://www.openwall.com/lists/oss-security/2025/01/08/1",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/651421",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-10",
+    "收录时间": "2025-02-06",
+    "更新时间": "2025-02-06",
+    "漏洞附件": "(无附件)"
+}

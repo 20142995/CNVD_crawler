@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Dell EMC AppSync访问控制错误漏洞",
+    "CNVD-ID": "CNVD-2025-02573",
+    "公开日期": "2025-01-22",
+    "危害级别": "中",
+    "影响产品": "DELL EMC AppSync >=4.4.0.0，<=4.6.0.0",
+    "CVE ID": "CVE-2023-32458",
+    "漏洞描述": "Dell EMC AppSync是美国戴尔（Dell）公司的一个复制数据管理软件。提供一种由 SLA 驱动的简单自助服务方式来保护、恢复和克隆关键的Microsoft 与 Oracle 应用程序以及 VMware 环境。\nDell EMC AppSync存在访问控制错误漏洞，该漏洞源于组件Embedded Service Enabler存在访问控制错误漏洞。攻击者可利用该漏洞提升权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2023-32458",
+    "漏洞解决方案": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://www.dell.com/support/kbdoc/en-us/000218038/dsa-2023-331-dell-emc-appsync-security-update-for-dell-embedded-service-enabler-vulnerability",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/652876",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2023-10-07",
+    "收录时间": "2025-02-06",
+    "更新时间": "2025-02-06",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Linux kernel使用后释放漏洞",
+    "CNVD-ID": "CNVD-2025-02554",
+    "公开日期": "2025-01-15",
+    "危害级别": "中",
+    "影响产品": "Linux Linux kernel >=6.7，<6.12.8",
+    "CVE ID": "CVE-2024-56764",
+    "漏洞描述": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。\nLinux kernel存在使用后释放漏洞。攻击者可以利用该漏洞导致系统出现使用后释放问题，进而可能造成拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://git.kernel.org/stable/c/75cd4005da5492129917a4a4ee45e81660556104\nhttps://git.kernel.org/stable/c/7d680f2f76a3417fdfc3946da7471e81464f7b41",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/7d680f2f76a3417fdfc3946da7471e81464f7b41",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/651586",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-08",
+    "收录时间": "2025-02-06",
+    "更新时间": "2025-02-06",
+    "漏洞附件": "(无附件)"
+}

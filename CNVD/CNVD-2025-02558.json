@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Linux kernel net:lapb模块缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-02558",
+    "公开日期": "2025-01-14",
+    "危害级别": "中",
+    "影响产品": "Linux Kernel",
+    "CVE ID": "CVE-2024-56659",
+    "漏洞描述": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。\nLinux kernel存在缓冲区溢出漏洞，该漏洞源于net:lapb模块中LAPB_HEADER_LEN值不足，远程攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务攻击。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-56659",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/03e661b5e7aa1124f24054df9ab2ee5cb2178973",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/651511",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-03",
+    "收录时间": "2025-02-06",
+    "更新时间": "2025-02-06",
+    "漏洞附件": "(无附件)"
+}

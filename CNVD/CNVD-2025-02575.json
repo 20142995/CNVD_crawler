@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Dell BIOS缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-02575",
+    "公开日期": "2025-01-22",
+    "危害级别": "高",
+    "影响产品": "DELL Alienware m15 R6 <1.22.1\nDELL Alienware m15 R7 <1.17.0\nDELL ChengMing 3900/3901 <1.13.0\nDELL Dell G15 5510 <1.19.0\nDELL Dell G15 5511 <1.22.1\nDELL Dell G15 5520 <1.17.0\nDELL Inspiron 14? 5410/5418 <2.19.1\nDELL Inspiron 14 Plus 7420 <1.13.0\nDELL Inspiron 15 3511 <1.22.1\nDELL Inspiron 15 5510/5518 <2.19.1\nDELL Inspiron 16 7620 2-in-1 <1.12.1\nDELL Inspiron 16 Plus 7620 <1.13.0\nDELL Inspiron 3511 <1.22.1\nDELL Inspiron 3520 <1.15.0\nDELL Inspiron 3891 <1.18.1\nDELL Inspiron 3910 <1.13.0\nDELL Inspiron 5310 <2.20.1\nDELL Inspiron 5320 <1.11.1\nDELL Inspiron 5410 <2.19.1\nDELL Inspiron 5420 <1.14.1\nDELL Inspiron 5620 <1.14.1\nDELL Inspiron 7420 <1.12.1\nDELL Inspiron 7510 <1.16.1\nDELL Inspiron 7610 <1.16.1\nDELL Latitude 3120 <1.17.2\nDELL Latitude 3320 <1.22.2\nDELL Latitude 3330 <1.13.0\nDELL Latitude 3420 <1.29.0\nDELL Latitude 3430 <1.10.1\nDELL Latitude 3520 <1.29.0\nDELL Latitude 3530 <1.10.1\nDELL Latitude 5320 <1.28.1\nDELL Latitude 5330 <1.13.1\nDELL Latitude 5520 <1.28.1\nDELL Latitude 5530 <1.13.2\nDELL Latitude 5531 <1.14.1\nDELL Latitude 7330 <1.14.1\nDELL Latitude 7430 <1.14.1\nDELL Latitude 7530 <1.14.1\nDELL Latitude Rugged 5430 <1.18.1\nDELL Latitude Rugged 7330 <1.18.1\nDELL OptiPlex 3000 <1.13.1\nDELL OptiPlex 5000 <1.13.1\nDELL OptiPlex 5400 <1.1.28\nDELL OptiPlex 7000 <1.13.1\nDELL OptiPlex 7000 OEM <1.13.1\nDELL OptiPlex 7400 <1.1.28\nDELL OptiPlex All-in-One 7410 <1.4.1\nDELL Precision 3560 <1.28.1\nDELL Precision 3570 <1.13.2\nDELL Precision 3571 <1.14.1\nDELL Precision 5760 <1.20.1\nDELL Precision 5770 <1.17.1\nDELL Vostro 3420 <1.15.0\nDELL Vostro 3510 <1.22.1\nDELL Vostro 3520 <1.15.0\nDELL Vostro 3910 <1.13.0\nDELL Vostro 5310 <2.20.1\nDELL Vostro 5320 <1.11.1\nDELL Vostro 5410 <2.19.1\nDELL Vostro 5510 <2.19.1\nDELL Vostro 5620 <1.14.1\nDELL Vostro 7510 <1.16.1\nDELL Vostro 7620 <1.13.0\nDELL XPS 13 9315 2-in-1 <1.8.1\nDELL XPS 17 9710 <1.20.1\nDELL XPS 17 9720 <1.17.1",
+    "CVE ID": "CVE-2023-28064",
+    "漏洞描述": "Dell BIOS是美国戴尔（Dell）公司的一个计算机主板上小型内存芯片上的嵌入式软件。\nDell BIOS存在安全漏洞。攻击者利用该漏洞导致系统拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2023-28064",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000214778/dsa-2023-174-dell-client-bios-security-update-for-an-out-of-bounds-write-vulnerability",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/652881",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2023-06-28",
+    "收录时间": "2025-02-06",
+    "更新时间": "2025-02-06",
+    "漏洞附件": "(无附件)"
+}

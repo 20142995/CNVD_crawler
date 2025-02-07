@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Cisco IOS Software和IOS XE Software访问控制错误漏洞",
+    "CNVD-ID": "CNVD-2025-01387",
+    "公开日期": "2025-01-14",
+    "危害级别": "中",
+    "影响产品": "Cisco IOS Software \nCisco IOS XE Software",
+    "CVE ID": "CVE-2024-20373",
+    "漏洞描述": "Cisco IOS和IOS XE都是美国思科（Cisco）公司的一套为其网络设备开发的操作系统。\nCisco IOS Software和IOS XE Software的简单网络管理协议（SNMP）IPv4访问控制列表功能存在访问控制错误漏洞，该漏洞源于程序不支持SNMP的扩展IPv4 ACL，攻击者可利用该漏洞执行本应被禁止的SNMP操作。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-20373",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-snmp-uwBXfqww",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/651376",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-03",
+    "收录时间": "2025-01-14",
+    "更新时间": "2025-01-14",
+    "漏洞附件": "(无附件)"
+}

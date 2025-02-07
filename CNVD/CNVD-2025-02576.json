@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Dell BIOS输入验证错误漏洞（CNVD-2025-02576）",
+    "CNVD-ID": "CNVD-2025-02576",
+    "公开日期": "2025-01-22",
+    "危害级别": "中",
+    "影响产品": "Dell BIOS",
+    "CVE ID": "CVE-2023-28031",
+    "漏洞描述": "Dell BIOS是美国戴尔（Dell）公司的一个计算机主板上小型内存芯片上的嵌入式软件。\nDell BIOS存在输入验证错误漏洞，该漏洞源于输入验证不正确。攻击者利用该漏洞可以修改UEFI变量。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2023-28031",
+    "漏洞解决方案": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接： \nhttps://www.dell.com/support/kbdoc/en-us/000212204/dsa-2023-099-dell-client-bios-security-update-for-multiple-improper-input-validation-vulnerabilities",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/652891",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2023-06-28",
+    "收录时间": "2025-02-06",
+    "更新时间": "2025-02-06",
+    "漏洞附件": "(无附件)"
+}

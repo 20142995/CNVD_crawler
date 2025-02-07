@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Ffmpeg代码问题漏洞（CNVD-2025-02574）",
+    "CNVD-ID": "CNVD-2025-02574",
+    "公开日期": "2024-01-16",
+    "危害级别": "高",
+    "影响产品": "FFmpeg FFmpeg 4.3",
+    "CVE ID": "CVE-2020-36138",
+    "漏洞描述": "FFmpeg是FFmpeg团队的一套可录制、转换以及流化音视频的完整解决方案。\nFFmpeg 4.3版本存在安全漏洞，该漏洞源于libavcodec/tiff.c文件中的decode_frame函数存在漏洞。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://lists.ffmpeg.org/pipermail/ffmpeg-devel/2020-November/272001.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://trac.ffmpeg.org/ticket/8960",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/651721",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2023-08-15",
+    "收录时间": "2025-02-06",
+    "更新时间": "2025-02-06",
+    "漏洞附件": "(无附件)"
+}

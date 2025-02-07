@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Cisco Nexus 3500 Series Switches权限许可和访问控制问题漏洞",
+    "CNVD-ID": "CNVD-2025-01391",
+    "公开日期": "2025-01-14",
+    "危害级别": "中",
+    "影响产品": "Cisco Cisco Nexus 3500 Series Switches <1.17.2",
+    "CVE ID": "CVE-2024-20371",
+    "漏洞描述": "Cisco Nexus 3500 Series Switches是美国思科（Cisco）公司的一款3500系列交换机。\nCisco Nexus 3500 Series Switches存在权限许可和访问控制问题漏洞，该漏洞源于设备重启时ACL拒绝规则未得到正确执行。未经身份验证的远程攻击者可利用该漏洞将应被阻止的流量发送到受影响设备的管理接口。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-20371",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-3550-acl-bypass-mhskZc2q",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/651401",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-13",
+    "收录时间": "2025-01-14",
+    "更新时间": "2025-01-14",
+    "漏洞附件": "(无附件)"
+}

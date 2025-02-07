@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Cisco BroadWorks资源管理错误漏洞",
+    "CNVD-ID": "CNVD-2025-01389",
+    "公开日期": "2025-01-14",
+    "危害级别": "高",
+    "影响产品": "Cisco Cisco BroadWorks",
+    "CVE ID": "CVE-2023-20125",
+    "漏洞描述": "Cisco BroadWorks是美国思科（Cisco）公司的一个运营商级统一通信软件平台。用于在任何类型的有线或无线网络架构上部署来自公共网络平台的云呼叫。\nCisco BroadWorks存在资源管理错误漏洞，该漏洞源于某些传入TCP连接未发生速率限制。未经身份验证的远程攻击者可利用该漏洞能够耗尽系统资源，从而导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-20125",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-bw-tcp-dos-KEdJCxLs",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/651386",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-21",
+    "收录时间": "2025-02-06",
+    "更新时间": "2025-02-06",
+    "漏洞附件": "(无附件)"
+}

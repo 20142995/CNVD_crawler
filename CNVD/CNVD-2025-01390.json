@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Cisco Industrial Network Director操作系统命令注入漏洞",
+    "CNVD-ID": "CNVD-2025-01390",
+    "公开日期": "2025-01-14",
+    "危害级别": "高",
+    "影响产品": "Cisco Industrial Network Director",
+    "CVE ID": "CVE-2023-20036",
+    "漏洞描述": "Cisco Industrial Network Director（IND）是美国思科（Cisco）公司的一套工业自动化管理系统。该系统通过对工业以太网基础设施的可视化操作来实现自动化管理。\nCisco Industrial Network Director存在操作系统命令注入漏洞，该漏洞源于上传设备包时输入验证不当。经过身份验证的远程攻击者可利用该漏洞能够在受影响设备的底层操作系统上以管理权限执行任意命令。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-20036",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ind-CAeLFk6V",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/651406",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-21",
+    "收录时间": "2025-01-14",
+    "更新时间": "2025-01-14",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Broadcom Symantec Privileged Access Management权限提升漏洞",
+    "CNVD-ID": "CNVD-2025-02587",
+    "公开日期": "2025-02-06",
+    "危害级别": "高",
+    "影响产品": "Broadcom Broadcom Symantec Privileged Access Management >=3.4.0.0，<3.4.6.05\nBroadcom Broadcom Symantec Privileged Access Management >=4.0.0.0，<4.0.0.05\nBroadcom Broadcom Symantec Privileged Access Management >=4.0.1.0，<4.0.1.19\nBroadcom Broadcom Symantec Privileged Access Management >=4.0.2.0，<4.0.2.04\nBroadcom Broadcom Symantec Privileged Access Management >=4.0.3.0，<4.0.3.01\nBroadcom Broadcom Symantec Privileged Access Management >=4.1.0.0，<4.1.0.10",
+    "CVE ID": "CVE-2022-25625",
+    "漏洞描述": "Broadcom Symantec Privileged Access Management是美国博通（Broadcom）公司的一种安全软件。通过保护敏感的管理凭据、控制特权用户访问、主动实施安全策略以及监控和记录虚拟、云和物理环境中的特权用户活动来帮助防止安全漏洞。\nBroadcom Symantec Privileged Access Management存在权限提升漏洞。该漏洞源于启用多因素身份验证 (MFA) 后，恶意PAM未经授权的用户可以访问具有读取和写入权限的PAM配置端点，攻击者可利用该漏洞访问管理配置数据并更改值。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://support.broadcom.com/external/content/SecurityAdvisories/0/20850",
+    "漏洞解决方案": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://support.broadcom.com/external/content/SecurityAdvisories/0/20850",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/654461",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2022-08-31",
+    "收录时间": "2025-02-07",
+    "更新时间": "2025-02-07",
+    "漏洞附件": "(无附件)"
+}

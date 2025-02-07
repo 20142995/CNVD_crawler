@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Dell Common Event Enabler访问控制错误漏洞",
+    "CNVD-ID": "CNVD-2025-02572",
+    "公开日期": "2025-01-22",
+    "危害级别": "中",
+    "影响产品": "DELL Common Event Enabler 8.9.8.2",
+    "CVE ID": "CVE-2023-32477",
+    "漏洞描述": "Dell Common Event Enabler是美国戴尔（Dell）公司的一个框架。\nDell Common Event Enabler存在访问控制错误漏洞，该漏洞源于访问控制不正确。攻击者可利用该漏洞提升权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-32477",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://www.dell.com/support/kbdoc/en-us/000218120/dsa-2023-310-security-update-for-dell-emc-common-event-enabler",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/652871",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2023-10-13",
+    "收录时间": "2025-02-06",
+    "更新时间": "2025-02-06",
+    "漏洞附件": "(无附件)"
+}

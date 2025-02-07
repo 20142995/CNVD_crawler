@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Linux Kernel内存错误引用漏洞（CNVD-2025-02555）",
+    "CNVD-ID": "CNVD-2025-02555",
+    "公开日期": "2025-01-14",
+    "危害级别": "中",
+    "影响产品": "Linux linux_kernel >=5.18，<6.1.123",
+    "CVE ID": "CVE-2024-56765",
+    "漏洞描述": "Linux Kernel是一个开放源码的操作系统内核，它是操作系统的核心组件之一。\nLinux Kernel存在内存错误引用漏洞。该漏洞产生的原因是VAS窗口在映射粘贴地址时，将VMA地址保存在VAS窗口结构中。攻击者可利用该漏洞进行拒绝服务攻击。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://git.kernel.org/stable/c/05aa156e156ef3168e7ab8a68721945196495c17\nhttps://git.kernel.org/stable/c/6d9cd27105459f169993a4c5f216499a946dbf34\nhttps://git.kernel.org/stable/c/8b2282b5084521254a2cd9742a3f4e1d5b77f843\nhttps://git.kernel.org/stable/c/b7f60ffdfd96f8fc826f1d61a1c6067d828e20b9",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/b7f60ffdfd96f8fc826f1d61a1c6067d828e20b9",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/651501",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-08",
+    "收录时间": "2025-02-06",
+    "更新时间": "2025-02-06",
+    "漏洞附件": "(无附件)"
+}
