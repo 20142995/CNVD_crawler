@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Samsung Dialer信息泄露漏洞（CNVD-2025-02600）",
+    "CNVD-ID": "CNVD-2025-02600",
+    "公开日期": "2025-02-08",
+    "危害级别": "中",
+    "影响产品": "Samsung Samsung mobile devices P(9.0)\nSamsung Samsung mobile devices Q(10.0)\nSamsung Samsung mobile devices R(11.0)",
+    "CVE ID": "CVE-2022-22270",
+    "漏洞描述": "Samsung Dialer是三星（Samsung）移动设备的一个拨号功能。\nSamsung Dialer存在信息泄露漏洞，该漏洞源于Dialer中存在隐式意图劫持的情况，攻击者可利用该漏洞访问联系人信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2022-22270",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://security.samsungmobile.com/securityUpdate.smsb?year=2022&month=1",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/355576",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2022-01-21",
+    "收录时间": "2025-02-08",
+    "更新时间": "2025-02-08",
+    "漏洞附件": "(无附件)"
+}

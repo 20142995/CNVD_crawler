@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Schneider Electric System Monitor application信息泄露漏洞",
+    "CNVD-ID": "CNVD-2025-02598",
+    "公开日期": "2024-10-08",
+    "危害级别": "低",
+    "影响产品": "Schneider Electric Schneider Electric System Monitor application",
+    "CVE ID": "CVE-2024-8884",
+    "漏洞描述": "Schneider Electric System Monitor application是法国施耐德电气（Schneider Electric）公司的一个工控设备中的系统监控程序。\nSchneider Electric System Monitor application存在信息泄露漏洞，该漏洞源于应用对于敏感信息保护不足，攻击者可利用漏洞通过http访问网络上的应用程序，获取用户凭据。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2024-282-07&p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2024-282-07.pdf",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2024-282-07&p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2024-282-07.pdf",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/654591",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-17",
+    "收录时间": "2025-02-08",
+    "更新时间": "2025-02-08",
+    "漏洞附件": "(无附件)"
+}

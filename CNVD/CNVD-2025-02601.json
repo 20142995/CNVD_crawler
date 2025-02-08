@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens Tecnomatix Plant Simulation缓冲区错误漏洞",
+    "CNVD-ID": "CNVD-2025-02601",
+    "公开日期": "2025-02-08",
+    "危害级别": "高",
+    "影响产品": "Siemens Tecnomatix Plant Simulation <16.0.5",
+    "CVE ID": "CVE-2021-27397",
+    "漏洞描述": "Siemens Tecnomatix Plant Simulation是德国西门子（Siemens）公司的一个工控设备。利用离散事件仿真的强大功能进行生产量分析和优化，进而改善制造系统性能。\nTecnomatix Plant Simulation 16.0.5之前版本存在缓冲区错误漏洞。该漏洞源于程序解析SPP文件时，PlantSimCore.dll库缺少对用户提供的数据的正确验证。攻击者可利用漏洞导致内存损坏。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://us-cert.cisa.gov/ics/advisories/icsa-21-131-08",
+    "漏洞解决方案": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://cert-portal.siemens.com/productcert/pdf/ssa-983548.pdf",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/393641",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2021-05-12",
+    "收录时间": "2025-02-08",
+    "更新时间": "2025-02-08",
+    "漏洞附件": "(无附件)"
+}

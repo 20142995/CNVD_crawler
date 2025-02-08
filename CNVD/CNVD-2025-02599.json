@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Samsung Galaxy S22 StrongBox状态维护错误漏洞",
+    "CNVD-ID": "CNVD-2025-02599",
+    "公开日期": "2025-02-08",
+    "危害级别": "低",
+    "影响产品": "Samsung galaxy s22 firmware",
+    "CVE ID": "CVE-2022-28793",
+    "漏洞描述": "Samsung Galaxy S22是三星于2022年2月9日发布的智能手机产品。\nSamsung Galaxy S22 StrongBox存在状态维护错误漏洞，该漏洞源于StrongBox状态维护不正确。攻击者可利用该漏洞在破坏TEE后在设备启动周期内更改Android ROT。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2022-28793",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://security.samsungmobile.com/serviceWeb.smsb?year=2022&month=5",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/654601",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2022-05-16",
+    "收录时间": "2025-02-08",
+    "更新时间": "2025-02-08",
+    "漏洞附件": "(无附件)"
+}
