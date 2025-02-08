@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "SevOne Network Management System CSV注入漏洞",
+    "CNVD-ID": "CNVD-2025-02592",
+    "公开日期": "2025-02-07",
+    "危害级别": "中",
+    "影响产品": "SevOne sevone network performance management >=5.7.2.0，<=5.7.2.22",
+    "CVE ID": "CVE-2020-36531",
+    "漏洞描述": "SevOne Network Management System是美国SevOne公司的一个适用于现代NetOps的最全面、可扩展且以应用程序为中心的网络性能监控系统。\nSevOne Network Management System 5.7.2.0（包含）到5.7.2.22（包含）版本存在CSV注入漏洞，远程攻击者利用该漏洞可通过注入进行权限提升。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2020-36531",
+    "漏洞解决方案": "厂商尚未提供漏洞修复方案，请关注厂商主页更新： \nhttps://www.sevone.com/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2022-06-16",
+    "收录时间": "2025-02-08",
+    "更新时间": "2025-02-08",
+    "漏洞附件": "(无附件)"
+}

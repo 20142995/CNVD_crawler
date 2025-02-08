@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Northstar Club Management操作系统命令注入漏洞",
+    "CNVD-ID": "CNVD-2025-02594",
+    "公开日期": "2025-02-07",
+    "危害级别": "高",
+    "影响产品": "globalnorthstar northstar club management 6.3",
+    "CVE ID": "CVE-2021-29393",
+    "漏洞描述": "Northstar Club Management是美国北极星（Northstar）公司的一个基于 Web 的解决方案，让企业可以管理俱乐部的所有元素，例如会员资格、客人、活动等。\nNorthstar Club Management 6.3版本存在操作系统命令注入漏洞，该漏洞源于软件针对于command和commandvalues参数缺少有效的过滤与转义。攻击者可利用该漏洞进行参数注入和执行任意系统命令。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://ardent-security.com",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://ardent-security.com/en/advisory/asa-2021-01/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/351966",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2022-02-21",
+    "收录时间": "2025-02-08",
+    "更新时间": "2025-02-08",
+    "漏洞附件": "(无附件)"
+}

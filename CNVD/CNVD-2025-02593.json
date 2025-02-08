@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Cedar Gate EZ-NET跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2025-02593",
+    "公开日期": "2025-02-07",
+    "危害级别": "中",
+    "影响产品": "Cedar Gate EZ-NET portal 6.5.5\nCedar Gate EZ-NET portal 6.6.3\nCedar Gate EZ-NET portal 6.7.0\nCedar Gate EZ-NET portal 6.8.0",
+    "CVE ID": "CVE-2022-23397",
+    "漏洞描述": "Cedar Gate EZ-NET是英国Cedar公司的一个互联网门户应用程序。\nThe Cedar Gate EZ-NET 6.5.5、6.6.3、6.7.0和6.8.0存在跨站脚本漏洞，该漏洞源于The Cedar Gate EZ-NET 6.5.5、6.8.0有一个调用来向用户显示消息，这些消息没有正确清理通过URL参数发送的数据，这会导致反射型跨站脚本漏洞。攻击者可利用该漏洞进行跨站脚本攻击。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2022-23397/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://ado.im/cedar-gate-ez-net",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/351226",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2022-03-08",
+    "收录时间": "2025-02-08",
+    "更新时间": "2025-02-08",
+    "漏洞附件": "(无附件)"
+}
