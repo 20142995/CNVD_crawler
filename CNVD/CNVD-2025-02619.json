@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Samsung Knox Guard执行错误漏洞",
+    "CNVD-ID": "CNVD-2025-02619",
+    "公开日期": "2025-02-10",
+    "危害级别": "低",
+    "影响产品": "Samsung Samsung mobile devices P(9.0)\nSamsung Samsung mobile devices Q(10.0)\nSamsung Samsung mobile devices R(11.0)\nSamsung Samsung Mobile devices S(12.0)",
+    "CVE ID": "CVE-2022-22268",
+    "漏洞描述": "Samsung Knox Guard是韩国三星（Samsung）公司的一款基于开源Android平台的安全解决方案，可以通过物理手段和软件体系相结合的方式全面增强了安全性，同时完美兼容安卓及谷歌生态系统，为企业及员工个人带来行业领先的企业移动安全解决方案。\nSamsung Knox Guard存在执行错误漏洞，该漏洞源于KnoxGuard锁定时，Samsung DeX模式会运行。攻击者可利用该漏洞通过Samsung DeX模式临时解锁Knox Guard。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2022-22268",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://security.samsungmobile.com/securityUpdate.smsb?year=2022&month=1",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/355556",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2022-01-21",
+    "收录时间": "2025-02-11",
+    "更新时间": "2025-02-11",
+    "漏洞附件": "(无附件)"
+}
