@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Samsung Mobile DressRoom任意文件访问漏洞",
+    "CNVD-ID": "CNVD-2025-02715",
+    "公开日期": "2025-02-11",
+    "危害级别": "低",
+    "影响产品": "Samsung Q(10) \nSamsung Dressroom R(11.0) null\nSamsung S(12)",
+    "CVE ID": "CVE-2022-22264",
+    "漏洞描述": "Samsung Mobile是韩国三星（Samsung）公司的一款手机。 \nSamsung Mobile DressRoom存在任意文件访问漏洞，该漏洞源于对Dressroom中的Incoming Intent进行错误的清理，本地攻击者可利用该漏洞在未经许可的情况下读取和写入任意文件。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2022-22264",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://security.samsungmobile.com/securityUpdate.smsb?year=2022&month=1",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/353916",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2022-01-18",
+    "收录时间": "2025-02-12",
+    "更新时间": "2025-02-12",
+    "漏洞附件": "(无附件)"
+}

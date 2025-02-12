@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Weasis密钥泄露漏洞",
+    "CNVD-ID": "CNVD-2025-02714",
+    "公开日期": "2025-02-11",
+    "危害级别": "低",
+    "影响产品": "Weasis Weasis 4.5.1",
+    "CVE ID": "CVE-2024-55557",
+    "漏洞描述": "Weasis‌是一款开源的DICOM医学图片查看器，主要用于可视化从医学成像设备获得的图像。\nWeasis 4.5.1版本存在密钥泄露漏洞，该漏洞源于在weasis-core 中的ui/pref/ProxyPrefView.java中具有用于代理凭据对称加密的硬编码密钥。攻击者可以利用该漏洞解密和访问存储的代理凭证。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://apps.microsoft.com/detail/9nhtv46lg4nh?hl=en-us&gl=US\nhttps://github.com/nroduit/Weasis/releases/tag/v4.5.1\nhttps://github.com/partywavesec/CVE-2024-55557\nhttps://www.partywave.site/show/research/CVE-2024-55557%20-%20Weasis%204.5.1",
+    "漏洞解决方案": "厂商已发布补丁修复漏洞，请广大用户及时下载更新：\nhttps://nroduit.github.io/Weasis/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/654771",
+    "验证信息": "已验证",
+    "报送时间": "2024-12-19",
+    "收录时间": "2025-02-12",
+    "更新时间": "2025-02-12",
+    "漏洞附件": "(无附件)"
+}
