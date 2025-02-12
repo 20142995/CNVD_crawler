@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "itsourcecode Monbela Tourist Inn Online Reservation System SQL注入漏洞",
+    "CNVD-ID": "CNVD-2025-02722",
+    "公开日期": "2025-02-11",
+    "危害级别": "低",
+    "影响产品": "itsourcecode Monbela Tourist Inn Online Reservation System 1.0",
+    "CVE ID": "CVE-2024-6113",
+    "漏洞描述": "Monbela Tourist Inn Online Reservation System是itsourcecode开源的一款使用PHP开发的旅游酒店在线预订系统，用于存储和检索数据或进行的任何交易。\nitsourcecode Monbela Tourist Inn Online Reservation System login.php存在SQL注入漏洞，攻击者可利用漏洞获取数据库敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vuldb.com/?id.268865",
+    "漏洞解决方案": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：https://itsourcecode.com/free-projects/php-project/monbela-tourist-inn-online-reservation-system/",
+    "厂商补丁": "",
+    "验证信息": "已验证",
+    "报送时间": "2024-06-20",
+    "收录时间": "2025-02-12",
+    "更新时间": "2025-02-12",
+    "漏洞附件": "(无附件)"
+}

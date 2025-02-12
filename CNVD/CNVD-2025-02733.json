@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Samsung DSP驱动程序越界写入漏洞（CNVD-2025-02733）",
+    "CNVD-ID": "CNVD-2025-02733",
+    "公开日期": "2025-02-12",
+    "危害级别": "高",
+    "影响产品": "Samsung Samsung Mobile devices Q(10.0)(Exynos 980芯片组)\nSamsung Samsung Mobile devices Q(10.0) (Exynos 9830芯片组)\nSamsung Samsung Mobile devices Q(10.0) (Exynos 2100芯片组)\nSamsung Samsung Mobile devices R(11.0) (Exynos 980芯片组)\nSamsung Samsung Mobile devices R(11.0) (Exynos 9830芯片组)\nSamsung Samsung Mobile devices R(11.0) (Exynos 2100芯片组)",
+    "CVE ID": "CVE-2021-25372",
+    "漏洞描述": "Samsung DSP驱动程序是三星（Samsung）移动设备的一个数字信号处理驱动程序。\nSamsung DSP驱动程序存在越界写入漏洞，该漏洞源于错误的边界检查，攻击者可利用该漏洞进行越界内存访问。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2021-25372",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://security.samsungmobile.com/securityUpdate.smsb",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/357631",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2021-04-01",
+    "收录时间": "2025-02-12",
+    "更新时间": "2025-02-12",
+    "漏洞附件": "(无附件)"
+}

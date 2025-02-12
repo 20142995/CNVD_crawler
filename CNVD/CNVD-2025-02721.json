@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Samsung SmartThings权限管理漏洞（CNVD-2025-02721）",
+    "CNVD-ID": "CNVD-2025-02721",
+    "公开日期": "2025-02-11",
+    "危害级别": "高",
+    "影响产品": "Samsung SmartThings <1.7.73.22",
+    "CVE ID": "CVE-2021-25508",
+    "漏洞描述": "Samsung SmartThings是韩国三星（Samsung）公司的一款可连接智能设备的应用程序。\nSamsung SmartThings 1.7.73.22之前版本存在权限管理漏洞，该漏洞源于SmartThings使用的API密钥存在权限管理不当的情况，攻击者可利用该漏洞无限制地滥用API密钥。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2021-25508",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://security.samsungmobile.com/serviceWeb.smsb?year=2021&month=11",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/354831",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2021-11-09",
+    "收录时间": "2025-02-12",
+    "更新时间": "2025-02-12",
+    "漏洞附件": "(无附件)"
+}
