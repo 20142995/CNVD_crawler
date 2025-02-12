@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Hitachi Energy RTU500 series CMU firmware缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-02742",
+    "公开日期": "2025-02-13",
+    "危害级别": "高",
+    "影响产品": "Hitachi Energy RTU500 series CMU Firmware >=12.0.1.0，<=12.0.14.0\nHitachi Energy RTU500 series CMU Firmware >=12.2.1.0，<=12.2.11.0\nHitachi Energy RTU500 series CMU Firmware >=12.4.1.0，<=12.4.11.0\nHitachi Energy RTU500 series CMU Firmware >=12.6.1.0，<=12.6.7.0\nHitachi Energy RTU500 series CMU Firmware >=12.7.1.0，<=12.7.3.0\nHitachi Energy RTU500 series CMU Firmware >=13.2.1.0，<=13.2.4.0\nHitachi Energy RTU500 series CMU Firmware 13.3.1.0",
+    "CVE ID": "CVE-2022-2081",
+    "漏洞描述": "RTU500是日本日立制作所（Hitachi）公司的一系列工控组件，主要用于工业控制系统。\nHitachi Energy RTU500 series CMU firmware HCI Modbus TCP功能存在缓冲区溢出漏洞，该漏洞源于启用并配置了HCI Modbus TCP，攻击者可利用漏洞通过向RTU500高速发送特制消息，导致HCI Modbus TCP功能中的内部堆栈溢出，并最终导致RTU500 CMU重新启动。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://us-cert.cisa.gov/ics/advisories/icsa-22-235-07",
+    "漏洞解决方案": "厂商已发布补丁修复漏洞，请广大用户及时下载更新：\nhttps://search.abb.com/library/Download.aspx?DocumentID=8DBD000111&LanguageCode=en&DocumentPartId=&Action=Launch",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/654836",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2022-08-26",
+    "收录时间": "2025-02-12",
+    "更新时间": "2025-02-12",
+    "漏洞附件": "(无附件)"
+}

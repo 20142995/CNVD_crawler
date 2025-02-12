@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Hitachi Energy RTU500 Scripting interface‌信任管理问题漏洞",
+    "CNVD-ID": "CNVD-2025-02738",
+    "公开日期": "2025-02-13",
+    "危害级别": "高",
+    "影响产品": "Hitachi Energy RTU500 Scripting interface 1.0.1.30\nHitachi Energy RTU500 Scripting interface 1.0.2\nHitachi Energy RTU500 Scripting interface 1.1.1",
+    "CVE ID": "CVE-2023-1514",
+    "漏洞描述": "RTU500是日本日立制作所（Hitachi）公司的一系列工控组件，主要用于工业控制系统。RTU500 Scripting interface‌是Hitachi Energy RTU500系列工控组件的一部分，主要用于提供脚本编程接口，以实现特定的自动化控制和数据处理功能。该接口支持通过脚本编程来控制RTU500的各项功能，包括数据采集、控制命令的执行等。\nHitachi Energy RTU500 Scripting interface‌存在信任管理问题漏洞，该漏洞源于客户端不验证证书的参数，攻击者可利用漏洞通过伪造身份并拦截通过脚本接口发起的消息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2023-1514/",
+    "漏洞解决方案": "厂商已发布补丁修复漏洞，请广大用户及时下载更新：\nhttps://publisher.hitachienergy.com/preview?DocumentId=8DBD000152&languageCode=en&Preview=true",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/654816",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2023-12-21",
+    "收录时间": "2025-02-12",
+    "更新时间": "2025-02-12",
+    "漏洞附件": "(无附件)"
+}

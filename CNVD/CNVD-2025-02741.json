@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Hitachi Energy RTU500 series CMU Firmware拒绝服务漏洞",
+    "CNVD-ID": "CNVD-2025-02741",
+    "公开日期": "2025-02-13",
+    "危害级别": "低",
+    "影响产品": "Hitachi Energy RTU500 series CMU Firmware >=12.0.1，<=12.0.14",
+    "CVE ID": "CVE-2023-5768",
+    "漏洞描述": "Hitachi Energy RTU500是日本日立制作所（Hitachi）公司的一系列工控组件。\nHitachi Energy RTU500 series CMU Firmware存在拒绝服务漏洞，该漏洞源于接收到的APDU帧布局不完整或错误，攻击者可利用漏洞导致链路层阻塞。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://publisher.hitachienergy.com/preview?DocumentId=8DBD000176&languageCode=en&Preview=true",
+    "漏洞解决方案": "厂商已发布补丁修复漏洞，请广大用户及时下载更新：\nhttps://publisher.hitachienergy.com/preview?DocumentId=8DBD000176&languageCode=en&Preview=true",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/654831",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2023-12-11",
+    "收录时间": "2025-02-12",
+    "更新时间": "2025-02-12",
+    "漏洞附件": "(无附件)"
+}
