@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Windows Installer权限提升漏洞（CNVD-2025-02836）",
+    "CNVD-ID": "CNVD-2025-02836",
+    "公开日期": "2025-02-11",
+    "危害级别": "中",
+    "影响产品": "Microsoft Window 11 22H2\nMicrosoft Window 11 21H2\nMicrosoft Window 10 \nMicrosoft Windows Server 2022 23H2\nMicrosoft Windows Server 2022 22H2\nMicrosoft Windows Server 2022 24H2",
+    "CVE ID": "CVE-2025-21275",
+    "漏洞描述": "Microsoft Windows Installer是美国微软（Microsoft）公司的Windows操作系统的一个组件。为安装和卸载软件提供了标准基础。\nMicrosoft Windows Installer存在安全漏洞。攻击者可利用该漏洞提升权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-21275",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21275",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/654716",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-17",
+    "收录时间": "2025-02-13",
+    "更新时间": "2025-02-13",
+    "漏洞附件": "(无附件)"
+}

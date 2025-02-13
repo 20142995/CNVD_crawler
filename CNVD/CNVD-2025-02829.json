@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Excel代码问题漏洞（CNVD-2025-02829）",
+    "CNVD-ID": "CNVD-2025-02829",
+    "公开日期": "2025-02-11",
+    "危害级别": "高",
+    "影响产品": "Microsoft Excel",
+    "CVE ID": "CVE-2025-21364",
+    "漏洞描述": "Microsoft Excel是美国微软（Microsoft）公司的一款Office套件中的电子表格处理软件。\nMicrosoft Excel存在代码问题漏洞。攻击者可利用该漏洞绕过某些功能。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-21364",
+    "漏洞解决方案": "目前厂商已发布升级补丁以修复漏洞，详情请关注厂商主页：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21364",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/654696",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-24",
+    "收录时间": "2025-02-13",
+    "更新时间": "2025-02-13",
+    "漏洞附件": "(无附件)"
+}

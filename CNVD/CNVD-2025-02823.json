@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM Planning Analytics文件上传漏洞",
+    "CNVD-ID": "CNVD-2025-02823",
+    "公开日期": "2025-02-13",
+    "危害级别": "高",
+    "影响产品": "IBM IBM Planning Analytics 2.0\nIBM IBM Planning Analytics 2.1",
+    "CVE ID": "CVE-2024-25034",
+    "漏洞描述": "IBM Planning Analytics是美国国际商业机器（IBM）公司的一套业务规划分析解决方案。该方案支持自动化执行业务规划、预算和分析等流程。\nIBM Planning Analytics存在文件上传漏洞，该漏洞源于未在File Manager T1进程中验证文件类型。攻击者可利用该漏洞上传恶意文件从而远程执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-25034",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7168387",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/654871",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-06",
+    "收录时间": "2025-02-13",
+    "更新时间": "2025-02-13",
+    "漏洞附件": "(无附件)"
+}

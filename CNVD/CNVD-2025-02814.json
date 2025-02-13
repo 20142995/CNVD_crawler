@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM App Connect Enterprise Certified Container拒绝服务漏洞（CNVD-2025-02814）",
+    "CNVD-ID": "CNVD-2025-02814",
+    "公开日期": "2025-02-11",
+    "危害级别": "中",
+    "影响产品": "IBM IBM App Connect Enterprise Certified Container  7.1\nIBM IBM App Connect Enterprise Certified Container  7.2\nIBM IBM App Connect Enterprise Certified Container  8.0\nIBM IBM App Connect Enterprise Certified Container  8.1\nIBM IBM App Connect Enterprise Certified Container  8.2\nIBM IBM App Connect Enterprise Certified Container  9.0\nIBM IBM App Connect Enterprise Certified Container  9.1\nIBM IBM App Connect Enterprise Certified Container  9.2\nIBM IBM App Connect Enterprise Certified Container  10.0\nIBM IBM App Connect Enterprise Certified Container  10.1\nIBM IBM App Connect Enterprise Certified Container  11.0\nIBM IBM App Connect Enterprise Certified Container  11.1\nIBM IBM App Connect Enterprise Certified Container  11.2\nIBM IBM App Connect Enterprise Certified Container  11.3\nIBM IBM App Connect Enterprise Certified Container  11.4\nIBM IBM App Connect Enterprise Certified Container  11.5\nIBM IBM App Connect Enterprise Certified Container  11.6\nIBM IBM App Connect Enterprise Certified Container  12.0",
+    "CVE ID": "CVE-2022-22491",
+    "漏洞描述": "IBM App Connect Enterprise Certified Container是美国国际商业机器（IBM）公司的一个基于 IBM App Connect Enterprise 软件产品的映像。以可执行文件的形式提供软件包，可以在容器化环境中部署和运行。\nIBM App Connect Enterprise Certified Container存在安全漏洞，该漏洞源于运行的操作数不限制写入本地文件系统，使得Pod中可用存储耗尽，从而导致该Pod重新启动。攻击者可利用该漏洞导致该Pod重新启动。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2022-22491",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7180500",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/654746",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-08",
+    "收录时间": "2025-02-13",
+    "更新时间": "2025-02-13",
+    "漏洞附件": "(无附件)"
+}
