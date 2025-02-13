@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Oracle Shipping Execution信息泄露漏洞（CNVD-2025-02855）",
+    "CNVD-ID": "CNVD-2025-02855",
+    "公开日期": "2025-02-13",
+    "危害级别": "高",
+    "影响产品": "Oracle Shipping Execution >=12.2.6，<=12.2.10",
+    "CVE ID": "CVE-2021-35563",
+    "漏洞描述": "Oracle E-Business Suite（电子商务套件）是美国甲骨文（Oracle）公司的一套全面集成式的全球业务管理软件。该软件提供了客户关系管理、服务管理、财务管理等功能。\nOracle E-Business Suite的Oracle Shipping Execution存在信息泄露漏洞。攻击者可利用该漏洞通过HTTP网络访问破坏Oracle Shipping Execution，并对Oracle Shipping Execution关键数据和所有可访问数据进行未授权访问、创建、删除和修改。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2021-35563",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.oracle.com/security-alerts/cpuoct2021.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/358731",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2021-10-21",
+    "收录时间": "2025-02-13",
+    "更新时间": "2025-02-13",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Netgear NETGEAR D7000缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-02854",
+    "公开日期": "2025-02-13",
+    "危害级别": "中",
+    "影响产品": "NETGEAR NETGEAR D7000 <1.0.1.82",
+    "CVE ID": "CVE-2021-45636",
+    "漏洞描述": "Netgear NETGEAR D7000是美国网件（Netgear）公司的一款无线调制解调器。\nNETGEAR D7000 1.0.1.82之前版本存在安全漏洞，未经身份验证的攻击者可利用该漏洞进行基于堆栈的缓冲区溢出。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2021-45636",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://kb.netgear.com/000064447/Security-Advisory-for-Pre-Authentication-Stack-Overflow-on-D7000-PSV-2019-0182",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/344811",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2022-01-06",
+    "收录时间": "2025-02-13",
+    "更新时间": "2025-02-13",
+    "漏洞附件": "(无附件)"
+}
