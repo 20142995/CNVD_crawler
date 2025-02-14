@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Linksys RE7000命令注入漏洞",
+    "CNVD-ID": "CNVD-2025-02901",
+    "公开日期": "2025-02-13",
+    "危害级别": "高",
+    "影响产品": "Linksys RE7000 v2.0.11\nLinksys RE7000 v2.0.9\nLinksys RE7000 v2.0.15",
+    "CVE ID": "CVE-2024-25852",
+    "漏洞描述": "Linksys RE7000是美国Linksys公司的一款无线信号扩展器。\nLinksys RE7000存在命令注入漏洞，该漏洞源于AccessControlList参数未能正确过滤构造命令特殊字符、命令等。攻击者可利用该漏洞获取设备管理员权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-25852",
+    "漏洞解决方案": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://immense-mirror-b42.notion.site/Linksys-RE7000-command-injection-vulnerability-c1a47abf5e8d4dd0934d20d77da930bd",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-04-15",
+    "收录时间": "2025-02-14",
+    "更新时间": "2025-02-14",
+    "漏洞附件": "(无附件)"
+}

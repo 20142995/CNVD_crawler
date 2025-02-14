@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Linksys E7350 vif_disable命令注入漏洞",
+    "CNVD-ID": "CNVD-2025-02900",
+    "公开日期": "2025-02-13",
+    "危害级别": "高",
+    "影响产品": "Linksys E7350 1.1.00.032",
+    "CVE ID": "CVE-2024-57228",
+    "漏洞描述": "Linksys E7350是一款领势公司的无线路由器设备。\nLinksys E7350 vif_disable函数处理iface参数存在输入验证漏洞，远程攻击者可利用该漏洞提交特殊的请求，可以应用程序上下文执行任意命令。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/yanggao017/vuln/blob/main/Linksys/E7350/CI_1_vif_disable/README.md",
+    "漏洞解决方案": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://support.linksys.com/kb/article/6935-cn/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/655966",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-13",
+    "收录时间": "2025-02-14",
+    "更新时间": "2025-02-14",
+    "漏洞附件": "(无附件)"
+}
