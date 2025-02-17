@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Dynamics 365 Sales权限提升漏洞",
+    "CNVD-ID": "CNVD-2025-02969",
+    "公开日期": "2025-02-14",
+    "危害级别": "高",
+    "影响产品": "Microsoft Dynamics 365",
+    "CVE ID": "CVE-2025-21177",
+    "漏洞描述": "Microsoft Dynamics 365 Sales是一款旨在简化和提升销售过程的强大工具，为销售团队提供洞察力和数据，以建立牢固的客户关系并有效达成交易。\nMicrosoft Dynamics 365 Sales存在权限提升漏洞，攻击者可利用该漏洞提升权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-21177",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2025-21177",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/656081",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-13",
+    "收录时间": "2025-02-17",
+    "更新时间": "2025-02-17",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Excel远程代码执行漏洞",
+    "CNVD-ID": "CNVD-2025-02970",
+    "公开日期": "2025-02-13",
+    "危害级别": "高",
+    "影响产品": "Microsoft 365 Apps for Enterprise <https://aka.ms/OfficeSecurityReleases\nMicrosoft 365 Apps for Enterprise 16.0.1\nMicrosoft Office LTSC 2021 <https://aka.ms/OfficeSecurityReleases\nMicrosoft Office LTSC 2021 16.0.1\nMicrosoft Office LTSC 2024 <https://aka.ms/OfficeSecurityReleases\nMicrosoft Office LTSC 2024 1.0.0\nMicrosoft Office Online Server <16.0.10416.20058\nMicrosoft Office Online Server 1.0.0\nMicrosoft Office 2019 <https://aka.ms/OfficeSecurityReleases\nMicrosoft Office 2019 19.0.0\nMicrosoft Office LTSC for Mac 2021 <16.94.25020927\nMicrosoft Office LTSC for Mac 2021 16.0.1\nMicrosoft Office LTSC for Mac 2024 <16.94.25020927\nMicrosoft Office LTSC for Mac 2024 1.0.0\nMicrosoft Excel 2016 <16.0.5487.1000\nMicrosoft Excel 2016 16.0.0.0",
+    "CVE ID": "CVE-2025-21381",
+    "漏洞描述": "Microsoft Excel是微软公司为使用Windows和macOS操作系统的电脑编写的一款电子表格软件。\nMicrosoft Excel存在远程代码执行漏洞，攻击者可利用该漏洞在目标主机上执行代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-21381",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2025-21381",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/655986",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-13",
+    "收录时间": "2025-02-17",
+    "更新时间": "2025-02-17",
+    "漏洞附件": "(无附件)"
+}

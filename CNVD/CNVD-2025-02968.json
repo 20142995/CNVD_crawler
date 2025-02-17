@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft SharePoint授权问题漏洞（CNVD-2025-02968）",
+    "CNVD-ID": "CNVD-2025-02968",
+    "公开日期": "2025-02-14",
+    "危害级别": "高",
+    "影响产品": "Microsoft SharePoint Server 2016 \nMicrosoft SharePoint Server 2019 \nMicrosoft SharePoint Server <16.0.17928.20356",
+    "CVE ID": "CVE-2025-21348",
+    "漏洞描述": "Microsoft SharePoint是美国微软（Microsoft）公司的一套企业业务协作平台。该平台用于对业务信息进行整合，并能够共享工作、与他人协同工作、组织项目和工作组、搜索人员和信息。\nMicrosoft SharePoint存在授权问题漏洞。攻击者利用该漏洞可以远程执行代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-21348\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21348",
+    "漏洞解决方案": "目前厂商已发布升级补丁以修复漏洞，详情请关注厂商主页：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21348",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/656071",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-14",
+    "收录时间": "2025-02-17",
+    "更新时间": "2025-02-17",
+    "漏洞附件": "(无附件)"
+}
