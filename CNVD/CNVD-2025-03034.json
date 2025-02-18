@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens SIPROTEC 5敏感信息明文存储漏洞",
+    "CNVD-ID": "CNVD-2025-03034",
+    "公开日期": "2025-02-18",
+    "危害级别": "中",
+    "影响产品": "Siemens SIPROTEC 5 - CP300 Devices \nSiemens SIPROTEC 5 - CP200 Devices \nSiemens SIPROTEC 5 - CP150 Devices \nSiemens SIPROTEC 5 - CP100 Devices \nSiemens SIPROTEC 5 - CP050 Devices",
+    "CVE ID": "CVE-2024-53651",
+    "漏洞描述": "SIPROTEC 5设备为变电站和其他应用领域提供一系列集成保护、控制、测量和自动化功能。\nSiemens SIPROTEC 5存在敏感信息明文存储漏洞，该漏洞产生的原因是受影响的SIPROTEC 5设备不会加密其PCB上板载闪存中的某些数据，具有物理访问权限的攻击者可利用漏洞从设备的文件系统中读取敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-111547.html",
+    "漏洞解决方案": "厂商尚未提供漏洞修复方案，请关注厂商主页更新： \nhttp://www.siemens.com/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-11",
+    "收录时间": "2025-02-18",
+    "更新时间": "2025-02-18",
+    "漏洞附件": "(无附件)"
+}
