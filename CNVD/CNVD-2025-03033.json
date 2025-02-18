@@ -1,0 +1,17 @@
+{
+    "漏洞标题": "Siemens SiPass integrated第三方组件DotNetZip目录遍历漏洞",
+    "CNVD-ID": "CNVD-2025-03033",
+    "公开日期": "2025-02-19",
+    "危害级别": "高",
+    "影响产品": "Siemens SiPass integrated <V2.90.3.19\nSiemens SiPass integrated <V2.95.3.15",
+    "漏洞描述": "‌Siemens SiPass integrated‌是一种强大且灵活的门禁控制系统，适用于各种规模的组织，从简单的办公室到包含成千上万个门、闸、障碍和电梯的大型复杂设施。\nSiemens SiPass integrated第三方组件DotNetZip存在目录遍历漏洞，如果使用特制的备份集进行还原，攻击者可利用漏洞在应用程序服务器上执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-992434.html",
+    "漏洞解决方案": "厂商已发布升级版本修复漏洞，请广大用户及时下载更新：\nhttps://support.industry.siemens.com/cs/ww/en/view/109814044/\nhttps://support.industry.siemens.com/cs/ww/en/view/109827049/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/656356",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-18",
+    "收录时间": "2025-02-18",
+    "更新时间": "2025-02-18",
+    "漏洞附件": "(无附件)"
+}
