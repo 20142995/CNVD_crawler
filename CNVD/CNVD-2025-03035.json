@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens多款SIMATIC产品Web服务器用户枚举漏洞",
+    "CNVD-ID": "CNVD-2025-03035",
+    "公开日期": "2025-02-18",
+    "危害级别": "中",
+    "影响产品": "Siemens SIMATIC Drive Controller family >=V3.1.0，<V3.1.2\nSiemens SIMATIC ET 200SP Open Controller CPU 1515SP PC2 (incl. SIPLUS variants) >=V30.1.0\nSiemens SIMATIC S7-1200 CPU family V4 (incl. SIPLUS variants) <4.7\nSiemens SIMATIC S7-1500 CPU family (incl. related ET200 CPUs and SIPLUS variants) >=V3.1.0，<V3.1.2\nSiemens SIMATIC S7-1500 Software Controller >=V30.1.0\nSiemens SIMATIC S7-PLCSIM Advanced >=V6.0，<V7.0",
+    "CVE ID": "CVE-2023-37482",
+    "漏洞描述": "SIMATIC Drive Controllers专为生产机器的自动化而设计，结合了SIMATIC S7-1500 CPU和SINAMICS S120驱动控制的功能。SIMATIC ET 200SP Open Controller是SIMATIC S7-1500控制器的基于PC的版本，包括一个紧凑的设备中的可选可视化和中央I/O组合。SIMATIC S7-1200 CPU产品专为全球制造、食品和饮料以及化工行业等工业环境中的离散和连续控制而设计。SIMATIC S7-1200 CPU产品专为全球制造、食品和饮料以及化工行业等工业环境中的离散和连续控制而设计。SIMATIC S7-1500 CPU产品专为全球制造、食品和饮料以及化工行业等工业环境中的离散和连续控制而设计。SIMATIC S7-1500 Software Controller是用于基于PC的自动化解决方案的SIMATIC软件控制器。SIMATIC S7-PLCSIM Advanced可仿真S7-1200、S7-1500和其他一些PLC衍生产品。包括完整的网络访问，以模拟PLC，即使在虚拟化环境中也是如此。\nSiemens多款SIMATIC产品Web服务器存在用户枚举漏洞，未经身份验证的远程攻击者可利用漏洞识别有效的用户名。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-195895.html",
+    "漏洞解决方案": "厂商已为多个受影响的产品发布了新版本，并建议更新到最新版本，并为尚未提供修复的产品推荐具体的对策：\nhttps://cert-portal.siemens.com/productcert/html/ssa-195895.html",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-11",
+    "收录时间": "2025-02-18",
+    "更新时间": "2025-02-18",
+    "漏洞附件": "(无附件)"
+}
