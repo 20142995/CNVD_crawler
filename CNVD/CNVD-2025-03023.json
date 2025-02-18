@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM Common Licensing信息泄露漏洞",
+    "CNVD-ID": "CNVD-2025-03023",
+    "公开日期": "2025-02-18",
+    "危害级别": "中",
+    "影响产品": "IBM IBM Common Licensing v9.0",
+    "CVE ID": "CVE-2023-50945",
+    "漏洞描述": "IBM Common Licensing是美国国际商业机器（IBM）公司的一个许可证管理解决方案。\nIBM Common Licensing存在信息泄露漏洞，该漏洞源于以纯明文形式存储用户凭据，攻击者可利用此漏洞导致本地用户可以读取。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.ibm.com/support/pages/node/7161947",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7161947",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/656291",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-06",
+    "收录时间": "2025-02-18",
+    "更新时间": "2025-02-18",
+    "漏洞附件": "(无附件)"
+}

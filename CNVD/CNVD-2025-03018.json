@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Google Android代码执行漏洞（CNVD-2025-03018）",
+    "CNVD-ID": "CNVD-2025-03018",
+    "公开日期": "2025-02-17",
+    "危害级别": "高",
+    "影响产品": "Android Android 6.0\nGoogle Android 7.0\nGoogle Android 7.1.1\nAndroid Android 6.0.1\nGoogle Android 7.1.2\nGoogle Android 8.0\nGoogle Android 8.1",
+    "CVE ID": "CVE-2018-9430",
+    "漏洞描述": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。\nGoogle Android存在代码执行漏洞，该漏洞是由btif_storage.cc的prop2cfg中的越界写入引起的。攻击者可以利用该漏洞在系统上运行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://source.android.com/docs/security/bulletin/pixel/2018-07-01",
+    "漏洞解决方案": "目前厂商已发布升级补丁以修复漏洞，详情请关注厂商主页：\nhttps://source.android.com/docs/security/bulletin/pixel/2018-07-01",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/656301",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-03",
+    "收录时间": "2025-02-18",
+    "更新时间": "2025-02-18",
+    "漏洞附件": "(无附件)"
+}

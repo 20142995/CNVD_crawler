@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM Maximo Asset Management文件上传漏洞",
+    "CNVD-ID": "CNVD-2025-03025",
+    "公开日期": "2025-02-18",
+    "危害级别": "中",
+    "影响产品": "IBM IBM Maximo Asset Management 7.6.1.3",
+    "CVE ID": "CVE-2024-45077",
+    "漏洞描述": "IBM Maximo Asset Management是美国国际商业机器（IBM）公司的一套综合性资产生命周期和维护管理解决方案。该方案能够在一个平台上管理所有类型的资产，如设施、交通运输等，并对这些资产实现单点控制。\nIBM Maximo Asset Management 7.6.1.3版本存在文件上传漏洞，该漏洞源于应用对上传的文件缺少有效的验证。攻击者可利用该漏洞上传受限制的文件类型。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.ibm.com/support/pages/node/7174819",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7174819",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/656296",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-06",
+    "收录时间": "2025-02-18",
+    "更新时间": "2025-02-18",
+    "漏洞附件": "(无附件)"
+}
