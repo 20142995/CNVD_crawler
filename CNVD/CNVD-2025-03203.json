@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Centreon SQL注入漏洞（CNVD-2025-03203）",
+    "CNVD-ID": "CNVD-2025-03203",
+    "公开日期": "2025-02-13",
+    "危害级别": "高",
+    "影响产品": "Centreon Centreon >=24.10.x，<=24.10.3\nCentreon Centreon >=24.04.x，<=24.04.9\nCentreon Centreon >=23.10.x，<=23.10.19\nCentreon Centreon >=23.04.x，<=23.04.24",
+    "CVE ID": "CVE-2024-55573",
+    "漏洞描述": "Centreon是法国Centreon公司的一套开源的系统监控工具。该产品主要提供对网络、系统和应用程序等资源的监控功能。\nCentreon centreon-web存在SQL注入漏洞，该漏洞源于应用缺少对外部输入SQL语句的验证。攻击者可利用该漏洞将SQL注入到用于创建虚拟指标的表单中。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-55573",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://docs.centreon.com/docs/update/update-centreon-platform/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/654906",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-06",
+    "收录时间": "2025-02-19",
+    "更新时间": "2025-02-19",
+    "漏洞附件": "(无附件)"
+}
