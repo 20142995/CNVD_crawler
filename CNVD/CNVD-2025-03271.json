@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Dell PowerProtect DD权限提升漏洞",
+    "CNVD-ID": "CNVD-2025-03271",
+    "公开日期": "2025-02-13",
+    "危害级别": "中",
+    "影响产品": "DELL Data Domain Operating System <8.3.0.0\nDELL Data Domain Operating System <7.10.1.50\nDELL Data Domain Operating System  <7.13.1.20",
+    "CVE ID": "CVE-2024-53295",
+    "漏洞描述": "Dell PowerProtect DD是戴尔公司的数据保护解决方案，用于备份和恢复数据。\nDell PowerProtect DD存在安全漏洞。攻击者可利用该漏洞导致权限提升。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-53295",
+    "漏洞解决方案": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.dell.com/support/kbdoc/en-us/000279157/dsa-2025-022-security-update-for-dell-powerprotect-dd-multiple-vulnerabilities",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/655946",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-10",
+    "收录时间": "2025-02-20",
+    "更新时间": "2025-02-20",
+    "漏洞附件": "(无附件)"
+}

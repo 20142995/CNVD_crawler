@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Google Pixel缓冲区溢出漏洞（CNVD-2025-03266）",
+    "CNVD-ID": "CNVD-2025-03266",
+    "公开日期": "2025-02-13",
+    "危害级别": "中",
+    "影响产品": "Google Android",
+    "CVE ID": "CVE-2018-9402",
+    "漏洞描述": "Google Pixel是美国谷歌（Google）公司的一款智能手机。\nGoogle Pixel存在缓冲区溢出漏洞，该漏洞源于gl_proc.c的多个函数中缺少边界检查，攻击者可利用该漏洞导致权限升级。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-9402",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://source.android.com/security/bulletin/pixel/2018-06-01",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/655976",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-13",
+    "收录时间": "2025-02-20",
+    "更新时间": "2025-02-20",
+    "漏洞附件": "(无附件)"
+}
