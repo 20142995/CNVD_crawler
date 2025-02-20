@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "SunGrow WiNet-S存储消息堆栈缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-03253",
+    "公开日期": "2025-02-21",
+    "危害级别": "高",
+    "影响产品": "SunGrow SunGrow WiNet-S <=V200.001.00.P027",
+    "CVE ID": "CVE-2024-50694",
+    "漏洞描述": "SunGrow WiNet-S是中国阳光电源（SunGrow）公司的一个局域网通信模块。\nSunGrow WiNet-S存储消息存在堆栈缓冲区溢出漏洞。该漏洞源于在复制MQTT消息的时间戳读取时，基础代码不会检查用于存储消息的缓冲区的界限。攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://en.sungrowpower.com/security-notice-detail-2/5961",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://en.sungrowpower.com/security-notice-detail-2/5961",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/656711",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-06",
+    "收录时间": "2025-02-20",
+    "更新时间": "2025-02-20",
+    "漏洞附件": "(无附件)"
+}
