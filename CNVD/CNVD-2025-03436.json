@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Azure Monitor Agent权限提升漏洞（CNVD-2025-03436）",
+    "CNVD-ID": "CNVD-2025-03436",
+    "公开日期": "2025-02-14",
+    "危害级别": "中",
+    "影响产品": "Microsoft Azure Monitor Agent <1.26.0",
+    "CVE ID": "CVE-2024-30060",
+    "漏洞描述": "Microsoft Azure是美国微软（Microsoft）公司的一套开放的企业级云计算平台。\nMicrosoft Azure Monitor Agent存在权限提升漏洞，该漏洞源于存在权限提升漏洞。攻击者可以利用该漏洞进行进一步恶意操作。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-30060",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30060",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/656076",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-11",
+    "收录时间": "2025-02-21",
+    "更新时间": "2025-02-21",
+    "漏洞附件": "(无附件)"
+}
