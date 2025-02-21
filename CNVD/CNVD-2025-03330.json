@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "YesWiki跨站脚本漏洞（CNVD-2025-03330）",
+    "CNVD-ID": "CNVD-2025-03330",
+    "公开日期": "2025-02-20",
+    "危害级别": "高",
+    "影响产品": "YesWiki YesWiki <=4.4.5",
+    "CVE ID": "CVE-2025-24018",
+    "漏洞描述": "YesWiki是法国YesWiki组织的一个用PHP编写的wiki系统。用于以协作方式创建和管理网站。\nYesWiki 4.4.5及之前版本存在跨站脚本漏洞，该漏洞源于attach组件处理不存在的文件名时输入验证不当，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/YesWiki/yeswiki/blob/v4.4.5/tools/attach/libs/attach.lib.php#L660",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/YesWiki/yeswiki/security/advisories/GHSA-w59h-3x3q-3p6j",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/656856",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-19",
+    "收录时间": "2025-02-21",
+    "更新时间": "2025-02-21",
+    "漏洞附件": "(无附件)"
+}
