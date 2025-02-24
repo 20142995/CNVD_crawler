@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Fortinet FortiManager路径遍历漏洞",
+    "CNVD-ID": "CNVD-2025-03521",
+    "公开日期": "2025-02-20",
+    "危害级别": "中",
+    "影响产品": "Fortinet FortiManager 7.0.x\nFortinet FortiManager >=7.4.0，<=7.4.2\nFortinet FortiManager >=7.2.0，<=7.2.5",
+    "CVE ID": "CVE-2024-32115",
+    "漏洞描述": "Fortinet FortiManager是美国飞塔（Fortinet）公司的一套集中化网络安全管理平台。该平台支持集中管理任意数量的Fortinet设备，并能够将设备分组到不同的管理域（ADOM）进一步简化多设备安全部署与管理。\nFortinet FortiManager存在路径遍历漏洞，该漏洞源于程序未能正确地过滤资源或文件路径中的特殊元素。攻击者可利用该漏洞通过特制的HTTP或HTTPs请求从底层文件系统中删除文件。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-32115",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.fortinet.com/psirt/FG-IR-24-097",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/656691",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-23",
+    "收录时间": "2025-02-24",
+    "更新时间": "2025-02-24",
+    "漏洞附件": "(无附件)"
+}

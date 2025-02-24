@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Cisco Nexus Dashboard Fabric Controller SQL注入漏洞",
+    "CNVD-ID": "CNVD-2025-03535",
+    "公开日期": "2025-02-20",
+    "危害级别": "高",
+    "影响产品": "Cisco nexus dashboard fabric controller 12.1",
+    "CVE ID": "CVE-2024-20536",
+    "漏洞描述": "Cisco Nexus Dashboard Fabric Controller是一款云和数据中心网络管理软件控制器，能够简化数据中心网络的运营和管理。\nCisco Nexus Dashboard Fabric Controller存在SQL注入漏洞，远程攻击者可以利用该漏洞提交特殊的SQL请求，操作数据库，可获取敏感信息或执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-20536",
+    "漏洞解决方案": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ndfc-sqli-CyPPAxrL",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/656836",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-11",
+    "收录时间": "2025-02-24",
+    "更新时间": "2025-02-24",
+    "漏洞附件": "(无附件)"
+}

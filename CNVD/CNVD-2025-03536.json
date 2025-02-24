@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Cisco Application Policy Infrastructure Controller访问控制错误漏洞（CNVD-2025-03536）",
+    "CNVD-ID": "CNVD-2025-03536",
+    "公开日期": "2025-02-20",
+    "危害级别": "中",
+    "影响产品": "Cisco Cisco Application Policy Infrastructure Controller <6.0(6c)\nCisco Cisco Application Policy Infrastructure Controller <5.3(2c)",
+    "CVE ID": "CVE-2024-20279",
+    "漏洞描述": "Cisco Application Policy Infrastructure Controller（APIC）是美国思科（Cisco）公司的一款自动化的基础架构部署和治理解决方案。\nCisco Application Policy Infrastructure Controller存在访问控制错误漏洞，该漏洞源于使用受限制的安全域来实现多租户时访问控制不当，经过身份验证的远程攻击者可利用该漏洞修改受影响系统上默认系统策略的行为，例如服务质量(QoS)策略。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-20279",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apic-cousmo-uBpBYGbq",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/656826",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-30",
+    "收录时间": "2025-02-24",
+    "更新时间": "2025-02-24",
+    "漏洞附件": "(无附件)"
+}

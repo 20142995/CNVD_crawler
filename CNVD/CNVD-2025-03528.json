@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Cisco AsyncOS跨站脚本漏洞（CNVD-2025-03528）",
+    "CNVD-ID": "CNVD-2025-03528",
+    "公开日期": "2025-02-20",
+    "危害级别": "中",
+    "影响产品": "Cisco Asyncos null",
+    "CVE ID": "CVE-2025-20180",
+    "漏洞描述": "Cisco AsyncOS是美国思科（Cisco）公司的一款应用于思科设备的操作系统。\nCisco AsyncOS存在跨站脚本漏洞，该漏洞源于用户输入验证不当，远程攻击者可利用该漏洞通过特制链接执行任意脚本代码或访问敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-20180",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-sma-xss-WCk2WcuG",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/656796",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-18",
+    "收录时间": "2025-02-24",
+    "更新时间": "2025-02-24",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Fortinet FortiPortal跨站脚本漏洞（CNVD-2025-03523）",
+    "CNVD-ID": "CNVD-2025-03523",
+    "公开日期": "2025-02-20",
+    "危害级别": "中",
+    "影响产品": "FortiPortal FortiPortal >=6.0.0，<=6.0.14",
+    "CVE ID": "CVE-2024-52967",
+    "漏洞描述": "Fortinet FortiPortal是美国飞塔（Fortinet）公司的FortiGate、FortiWiFi和FortiAP产品线的高级、功能丰富的托管安全分析和管理支持工具，可作为虚拟机供MSP使用。\nFortinet FortiPortal存在跨站脚本漏洞，该漏洞源于网页中脚本相关html标签的不当中和，攻击者可利用该漏洞通过html注入执行未经授权的代码或命令。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-52967",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.fortinet.com/psirt/FG-IR-24-211",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/656701",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-23",
+    "收录时间": "2025-02-24",
+    "更新时间": "2025-02-24",
+    "漏洞附件": "(无附件)"
+}

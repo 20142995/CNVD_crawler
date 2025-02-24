@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Fortinet FortiVoice操作系统命令注入漏洞",
+    "CNVD-ID": "CNVD-2025-03525",
+    "公开日期": "2025-02-20",
+    "危害级别": "中",
+    "影响产品": "Fortinet FortiVoice >=7.0.0，<=7.0.4\nFortinet FortiVoice <6.4.9",
+    "CVE ID": "CVE-2024-40587",
+    "漏洞描述": "Fortinet FortiVoice是美国飞塔（Fortinet）公司的一款网络通信解决方案。\nFortinet FortiVoice存在操作系统命令注入漏洞，该漏洞源于操作系统命令中使用的特殊元素的不当中和，攻击者可利用该漏洞通过特制的CLI请求执行未经授权的代码或命令。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-40587",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.fortinet.com/psirt/FG-IR-24-304",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/656751",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-23",
+    "收录时间": "2025-02-24",
+    "更新时间": "2025-02-24",
+    "漏洞附件": "(无附件)"
+}
