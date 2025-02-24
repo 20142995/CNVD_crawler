@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apache Ranger跨站脚本漏洞（CNVD-2025-03540）",
+    "CNVD-ID": "CNVD-2025-03540",
+    "公开日期": "2025-02-17",
+    "危害级别": "中",
+    "影响产品": "Apache Apache Ranger 2.4.0",
+    "CVE ID": "CVE-2024-45478",
+    "漏洞描述": "Apache Ranger是美国阿帕奇（Apache）基金会的一套为Hadoop集群实现全面安全措施的架构。该产品针对授权、结算和数据保护等核心企业安全要求，提供中央安全政策管理。\nApache Ranger 2.4.0版本存在跨站脚本漏洞，该漏洞源于Apache Ranger UI的编辑服务页面对用户提供的数据缺乏有效过滤与转义，攻击者利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "http://www.openwall.com/lists/oss-security/2025/01/21/3",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://cwiki.apache.org/confluence/display/RANGER/Vulnerabilities+found+in+Ranger",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/656176",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-08",
+    "收录时间": "2025-02-24",
+    "更新时间": "2025-02-24",
+    "漏洞附件": "(无附件)"
+}

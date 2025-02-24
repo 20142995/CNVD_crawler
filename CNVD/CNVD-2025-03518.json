@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Fortinet FortiOS缓冲区溢出漏洞（CNVD-2025-03518）",
+    "CNVD-ID": "CNVD-2025-03518",
+    "公开日期": "2025-02-19",
+    "危害级别": "高",
+    "影响产品": "Fortinet FortiOS >=7.2.4，<=7.2.8\nFortinet FortiOS >=7.4.0，<=7.4.4",
+    "CVE ID": "CVE-2024-35279",
+    "漏洞描述": "Fortinet FortiOS是美国飞塔（Fortinet）公司的一套专用于FortiGate网络安全平台上的安全操作系统。该系统为用户提供防火墙、防病毒、IPSec/SSLVPN、Web内容过滤和反垃圾邮件等多种安全功能。\nFortinet FortiOS存在缓冲区溢出漏洞，该漏洞源于应用在处理不受信任的输入时出现边界错误。远程攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务攻击。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://fortiguard.fortinet.com/psirt/FG-IR-24-160",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.com/psirt/FG-IR-24-160",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/656671",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-17",
+    "收录时间": "2025-02-24",
+    "更新时间": "2025-02-24",
+    "漏洞附件": "(无附件)"
+}
