@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "TOTOLINK EX1800T cstecgi.cgi sub_40662C堆栈溢出漏洞",
+    "CNVD-ID": "CNVD-2025-03614",
+    "公开日期": "2025-02-25",
+    "危害级别": "高",
+    "影响产品": "TOTOLINK EX1800T 9.1.0cu.2112_B20220316",
+    "CVE ID": "CVE-2024-12352",
+    "漏洞描述": "TOTOLINK EX1800T是中国吉翁电子（TOTOLINK）公司的一款Wi-Fi范围扩展器。\nTOTOLINK EX1800T cstecgi.cgi sub_40662C存在堆栈溢出漏洞，该漏洞源于/cgi-bin/cstecgi.cgi文件的sub_40662C函数的ssid参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-12352",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.totolink.net/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/659241",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-13",
+    "收录时间": "2025-02-25",
+    "更新时间": "2025-02-25",
+    "漏洞附件": "(无附件)"
+}
