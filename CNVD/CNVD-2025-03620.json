@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Open5GS Uplink NAS Transport数据包拒绝服务漏洞",
+    "CNVD-ID": "CNVD-2025-03620",
+    "公开日期": "2025-02-25",
+    "危害级别": "高",
+    "影响产品": "Open5GS Open5GS <=2.6.4",
+    "CVE ID": "CVE-2023-37023",
+    "漏洞描述": "Open5GS是Open5GS开源的一个5G Core和Epc的C语言开源实现，即Lte/Nr网络的核心网络。\nOpen5GS 2.6.4版本及之前版本存在拒绝服务漏洞，该漏洞源于在Uplink NAS Transport数据包处理程序中包含可达断言。攻击者可利用此漏洞通过MME_UE_S1AP_ID字段的数据包会导致Open5gs崩溃。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2023-37023",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://open5gs.org/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/659261",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-08",
+    "收录时间": "2025-02-25",
+    "更新时间": "2025-02-25",
+    "漏洞附件": "(无附件)"
+}

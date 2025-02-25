@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Open5GS mme_ue_find_by_imsi函数拒绝服务漏洞",
+    "CNVD-ID": "CNVD-2025-03617",
+    "公开日期": "2025-02-25",
+    "危害级别": "高",
+    "影响产品": "Open5GS Open5GS <=2.6.4",
+    "CVE ID": "CVE-2024-24430",
+    "漏洞描述": "Open5GS是Open5GS开源的一个5G Core和Epc的C语言开源实现，即Lte/Nr网络的核心网络。\nOpen5GS 2.6.4及之前版本存在拒绝服务漏洞，该漏洞源于mme_ue_find_by_imsi函数中的可达断言，攻击者可利用此漏洞通过精心设计的NAS数据包引发拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-24430",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：h\nttps://github.com/open5gs/open5gs/releases/tag/v2.7.2",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/659246",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-08",
+    "收录时间": "2025-02-25",
+    "更新时间": "2025-02-25",
+    "漏洞附件": "(无附件)"
+}
