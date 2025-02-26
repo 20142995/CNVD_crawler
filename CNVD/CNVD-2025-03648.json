@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Google Android存在未明漏洞（CNVD-2025-03648）",
+    "CNVD-ID": "CNVD-2025-03648",
+    "公开日期": "2025-02-27",
+    "危害级别": "高",
+    "影响产品": "Google Android",
+    "CVE ID": "CVE-2024-40670",
+    "漏洞描述": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。\nGoogle Android存在安全漏洞，攻击者可利用该漏洞提升权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://source.android.com/security/bulletin/2024-10-01",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/2024-10-01",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/659396",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-17",
+    "收录时间": "2025-02-25",
+    "更新时间": "2025-02-25",
+    "漏洞附件": "(无附件)"
+}
