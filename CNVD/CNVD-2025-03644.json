@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Google Android权限提升漏洞（CNVD-2025-03644）",
+    "CNVD-ID": "CNVD-2025-03644",
+    "公开日期": "2025-02-27",
+    "危害级别": "高",
+    "影响产品": "Google Android <12\nGoogle Android <12L\nGoogle Android <13\nGoogle Android <14\nGoogle Android <15",
+    "CVE ID": "CVE-2024-43095",
+    "漏洞描述": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。\nGoogle Android存在权限提升漏洞，该漏洞是由于代码中的逻辑错误，攻击者可利用该漏洞导致本地特权升级。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-43095",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/2025-01-01",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/659381",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-19",
+    "收录时间": "2025-02-25",
+    "更新时间": "2025-02-25",
+    "漏洞附件": "(无附件)"
+}
