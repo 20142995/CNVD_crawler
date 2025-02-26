@@ -9,7 +9,7 @@ import hashlib
 requests.packages.urllib3.disable_warnings()
 
 
-class JslSession:
+class CNVDSession:
     def __init__(self):
         self.session = requests.Session()
         self.session.headers.update({
@@ -90,7 +90,7 @@ def parse_data(data):
 
 
 def main():
-    session = JslSession()
+    session = CNVDSession()
     page = 0
     size = 100
     params = {'flag': True, 'numPerPage': size,
