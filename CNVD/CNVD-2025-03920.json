@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "mySCADA myPRO跨站请求伪造漏洞",
+    "CNVD-ID": "CNVD-2025-03920",
+    "公开日期": "2025-02-27",
+    "危害级别": "高",
+    "影响产品": "mySCADA myPRO <1.4",
+    "CVE ID": "CVE-2025-23411",
+    "漏洞描述": "mySCADA myPRO是mySCADA公司的一个专业的HMI/SCADA系统，主要设计用于工业过程的可视化和控制。\nmySCADA myPRO存在跨站请求伪造漏洞，该漏洞源于未正确验证请求。攻击者可利用该漏洞获取敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-044-16",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.myscada.org/downloads/mySCADAPROManager/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/661121",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-18",
+    "收录时间": "2025-02-27",
+    "更新时间": "2025-02-27",
+    "漏洞附件": "(无附件)"
+}
