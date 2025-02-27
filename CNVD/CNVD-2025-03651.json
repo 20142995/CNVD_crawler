@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Google Chrome代码执行漏洞（CNVD-2025-03651）",
+    "CNVD-ID": "CNVD-2025-03651",
+    "公开日期": "2025-02-28",
+    "危害级别": "高",
+    "影响产品": "Google Chrome <133.0.6943.98",
+    "CVE ID": "CVE-2025-0998",
+    "漏洞描述": "Google Chrome是美国谷歌（Google）公司的一款Web浏览器。\nGoogle Chrome存在代码执行漏洞，该漏洞是由V8中的越界内存访问引起的。攻击者可利用该漏洞在系统上执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://chromereleases.googleblog.com/2025/02/stable-channel-update-for-desktop_12.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://chromereleases.googleblog.com/2025/02/stable-channel-update-for-desktop_12.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/659416",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-17",
+    "收录时间": "2025-02-25",
+    "更新时间": "2025-02-25",
+    "漏洞附件": "(无附件)"
+}
